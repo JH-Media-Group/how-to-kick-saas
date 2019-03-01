@@ -16,7 +16,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -28,10 +28,11 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>LuckyOrange</p>
         <p>http://www.luckyorange.com</p>
       </td>
-      <td style="text-align:left">The system allows you to see your users’ mouse movements in real time,
-        record movements, setup funnels, and run tons of reports.</td>
-      <td style="text-align:left">$20/mo</td>
-      <td style="text-align:left">5 / 5</td>
+      <td style="text-align:left">The system allows you to see your users&#x2019; mouse movements in real
+        time, record movements, setup funnels, and run tons of reports.</td>
+      <td
+      style="text-align:left">$20/mo</td>
+        <td style="text-align:left">5 / 5</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -39,8 +40,8 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>https://www.hotjar.com</p>
       </td>
       <td style="text-align:left">Very similar to LuckyOrange. Better looking and easier to use, also has
-        a few features that LuckyOrange doesn’t. But can get substantially more
-        expensive if you have a lot of traffic.</td>
+        a few features that LuckyOrange doesn&#x2019;t. But can get substantially
+        more expensive if you have a lot of traffic.</td>
       <td style="text-align:left">$29/mo</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -50,7 +51,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>https://optimize.google.com</p>
       </td>
       <td style="text-align:left">Great system for running experiments on your messaging and text. Best
-        of all, it’s free!</td>
+        of all, it&#x2019;s free!</td>
       <td style="text-align:left">$0</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -73,7 +74,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -89,28 +90,29 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         design and implement these systems without needing a designer then allows
         you to test the value of each system.</td>
       <td style="text-align:left">$79/mo</td>
-      <td style="text-align:left">I haven’t actually used this system, but I have heard great things.</td>
+      <td style="text-align:left">I haven&#x2019;t actually used this system, but I have heard great things.</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>Leadpages</p>
         <p>https://www.leadpages.net</p>
       </td>
-      <td style="text-align:left">This is a landing page & popup builder. It allows you to design and implement
-        these systems without needing a designer then allows you to test the value
-        of each system.</td>
+      <td style="text-align:left">This is a landing page &amp; popup builder. It allows you to design and
+        implement these systems without needing a designer then allows you to test
+        the value of each system.</td>
       <td style="text-align:left">$25/mo but they change pricing all the time.</td>
       <td style="text-align:left">4 / 5 I thought it was overpriced at the time for what I got. That was
         a long time ago now though and the overall quality was good.</td>
     </tr>
     <tr>
       <td style="text-align:left">Kyvio</td>
-      <td style="text-align:left">This is a landing page & popup builder that also does a lot with lead
+      <td style="text-align:left">This is a landing page &amp; popup builder that also does a lot with lead
         funnels. It allows you to design and implement these systems without needing
         a designer then allows you to test the value of each system.</td>
       <td style="text-align:left">$29/mo</td>
-      <td style="text-align:left">I also haven’t used this system, but it is owned by a buddy of mine who
-        is a very, very smart guy and was in one of my stories in this book.</td>
+      <td style="text-align:left">I also haven&#x2019;t used this system, but it is owned by a buddy of
+        mine who is a very, very smart guy and was in one of my stories in this
+        book.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -133,7 +135,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -202,7 +204,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -271,11 +273,11 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Buzzstream</p>
         <p>https://idb.buzzstream.com/</p>
       </td>
-      <td style="text-align:left">Want to know who is talking about what? Here’s your tool. Enter your topic
-        and see who wrote what article. This is a critical tool influencer marketing.</td>
-      <td
-      style="text-align:left">Free</td>
-        <td style="text-align:left">5 / 5</td>
+      <td style="text-align:left">Want to know who is talking about what? Here&#x2019;s your tool. Enter
+        your topic and see who wrote what article. This is a critical tool influencer
+        marketing.</td>
+      <td style="text-align:left">Free</td>
+      <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
 </table>### Marketing Automation & Email Marketing
@@ -283,7 +285,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -307,7 +309,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Drip</p>
         <p>Drip.com</p>
       </td>
-      <td style="text-align:left">We’ve used drip for years now and they have been a solid system.</td>
+      <td style="text-align:left">We&#x2019;ve used drip for years now and they have been a solid system.</td>
       <td
       style="text-align:left">$49/mo</td>
         <td style="text-align:left">5 / 5</td>
@@ -355,7 +357,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -407,7 +409,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -420,8 +422,8 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>analytics.google.com</p>
       </td>
       <td style="text-align:left">Of course, this has to be first. It is by far the best free analytics
-        system out there and I don’t know any serious web-based entrepreneur who
-        doesn’t use Google Analytics.</td>
+        system out there and I don&#x2019;t know any serious web-based entrepreneur
+        who doesn&#x2019;t use Google Analytics.</td>
       <td style="text-align:left">FREE</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -432,11 +434,12 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
           <br />
         </p>
       </td>
-      <td style="text-align:left">Baremetrics helps you understand how you’re doing from a SaaS perspective.
-        It gives you SaaS specific metrics and tracks your KPIs. If you’re going
-        to grow a serious SaaS, you’re probably going to end up here.</td>
-      <td style="text-align:left">$50/mo</td>
-      <td style="text-align:left">5 / 5</td>
+      <td style="text-align:left">Baremetrics helps you understand how you&#x2019;re doing from a SaaS perspective.
+        It gives you SaaS specific metrics and tracks your KPIs. If you&#x2019;re
+        going to grow a serious SaaS, you&#x2019;re probably going to end up here.</td>
+      <td
+      style="text-align:left">$50/mo</td>
+        <td style="text-align:left">5 / 5</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -458,7 +461,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -472,8 +475,9 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
       </td>
       <td style="text-align:left">This is a great time tracking tool. We used this for years when the company
         first started and for some reason went on to other tools. Over the last
-        couple years we’ve been coming back to this tool more and more. The reporting
-        is great, it’s easy to use, and overall does a great job.</td>
+        couple years we&#x2019;ve been coming back to this tool more and more.
+        The reporting is great, it&#x2019;s easy to use, and overall does a great
+        job.</td>
       <td style="text-align:left">$12/user/mo</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -495,7 +499,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -532,7 +536,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Zoom</p>
         <p>Zoom.us</p>
       </td>
-      <td style="text-align:left">Zoom has taken over as our video conferencing tool of choice. While it’s
+      <td style="text-align:left">Zoom has taken over as our video conferencing tool of choice. While it&#x2019;s
         not free like Skype, it is well worth the money if you are on calls all
         day. I probably use Zoom 5 times a day minimum, and would have a hard time
         living without it.</td>
@@ -541,11 +545,11 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
     </tr>
     <tr>
       <td style="text-align:left">Skype</td>
-      <td style="text-align:left">We used Skype for a long time. But these days it just isn’t as reliable.
-        Or perhaps its reliability hasn’t improved and everything else has.</td>
-      <td
-      style="text-align:left">FREE</td>
-        <td style="text-align:left">3 / 5</td>
+      <td style="text-align:left">We used Skype for a long time. But these days it just isn&#x2019;t as
+        reliable. Or perhaps its reliability hasn&#x2019;t improved and everything
+        else has.</td>
+      <td style="text-align:left">FREE</td>
+      <td style="text-align:left">3 / 5</td>
     </tr>
   </tbody>
 </table>### Title
@@ -553,7 +557,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -581,8 +585,8 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>https://www.atlassian.com/software/jira</p>
       </td>
       <td style="text-align:left">Ok, so I feel like the <a href="https://www.youtube.com/playlist?list=PLL8Izz0aVFTIFBiCmyZUKlBPjiVfaJeyq">videos we did on JIRA from my agency that talked about how to use the system and why we love it so much</a> probably
-        gave away my feelings on this. But I’ll go ahead and say it here as well.
-        We LOVE JIRA. It is the best tool out there for dev project management
+        gave away my feelings on this. But I&#x2019;ll go ahead and say it here
+        as well. We LOVE JIRA. It is the best tool out there for dev project management
         in my opinion. There is a learning curve, but the more powerful a system
         is, the steeper the learning curve.</td>
       <td style="text-align:left">$10//mo for first 10 users</td>
@@ -593,22 +597,22 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Teamwork</p>
         <p>https://www.teamwork.com</p>
       </td>
-      <td style="text-align:left">Can’t leave out systems like Teamwork! I have used this only on the surface
-        level during a collaboration with another team and it was a great tool.</td>
-      <td
-      style="text-align:left">FREE</td>
-        <td style="text-align:left">5 / 5</td>
+      <td style="text-align:left">Can&#x2019;t leave out systems like Teamwork! I have used this only on
+        the surface level during a collaboration with another team and it was a
+        great tool.</td>
+      <td style="text-align:left">FREE</td>
+      <td style="text-align:left">5 / 5</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>Trello</p>
         <p>trello.com</p>
       </td>
-      <td style="text-align:left">So many times over the years we’ve fallen back on the handy Trello. It’s
-        like a soft cushion to land on when all other systems fail, or cost money,
-        or whatever. It’s a great tool to get started in planning systems and manage
-        workflows. Not as powerful as the paid tools, but a great one to fall back
-        on.</td>
+      <td style="text-align:left">So many times over the years we&#x2019;ve fallen back on the handy Trello.
+        It&#x2019;s like a soft cushion to land on when all other systems fail,
+        or cost money, or whatever. It&#x2019;s a great tool to get started in
+        planning systems and manage workflows. Not as powerful as the paid tools,
+        but a great one to fall back on.</td>
       <td style="text-align:left">FREE</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -618,7 +622,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -634,9 +638,9 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
       </td>
       <td style="text-align:left">Documentation is severely underrated. Confluence makes documenting everything
         from SOPs to decision logs fast, easy, and searchable in ways never before
-        possible. If you’re running a SaaS, or almost any business for that matter,
-        you should be documenting a ton of stuff, and this is the tool to do the
-        job.</td>
+        possible. If you&#x2019;re running a SaaS, or almost any business for that
+        matter, you should be documenting a ton of stuff, and this is the tool
+        to do the job.</td>
       <td style="text-align:left">$10/mo for the first 10 users.</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -645,10 +649,10 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>BrainLeaf</p>
         <p>brainleaf.com</p>
       </td>
-      <td style="text-align:left">When you’re getting ready to embark on that big new project, you need
-        to know what you’re getting yourself into. There is no better tool for
-        planning out hours on a project, before tasks are planned in JIRA, than
-        using BrainLeaf. We use this tool to plan out pretty much every single
+      <td style="text-align:left">When you&#x2019;re getting ready to embark on that big new project, you
+        need to know what you&#x2019;re getting yourself into. There is no better
+        tool for planning out hours on a project, before tasks are planned in JIRA,
+        than using BrainLeaf. We use this tool to plan out pretty much every single
         new project we do and use the tool to get approval from our clients.</td>
       <td
       style="text-align:left">$34.95/mo for unlimited users</td>
@@ -660,7 +664,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -673,19 +677,20 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>bitbucket.org</p>
       </td>
       <td style="text-align:left">You may have noticed the running theme of endorsing all the Atlassian
-        products by now. It’s not that we get paid for it, because we don’t. Their
-        products fit together seamlessly and make our lives easier, and this is
-        no exception.</td>
+        products by now. It&#x2019;s not that we get paid for it, because we don&#x2019;t.
+        Their products fit together seamlessly and make our lives easier, and this
+        is no exception.</td>
       <td style="text-align:left">FREE for up to 5 users</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
     <tr>
       <td style="text-align:left">GitHub</td>
-      <td style="text-align:left">Github is a critical piece of the internet. It’s where most of us started
-        with our first repos and where a vast number of repositories reside. This
-        is a great tool for storing and managing your code.</td>
-      <td style="text-align:left">FREE</td>
-      <td style="text-align:left">5 / 5</td>
+      <td style="text-align:left">Github is a critical piece of the internet. It&#x2019;s where most of
+        us started with our first repos and where a vast number of repositories
+        reside. This is a great tool for storing and managing your code.</td>
+      <td
+      style="text-align:left">FREE</td>
+        <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
 </table>### ChatBots
@@ -693,7 +698,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -705,9 +710,9 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Intercom</p>
         <p>intercom.com</p>
       </td>
-      <td style="text-align:left">Intercom, as far as I know, is the market leader right now. They’re also
-        pricey. But I guess that what it takes to be the best? The system is intuitive,
-        fast, and well done.</td>
+      <td style="text-align:left">Intercom, as far as I know, is the market leader right now. They&#x2019;re
+        also pricey. But I guess that what it takes to be the best? The system
+        is intuitive, fast, and well done.</td>
       <td style="text-align:left">$136/mo</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -717,12 +722,12 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>Chatbot.com</p>
       </td>
       <td style="text-align:left">As I was doing my research on this area, I ran across chatbot.com, and
-        I really like this one. I haven’t used it, but I am considering giving
-        it a little test run. I also really liked their pricing of $50/mo and $.01
-        per conversation after the first 1k conversations.</td>
+        I really like this one. I haven&#x2019;t used it, but I am considering
+        giving it a little test run. I also really liked their pricing of $50/mo
+        and $.01 per conversation after the first 1k conversations.</td>
       <td style="text-align:left">$50/mo for the first 1k conversations and $.01 for every additional conversation</td>
       <td
-      style="text-align:left">Haven’t tried it yet, but it looks promising.</td>
+      style="text-align:left">Haven&#x2019;t tried it yet, but it looks promising.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -730,9 +735,9 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>verloop.io</p>
       </td>
       <td style="text-align:left">This is kind of a no-name chatbot, but I bought it on a LTD and have used
-        it ongoing at a few different companies. So far, it’s working great, and
-        they verloop team keeps adding more and more. Given that I just paid an
-        up front fee for this one, it’s been a great value!</td>
+        it ongoing at a few different companies. So far, it&#x2019;s working great,
+        and they verloop team keeps adding more and more. Given that I just paid
+        an up front fee for this one, it&#x2019;s been a great value!</td>
       <td style="text-align:left">FREE</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
@@ -742,7 +747,7 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">System Title & Link</th>
+      <th style="text-align:left">System Title &amp; Link</th>
       <th style="text-align:left">Notes</th>
       <th style="text-align:left">Starting Cost</th>
       <th style="text-align:left">Rating / Review</th>
@@ -754,9 +759,9 @@ Note: If a system didn’t include pricing on the website, I didn’t include it
         <p>ZenDesk</p>
         <p>zendesk.com</p>
       </td>
-      <td style="text-align:left">ZenDesk is definitely the market leader here. I feel like it’s been around
-        forever. Given that its a support tool, it’s no wonder their support is
-        so good.</td>
+      <td style="text-align:left">ZenDesk is definitely the market leader here. I feel like it&#x2019;s
+        been around forever. Given that its a support tool, it&#x2019;s no wonder
+        their support is so good.</td>
       <td style="text-align:left">$89/mo for their entire suite of tools</td>
       <td style="text-align:left">5 / 5</td>
     </tr>
