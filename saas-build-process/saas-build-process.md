@@ -6,6 +6,12 @@ Congratulations! You were able to successfully pre-sell your new SaaS idea and y
 
 I’ve made a lot of mistakes since 2007 when I started my first SaaS. These are the most important lessons I wish someone had told me about or made me do starting back then.  
 
+Check out the webinar:
+
+{% embed url="https://www.youtube.com/watch?v=dSRg1oIy6eg" %}
+
+
+
 ## 1. No one is going to guide this better than you.
 
 You need to understand what is happening, what the process should be, what is going on, when to listen to people, when to not listen to people, and how to guide the build of the system. You cannot expect anyone to guide this process better than you.
@@ -52,7 +58,9 @@ Next, these unit tests also include regression testing. This means that as you b
 
 Tests generally take between 10% & 20% of the total build time to construct and implement -- however, the larger the system is, the more time the tests save. Furthermore, tests take longer to build after features have been completed than during the build, so adding them later is going to add time that you may not have until you have to implement them. 
 
-Don’t skimp on your tests, or you will regret it later! 
+{% hint style="info" %}
+**PROTIP:** Don’t skimp on your regression tests or you will regret it! 
+{% endhint %}
 
 ### SaaS System Build & Continuous Integration
 

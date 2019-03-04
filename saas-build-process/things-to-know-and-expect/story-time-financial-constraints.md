@@ -1,3 +1,9 @@
+---
+description: >-
+  People say they want the best of the best, but when it comes down to it, then
+  want what they can afford.
+---
+
 # Story Time: The Best of the Best
 
 Over last many years in this industry, I’ve worked on a number projects large and small. The most experienced team I’ve worked with though has been from a quantum computing company building SaaS solutions for enterprise level clients. This is a company that solves world-wide problems.

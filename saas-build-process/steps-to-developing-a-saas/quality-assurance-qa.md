@@ -2,11 +2,9 @@
 
 ## QA is the place in the project that so many people falter. 
 
-Entrepreneurs getting to this point often don’t realize what goes into it and thus underestimate the time it takes to do this, and both developers and project managers get to this point around the time they are getting tired on the project MVP or release. So understanding the amount of work and time it takes to get a project ready for release is critical to creating a solid user-ready system.    
+Entrepreneurs getting to this point often don’t realize what goes into it and thus underestimate the time it takes to do this, and both developers and project managers get to this point around the time they are getting tired on the project MVP or release. So understanding the amount of work and time it takes to get a project ready for release is critical to creating a solid user-ready system.  
 
-
-Digging deep into the project from multiple perspectives is key to a good release, whether it is your MVP or a new feature in a mature system. When doing QA, especially for a new system, it is critical to have multiple people looking at the system from different perspectives. Designers will see issues with the user experience or flow, final system users will see different aspects of use that could be improved upon or sometimes need to be fixed before the system can be used, and of course developers will see development issues.  
-
+Digging deep into the project from multiple perspectives is key to a good release, whether it is your MVP or a new feature in a mature system. When doing QA, especially for a new system, it is critical to have multiple people looking at the system from different perspectives. Designers will see issues with the user experience or flow, final system users will see different aspects of use that could be improved upon or sometimes need to be fixed before the system can be used, and of course developers will see development issues.
 
 ## QA Lessons:
 

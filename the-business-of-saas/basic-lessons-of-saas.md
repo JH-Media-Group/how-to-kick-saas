@@ -1,5 +1,9 @@
 # Basic Lessons of Saas
 
+## Check Out The Webinar:
+
+{% embed url="https://www.youtube.com/watch?v=Ofps7jxU6Y0" %}
+
 ## Lesson 1: When you’re building a SaaS, you’re building a business. 
 
 Most people I’ve talked to over the years about SaaS think a lot about the product and then what they’re going to be doing with their millions of dollars, but the work between those points is vital to reaching those goals. The first thing people don’t realize is that when you’re building a SaaS, you’re building a business just like any other. 

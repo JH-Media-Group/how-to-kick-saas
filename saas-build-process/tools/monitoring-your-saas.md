@@ -14,7 +14,11 @@ This will help you in two major ways, understand costs and being alerted to prob
 
 My team normally uses Digital Ocean, and from here we setup our monitoring. Each one of the items below will send an email and a notice to our Slack dev channel notifying the team of issues.
 
+### Digital Ocean Monitoring
+
 ![](https://lh3.googleusercontent.com/EquL4MCk_AfmkOoQoPLv92e5H4kR911UowP2BgMNMg7uEbPV4hdaWl36z0OtQ6ilgUa_zfe0RlzyYCoYC1oyEgNpoBa0nOK5oPJG6799m19jQVBhpXP1m2njtuBzqmya6niCJSfG)
 
-### 
+### New Relic Email
+
+![](../../.gitbook/assets/2019-03-04_13h29_44.png)
 

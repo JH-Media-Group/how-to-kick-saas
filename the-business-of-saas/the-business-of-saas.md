@@ -1,11 +1,10 @@
----
-description: >-
-  Welcome, SaaS entrepreneur! Whether you’re dreaming of a passive income stream
-  that will let you travel the world, an executive planning on taking your
-  business to the next level, a veteran SaaS opera
----
-
 # The Business of SaaS
+
+Welcome, SaaS entrepreneur! 
+
+Whether you’re dreaming of a passive income stream that will let you travel the world, an executive planning on taking your business to the next level, a veteran SaaS operator trying to grow or scale your system, or perhaps a developer or designer thinking that it’s time you turn all these years of learning to code or design into something more lucrative: this book should give you anything from a huge boost to a validation that what you thought was right was, in fact, right.
+
+This book takes you through not just the build of the system, but the ideation, validation, growth, and traction of your concept. It gives you actionable processes and takes you through the mistakes that many SaaS entrepreneurs have made. In particular, this book takes you through the mistakes that I made, lessons I learned, and misconceptions I had while building and growing my businesses over the last twenty years.
 
 ## **What is a Software as a Service \(SaaS\)?**
 
@@ -13,11 +12,14 @@ A Software as a Service \(SaaS\) is a cloud-based or partially cloud-based compu
 
 ##  What does a SaaS do?
 
-A SaaS system fulfills one of two needs: a knowledge gap or an efficiency gap.
+A SaaS system fulfills one of two needs: 
+
+* A knowledge gap 
+* An efficiency gap.
 
 This means that it either makes your target market’s job easier by doing something for them that they would otherwise be spending time or money on, or it gives them knowledge that they didn’t otherwise have. In other words, your SaaS company exists to give value to your customers, which is why why they are willing to pay for it. 
 
-Every SaaS system does one or both of these things. 
+**Every SaaS system does one or both of these things.** 
 
 ## SaaS Success Questions
 
@@ -48,13 +50,13 @@ As you can see, the majority of these questions are about pricing, sales, revenu
 
 ## The 3 A’s of Your SaaS Machine
 
-The three A’s of SaaS are:
+Now that you've got a few things on your mind about sales and marketing, now it's time to think about the levers you can pull to grow your SaaS.
+
+#### The three A’s of SaaS are:
 
 * Appraisement
 * Acquisition
 * Attrition
-
-These are the three main channels of the SaaS machine that you can manipulate to grow your SaaS business.
 
 ### Appraisement
 
@@ -88,6 +90,8 @@ You need to know:
 Obviously, the LTV has to be higher than the CAC, right? But by how much? According to [PriceIntelligently.com](http://priceintelligently.com/), it always needs to be higher than 3 to 1, preferably a lot more. That means that for every dollar you’re spending to acquire a customer, you’re making 3 dollars. According to the [same source](http://priceintelligently.com/), if you continually optimize your pricing, you can get this up to 11 to 1.
 
 Let’s examine this a bit more because it is **really important** that this part is clear.
+
+### LTV to CAC
 
 Let’s say your LTV to CAC is 3 to 1. That means that you made $3 for a spend of $1 and now have $2 left over to 1\) get the next customer and 2\) operate the business and 3\) have some money remaining \(profit\) for growth. 
 

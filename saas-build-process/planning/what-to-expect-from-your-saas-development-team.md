@@ -33,9 +33,17 @@ Here is what the [Wikipedia](https://en.wikipedia.org/wiki/Brooks%27s_law) has t
 
 Brooks points to the main factors that explain why it works this way:
 
-1. **It takes some time for the people added to a project to become productive.** Brooks calls this the "ramp up" time. Software projects are complex engineering endeavors, and new workers on the project must first become educated about the work that has preceded them; this education requires diverting resources already working on the project, temporarily diminishing their productivity while the new workers are not yet contributing meaningfully. Each new worker also needs to integrate with a team composed of several engineers who must educate the new worker in their area of expertise in the code base, day by day. In addition to reducing the contribution of experienced workers \(because of the need to train\), new workers may even make negative contributions, for example, if they introduce bugs that move the project further from completion. 
-2. **Communication overheads increase as the number of people increases.** Due to combinatorial explosion, the number of different communication channels increases rapidly with the number of people.\[3\] Everyone working on the same task needs to keep in sync, so as more people are added they spend more time trying to find out what everyone else is doing. 
-3. **Limited divisibility of tasks.** Adding more people to a highly divisible task, such as cleaning rooms in a hotel, decreases the overall task duration \(up to the point where additional workers get in each other's way\). Some tasks are less divisible; Brooks points out that while it takes one woman nine months to make one baby, "nine women can't make a baby in one month".”
+### **It takes some time for the people added to a project to become productive.** 
+
+Brooks calls this the "ramp up" time. Software projects are complex engineering endeavors, and new workers on the project must first become educated about the work that has preceded them; this education requires diverting resources already working on the project, temporarily diminishing their productivity while the new workers are not yet contributing meaningfully. Each new worker also needs to integrate with a team composed of several engineers who must educate the new worker in their area of expertise in the code base, day by day. In addition to reducing the contribution of experienced workers \(because of the need to train\), new workers may even make negative contributions, for example, if they introduce bugs that move the project further from completion.
+
+### **Communication overheads increase as the number of people increases.** 
+
+Due to combinatorial explosion, the number of different communication channels increases rapidly with the number of people.\[3\] Everyone working on the same task needs to keep in sync, so as more people are added they spend more time trying to find out what everyone else is doing.
+
+### **Limited divisibility of tasks.** 
+
+Adding more people to a highly divisible task, such as cleaning rooms in a hotel, decreases the overall task duration \(up to the point where additional workers get in each other's way\). Some tasks are less divisible; Brooks points out that while it takes one woman nine months to make one baby, "nine women can't make a baby in one month".”
 
 Please keep this in mind as you build your SaaS as it applies in most cases.
 

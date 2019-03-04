@@ -1,6 +1,8 @@
 # Alpha Testing
 
-Alpha testing is the phase where the thing kinda works, but not well enough to share with anyone other than people that know that it doesn’t work. In other words, if you’re at an alpha phase, that means you and anyone else looking at the SaaS knows that it doesn’t work or that some major features are pretty buggy.
+## What is Alpha?
+
+Alpha is the phase where the thing kinda works, but not well enough to share with anyone other than people that know that it doesn’t work. In other words, if you’re at an alpha phase, that means you and anyone else looking at the SaaS knows that it doesn’t work or that some major features are pretty buggy.
 
 The alpha testing portion is technically part of acceptance testing. This phase is the first milestone in testing. What this means is that, in this phase, the team is going to generally test internally to see where the major problem areas are located.
 
@@ -15,8 +17,7 @@ So take all those things you want to add, change, and generally improve, and put
 
 ## Content review at Alpha Testing
 
-At the alpha testing phase, you should also be reviewing all the content on the system. This means every word, every rollover, every tooltip, everything. You’re going to have a lot of things that need to be done, and this is probably the easiest thing to do that is most often overlooked. If you add a step here to review everything, it will be a lot easier when you get to future phases if you have all the content taken care of here.  
-
+At the alpha testing phase, you should also be reviewing all the content on the system. This means every word, every rollover, every tooltip, everything. You’re going to have a lot of things that need to be done, and this is probably the easiest thing to do that is most often overlooked. If you add a step here to review everything, it will be a lot easier when you get to future phases if you have all the content taken care of here.
 
 ## Iteration and fixing issues
 

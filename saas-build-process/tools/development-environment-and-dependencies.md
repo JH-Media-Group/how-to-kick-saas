@@ -14,7 +14,7 @@ Imagine if your village was growing to a town, and rather than replace and suppl
 
 Dependencies are software systems that depend on other software systems to operate. Software development is the process of standing on the shoulders of giants, standing on the shoulders of other giants, standing on… well it’s giants all the way down. These days, in software development, developers are ALWAYS using other people’s work. So it is a requirement that developers use other pre-built systems in their development. In fact, there is no modern SaaS system that exists that is not built on top of another piece of software.
 
-### Concrete & Code
+## Concrete & Code Analogy
 
 A good analogy for a software dependency is the use of concrete in the building of a house. The home builders don’t create the chemical formulas for concrete, mine the minerals, or mix the chemicals. They buy their foundation concrete from a concrete company, who often just comes out and pours it for them. Most of the time, the workers laying the concrete know a bit about it, but they are very rarely chemical engineers who formulated and tested it. They know how to use it, not create it. 
 

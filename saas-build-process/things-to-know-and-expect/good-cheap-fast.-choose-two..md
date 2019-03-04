@@ -1,6 +1,10 @@
 # Good, Cheap, Fast. Choose Two.
 
-This is a fundamental concept to understand. [One of my first videos was on this concept.](https://www.youtube.com/watch?v=ERRz7Ju5EpE) It is simple, but powerful. What this means is:
+This is a fundamental concept to understand. [One of my first videos was on this concept.](https://www.youtube.com/watch?v=ERRz7Ju5EpE) It is simple, but powerful. 
+
+{% embed url="https://www.youtube.com/watch?v=ERRz7Ju5EpE" %}
+
+
 
 ## If it’s good and cheap, it won’t be fast.
 

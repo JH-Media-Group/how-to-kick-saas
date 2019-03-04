@@ -4,8 +4,7 @@ This is a great question that so many entrepreneurs don’t know how to answer. 
 
 ## Here is the secret. 
 
-Watch their commits in their code repository. Better yet, integrate them into your communications system, such as Slack. This way, you can see every time someone adds something to the code base.  
-
+Watch their commits in their code repository. Better yet, integrate them into your communications system, such as Slack. This way, you can see every time someone adds something to the code base.
 
 A commit is an addition of code to the system. It doesn’t get integrated into the testing or live server, just into the code repo. Bear in mind that the number of commits aren’t necessarily representative of the actual amount of work being done. But if you have good Code Repo Branch Management, your developers should be committing for every different ticket they are working on and you should be able to see the code commits flashing across your desktop. You don’t have to know how to code to take a look and see if commits are being made.  
 
