@@ -4,7 +4,7 @@
 
 These are steps for the SaaS application build, not the public facing website. **Several of these items are run in parallel, but noted linearly in the list below.**
 
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 1. Planning \(also referred to as “scoping”\)
    * Information Architecture \(IA\) development
