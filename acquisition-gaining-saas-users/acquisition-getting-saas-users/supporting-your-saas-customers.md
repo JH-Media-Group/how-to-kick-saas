@@ -1,9 +1,10 @@
 # Supporting Your SaaS Customers
 
-A strong support system and reactive team is often one of the best ways to retain customers. Customers who feel good about how you treat them feel good about the product. Vise versa, if you are unresponsive, don’t get back to people, or don’t help people use your system, they will drop off quickly.  
+A strong support system and reactive team is often one of the best ways to retain customers. Customers who feel good about how you treat them feel good about the product. Vise versa, if you are unresponsive, don’t get back to people, or don’t help people use your system, they will drop off quickly.
 
-
-PROTIP: You can turn really upset customers into raving fans by treating them well and responding quickly. There are going to be problems, and people generally understand that. But if you can make them feel amazing about having problems, they will keep coming back despite the issues.
+{% hint style="success" %}
+**PROTIP:** You can turn really upset customers into raving fans by treating them well and responding quickly. There are going to be problems, and people generally understand that. But if you can make them feel amazing about having problems, they will keep coming back despite the issues.
+{% endhint %}
 
 ### Problems Scale
 

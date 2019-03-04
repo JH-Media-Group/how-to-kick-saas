@@ -3,11 +3,9 @@
 Chatbots are fantastic. I think they are one of the top time saving software systems that has recently become really mainstream. Chatbots save you time by automating responses to questions by your users. This can be questions about sales, support, or a variety of other things. In addition to the automation that a chatbot enables, virtually every chatbot also has a chat system that enables multiple representatives from your company to chat with different users simultaneously.  
 
 
-The big value for chatbots are really in the automation of information deliver though. Every minute your team is not working on supporting clients with issues that they could find through other methods is money in your pocket, so having a system that users are happy to work with that delivers the answers they are searching for suddenly becomes a profitable solution.  
+The big value for chatbots are really in the automation of information deliver though. Every minute your team is not working on supporting clients with issues that they could find through other methods is money in your pocket, so having a system that users are happy to work with that delivers the answers they are searching for suddenly becomes a profitable solution.
 
-
-Chatbots have a few foundational features that are built into almost, if not all chatbot systems. These features include:  
-
+Chatbots have a few foundational features that are built into almost, if not all chatbot systems. These features include:
 
 * Install code
 * Triggers

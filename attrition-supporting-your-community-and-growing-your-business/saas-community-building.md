@@ -14,7 +14,9 @@ Building a community does the following things for you:
 3. Creates advocates and brand ambassadors
 4. Decreases ATTRITION
 
-PROTIP: Loyal, engaged, and advocating users are a cornerstone of your business. Do whatever you need to do to make them happy. Get on the phone or do a video call with them, say hello, and make sure they know you are there to help them because when you help them, they will support you, and you’re going to need it!
+{% hint style="info" %}
+**PROTIP:** Loyal, engaged, and advocating users are a cornerstone of your business. Do whatever you need to do to make them happy. Get on the phone or do a video call with them, say hello, and make sure they know you are there to help them because when you help them, they will support you, and you’re going to need it!
+{% endhint %}
 
 #### Where to put your community
 
@@ -122,13 +124,13 @@ Make sure to keep posting! It’s easy at first, but after a few months it can g
 
 #### The Rules
 
-Don’t forget to post the rules! No matter what kind of group you’re running, you’re going to get the bad apples in there sometimes and you need to make sure to have rules to govern the group. Different groups have different rules for different reasons, so I can’t really tell you which rules are best for you.  
+Don’t forget to post the rules! No matter what kind of group you’re running, you’re going to get the bad apples in there sometimes and you need to make sure to have rules to govern the group. Different groups have different rules for different reasons, so I can’t really tell you which rules are best for you.
 
+{% hint style="info" %}
+**PROTIP:** Remember, rules can be bent and broken, but if you don’t have them to start you can’t enforce them when you need them!
+{% endhint %}
 
-PROTIP: Remember, rules can be bent and broken, but if you don’t have them to start you can’t enforce them when you need them!
-
-Here are a set of rules you may want to start with. This was taken and modified from a couple different Facebook Groups I am a member of:  
-
+Here are a set of rules you may want to start with. This was taken and modified from a couple different Facebook Groups I am a member of:
 
 ---  
 

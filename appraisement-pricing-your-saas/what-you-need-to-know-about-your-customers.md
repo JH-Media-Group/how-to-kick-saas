@@ -1,6 +1,6 @@
 # What You Need To Know About Your Customers
 
-### What you need to know to start:
+## What you need to know to start:
 
 1. Who you are selling to
 2. Their needs and pain points
@@ -8,7 +8,7 @@
 
 When you’re selling a SaaS system, the more quantifiable data you have on each group, the more you can optimize their value, and your profits.
 
-### What you need to know about people:
+## What you need to know about people:
 
 * Who are they?
 * How would you describe each group?

@@ -205,5 +205,3 @@ Now you have the tools you need to:
 * Support your customers
 * Manage the development growth of your system
 
-## All the Thanks!
-

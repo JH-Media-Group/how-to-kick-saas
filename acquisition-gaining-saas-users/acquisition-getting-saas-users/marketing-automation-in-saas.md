@@ -280,7 +280,9 @@ In addition to email campaigns there are a lot of other ways to reach out to you
 * An actual phone call
 * A follow-up phone call.
 
-PROTIP: When you’re first planning your SaaS business, make sure to plan plenty of time to work on all of these emails. For each email, you’re going to need design, copywriting, and some amount of development. It always takes longer than you expect to do these. Also, don’t think that you’re going to be done after you finish up the first version of these, you’re absolutely going to iterate on these as soon as they start going out.
+{% hint style="info" %}
+**PROTIP:** When you’re first planning your SaaS business, make sure to plan plenty of time to work on all of these emails. For each email, you’re going to need design, copywriting, and some amount of development. It always takes longer than you expect to do these. Also, don’t think that you’re going to be done after you finish up the first version of these, you’re absolutely going to iterate on these as soon as they start going out.
+{% endhint %}
 
 When it comes down to it, for the most part the emails that users are going to get fall into the lists of items noted above. There may be some variation, but it usually goes this way. However, how do you know where to escalate the user to the point where your sales team takes over?
 

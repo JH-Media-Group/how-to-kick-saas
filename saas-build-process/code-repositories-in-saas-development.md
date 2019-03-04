@@ -1,6 +1,6 @@
 # Code Repositories in SaaS Development
 
-One of the first things your developers are going to do is set up a code repository, often known as a code repo. 
+One of the first things your developers are going to do is set up a code repository, often known as a "code repo." 
 
 ## What is a code repo?
 

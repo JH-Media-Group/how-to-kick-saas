@@ -1,4 +1,4 @@
-# The Pricing Page: Your Most Valuable Page
+# Pricing Page Examples
 
 ## Put it to use in your pricing page
 
