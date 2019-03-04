@@ -8,21 +8,21 @@ This is how most people think about SaaS.
 
 Some basic things you’re going to need in your new business include upfront and ongoing costs  such as:
 
-1. A federal tax ID - In the US, where I am, this is the first step in starting a new business. 
-2. Website hosting - It’s got to live somewhere, right? 
-3. A phone number\(s\) - Don’t think you can get away forever without one of these, ‘cause you can’t. 
-4. Customer service agents - A lot of people are going to be asking a lot of questions, and if you’re out traveling the world or collecting your millions, how are you going to answer them? 
-5. Customer service software - Got to keep all those requests straight. 
-6. Electricity - In one way or another you’re going to end up paying for this. 
-7. Insurance - You may not need this at first, but I guarantee you will eventually. 
-8. Security Systems - Those pesky hackers all want your money and information. Better to pre-empt them than pay a ransom \(which happens everyday\). 
-9. An advertising budget - Your Google overlords don’t work for free you know. 
-10. Marketing - The people of the world aren’t going to find you without you being in front of them, saying the right things, and lookin pretty! 
-11. Marketing software - so you can keep all those marketing dollars working. 
-12. Customer Relationship Management \(CRM\) software - A way to track and manage all those nice people giving you money every month. 
-13. Sales team members - someone has to answer those customer questions before they give you their money! 
-14. Money management software - now that you have things to pay for, you’re going to need a way to manage where all your money is going. 
-15. Taxes - How are you going to buy coffee for those long nights if you don’t have things like roads? 
+1. **A federal tax ID** - In the US, where I am, this is the first step in starting a new business. 
+2. **Website hosting** - It’s got to live somewhere, right? 
+3. **A phone number\(s\)** - Don’t think you can get away forever without one of these, ‘cause you can’t. 
+4. **Customer service agents** - A lot of people are going to be asking a lot of questions, and if you’re out traveling the world or collecting your millions, how are you going to answer them? 
+5. **Customer service software** - Got to keep all those requests straight. 
+6. **Electricity** - In one way or another you’re going to end up paying for this. 
+7. **Insurance** - You may not need this at first, but I guarantee you will eventually. 
+8. **Security Systems** - Those pesky hackers all want your money and information. Better to pre-empt them than pay a ransom \(which happens everyday\). 
+9. **An advertising budget** - Your Google overlords don’t work for free you know. 
+10. **Marketing** - The people of the world aren’t going to find you without you being in front of them, saying the right things, and lookin pretty! 
+11. **Marketing software** - so you can keep all those marketing dollars working. 
+12. **Customer Relationship Management \(CRM\) software** - A way to track and manage all those nice people giving you money every month. 
+13. **Sales team members** - someone has to answer those customer questions before they give you their money! 
+14. **Money management software** - now that you have things to pay for, you’re going to need a way to manage where all your money is going. 
+15. **Taxes** - How are you going to buy coffee for those long nights if you don’t have things like roads? 
 
 If that sounds like a lot of stuff, that’s because it is. Starting a business is time consuming, has  an element of risk, and costs a lot. This is the mistake so many people make. They think they’re  building software when in fact they are building a business. 
 
@@ -38,7 +38,7 @@ What that means to you is that you’re probably going to fail your first time, 
 
 Failure is how we learn to succeed. If you haven’t failed, then you probably haven’t tried.
 
-#### **Storytime With Steven**
+### **Storytime With Steven**
 
 Steven is successful CEO and a friend of mine. Through our casual interactions and more focused talks, he has helped lead me to success in ways I’m sure he’s never realized. The first time I met him he handed out value bombs like they were tic tacs. Perspectives and insight that changed my view on business were given out so freely that I was always left asking more questions. This one particular conversation was changing for me. It helped me go from feeling like I was lagging behind my peers to a strong potential success. I hope it can do the same for you.
 
@@ -195,7 +195,9 @@ Both of these guys learned their lesson the hard way -- the really, really hard 
 
 Validate your idea before you spend real money on it.
 
+{% hint style="info" %}
 **PROTIP:** It doesn’t matter how good you think your SaaS business idea is, if you aren’t able to get enough customers to put enough money into your pocket for you to run the business and make money, you are wasting your time.
+{% endhint %}
 
 So don’t build something just to let it all get flushed down the drain along with your well-being. By validating your idea, you will know where your money is going to be going, know what you should and should not spend money on, better work towards bringing in revenue early, and know where you need to cut things off.
 

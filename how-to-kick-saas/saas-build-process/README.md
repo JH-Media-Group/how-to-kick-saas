@@ -1,6 +1,6 @@
-# SaaS Build Process
+# SaaS Build Lessons
 
-Congratulations! You were able to successfully presell your new SaaS idea and you’ve got validation that this business is going to work. I’m so proud of you! Now, we need to build the thing. This part gets a little technical, but since you’re a SaaS business owner now, that’s fine because you know you’re going to have to understand this stuff to make the business work, right?
+Congratulations! You were able to successfully pre-sell your new SaaS idea and you’ve got validation that this business is going to work. I’m so proud of you! Now, we need to build the thing. This part gets a little technical, but since you’re a SaaS business owner now, that’s fine because you know you’re going to have to understand this stuff to make the business work, right?
 
 ## Build Process Lessons:
 
@@ -54,7 +54,7 @@ Tests generally take between 10% & 20% of the total build time to construct and 
 
 Don’t skimp on your tests, or you will regret it later! 
 
-### What is SaaS System Build & Continuous Integration
+### SaaS System Build & Continuous Integration
 
 No SaaS system is ‘done’. They are always changing, upgrading, pivoting, entering new markets, etc. When you first build a system, you need to get that MVP out the door and into your users’ hands as quickly as possible. This first step is referred to here as the ‘SaaS System Build.’ 
 

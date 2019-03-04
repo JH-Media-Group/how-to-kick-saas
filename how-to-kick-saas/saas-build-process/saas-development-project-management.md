@@ -1,6 +1,14 @@
 # SaaS Development Project Management
 
-If you are an entrepreneur starting a SaaS business, a C-level executive getting the SaaS built for your company, or a developer, designer, or project manager building a tool system, the first and one of the best things you can do for yourself is to take a course on Project Management. If you’re going to do this, **YOU MUST HAVE MORE THAN A RUDIMENTARY UNDERSTANDING OF AGILE DEVELOPMENT**.
+If you are:
+
+* An entrepreneur starting a SaaS business
+* An executive getting a SaaS built for your company
+* A developer or designer building a tool system
+
+Then the first and one of the best things you can do for yourself is to take a course on [Project Management. ](https://atlassian.com/agile)
+
+If you’re going to do this, **YOU MUST HAVE MORE THAN A RUDIMENTARY UNDERSTANDING OF AGILE DEVELOPMENT**.
 
 {% hint style="info" %}
 **PROTIP**

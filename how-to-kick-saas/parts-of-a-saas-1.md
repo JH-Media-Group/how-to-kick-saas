@@ -81,9 +81,11 @@ Some common features of the admin panel in a SaaS system include:
   * This can be especially important if the SaaS is data-based, meaning that what it is selling is data.
   * If your system fills a knowledge gap, than this area is especially important. 
 
+{% hint style="info" %}
 **PROTIP**: The easier it is for your team to enter and manage data the faster you’ll be able to grow your company.
+{% endhint %}
 
-SaaS Transactional Email Management
+## SaaS Transactional Email Management
 
 When you sign up for a SaaS and it sends you one of the following automated emails:
 
@@ -105,7 +107,7 @@ For each of these actions, you’ll need a way to track the users within the sys
 
 For more on this, take a look at the [chapter on marketing automation.](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit#heading=h.gr1n05g5ff3)
 
-Third-Party Management, Tracking, & Reporting Tools Integration
+## Third-Party Management, Tracking, & Reporting Tools Integration
 
 As soon as you launch, you’re going to want to look at how people are using your system and interact with them outside of just emails. You’re going to need to know things like:
 

@@ -1,4 +1,6 @@
-# MedRev New Location Designs
+# SaaS design case study
+
+Let’s do a quick teardown of a SaaS system process and see how it was improved to illustrate the importance of UX in SaaS. 
 
 MedRev is a SaaS system focused on reputation management in the healthcare industry. Users of the system are office managers, doctors, and administrators of healthcare providers offices, outpatient care, and hospitals. The system is built on Angular.io with a themed Foundation-based CSS framework and a Laravel back-end. 
 
@@ -22,9 +24,9 @@ Initial Edit Location Information Continued
 
 As you can see, the designs:
 
-* look fairly easy to use 
-* Utilize the system theme fully 
-* Are straightforward 
+* look fairly easy to use
+* Utilize the system theme fully
+* Are straightforward
 
 The front-end developer did their job exactly as requested.
 
@@ -32,21 +34,21 @@ The front-end developer did their job exactly as requested.
 
 However, once the UX designer reviews the system, we take a different approach. The following questions start being asked:
 
-* Who is using this process? 
-* What level of information management skills to they have? 
-* Do they understand social media platforms? 
-* At what point in the system are they using this process? 
-* Are they using this process all the time or infrequently? 
-* What is the goal of this process? 
+* Who is using this process?
+* What level of information management skills to they have?
+* Do they understand social media platforms?
+* At what point in the system are they using this process?
+* Are they using this process all the time or infrequently?
+* What is the goal of this process?
 
 After these questions are asked and examined, it becomes clear that the process as it stands is not viable. Take a look at the answers:
 
-* **Who is using this process?** - Healthcare providers such as doctors, nurses, PAs, dentists, chiropractors, and other healthcare providers, office managers, hospital administrators,  healthcare marketing staff, and most often front-desk staff at healthcare offices. 
-* **What level of information management skills to they have?** - Most often, very little. 
-* **Do they understand social media platforms?** - Most of the time, only as users in the system. 
-* **At what point in the system are they using this process?** - The very beginning of their use of the system. This process is critical to the onboarding of new users and the setup of new customers. ****
-* **Are they using this process all the time or infrequently?** - Infrequently. This system is used at the very beginning, then not much \(sometimes never\) afterwards. ****
-* **What is the goal of this process?** - To create a new location so that the business can start using the system. ****
+* **Who is using this process?** - Healthcare providers such as doctors, nurses, PAs, dentists, chiropractors, and other healthcare providers, office managers, hospital administrators,  healthcare marketing staff, and most often front-desk staff at healthcare offices.
+* **What level of information management skills to they have?** - Most often, very little.
+* **Do they understand social media platforms?** - Most of the time, only as users in the system.
+* **At what point in the system are they using this process?** - The very beginning of their use of the system. This process is critical to the onboarding of new users and the setup of new customers.
+* **Are they using this process all the time or infrequently?** - Infrequently. This system is used at the very beginning, then not much \(sometimes never\) afterwards.
+* **What is the goal of this process?** - To create a new location so that the business can start using the system.
 
 With these answers, it should be clear that a very, very simple process of flowing through this tool, with very clear instructions, is critical to the success of the business. Because this tool is just used once or rarely, the users have no way or reason to know ahead of time how to use the system and it becomes more valuable to have it clearly explained than to have it all grouped together \(which could be useful if the users used this process all the time\).
 
