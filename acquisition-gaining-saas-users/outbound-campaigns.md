@@ -3,8 +3,6 @@
 Ever get one of those emails from some random guy that reads something like this:  
 
 
------
-
 Hey \[CUSTOMER NAME - YOU\]
 
 I clearly want to sell you this thing that I am promoting to you in this email. Here are some reasons you should buy my thing or more than likely trash this email and never open another one from this email address or probably just mark me as spam.

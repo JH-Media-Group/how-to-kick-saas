@@ -107,6 +107,9 @@
 
 * [SaaS Community Building](attrition-supporting-your-community-and-growing-your-business/saas-community-building.md)
 * [Chatbots](attrition-supporting-your-community-and-growing-your-business/chatbots.md)
+* [Events](attrition-supporting-your-community-and-growing-your-business/events.md)
+* [Training Webinars](attrition-supporting-your-community-and-growing-your-business/training-webinars.md)
+* [Swag](attrition-supporting-your-community-and-growing-your-business/swag.md)
 
 ## NOTES
 
