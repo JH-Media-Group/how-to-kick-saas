@@ -2,7 +2,7 @@
 description: 'Story Time with Jason: The Story of a Ton of Lost Users and Money!'
 ---
 
-# The Story of a Ton of Lost Users and Money!
+# Storytime: The Story of a Ton of Lost Users and Money!
 
 This is the story of how not taking the time to investigate different technologies, seeking different opinions, and letting things go without oversight put me into a position of losing tons of money and time.
 

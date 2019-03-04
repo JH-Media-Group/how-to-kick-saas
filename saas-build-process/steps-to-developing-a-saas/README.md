@@ -2,9 +2,11 @@
 
 ## SaaS Application Development Steps For MVP
 
+The first thing to note here is that books are written linearly and the production of SaaS systems are not. Your development team should have started around the same time your UX designer was wrapping up the first three quarters of their work or so, give or take some. They would have had enough information at that point to at least get going on a number of systems and depending on what your SaaS system/business does, they may have gotten started before your designer ever started asking their questions.
+
 These are steps for the SaaS application build, not the public facing website. **Several of these items are run in parallel, but noted linearly in the list below.**
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 1. Planning \(also referred to as “scoping”\)
    * Information Architecture \(IA\) development

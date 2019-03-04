@@ -1,3 +1,9 @@
+---
+description: >-
+  Costing your system is the process of figuring out how much it is going to
+  cost to build your system.
+---
+
 # Costing your system
 
 Costing a SaaS is not simple. There are a lot of moving parts, and the devil is in the details. So the trick to effectively getting cost estimates on your system is to take a hard, deep look at all the details. After you have reviewed all the details, assigned hours, and re-reviewed costs, then you will have a good idea if your system is going to be ‘worth it’. From there, you can move into a more complete method of costing.  

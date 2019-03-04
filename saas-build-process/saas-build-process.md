@@ -12,7 +12,7 @@ You need to understand what is happening, what the process should be, what is go
 
 ## 2. This is a construction project. 
 
-Just like building a house, office building, highrise, or factory, this project has very similar major steps and labor costs but not the materials costs, except perhaps software costs. You need to understand the process to be able to guide it. 
+Just like building a house, office building, high rise, or factory, this project has very similar major steps and labor costs but not the materials costs, except perhaps software costs. You need to understand the process to be able to guide it. 
 
 ## 3. The more you plan up front, the less your team will work and the less the project will cost.
 
