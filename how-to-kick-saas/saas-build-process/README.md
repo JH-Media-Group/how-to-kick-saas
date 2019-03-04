@@ -2,19 +2,19 @@
 
 Congratulations! You were able to successfully presell your new SaaS idea and you’ve got validation that this business is going to work. I’m so proud of you! Now, we need to build the thing. This part gets a little technical, but since you’re a SaaS business owner now, that’s fine because you know you’re going to have to understand this stuff to make the business work, right?
 
-### Build Process Lessons:
+## Build Process Lessons:
 
 I’ve made a lot of mistakes since 2007 when I started my first SaaS. These are the most important lessons I wish someone had told me about or made me do starting back then.  
 
-#### 1. No one is going to guide this better than you.
+## 1. No one is going to guide this better than you.
 
 You need to understand what is happening, what the process should be, what is going on, when to listen to people, when to not listen to people, and how to guide the build of the system. You cannot expect anyone to guide this process better than you.
 
-#### 2. This is a construction project. 
+## 2. This is a construction project. 
 
 Just like building a house, office building, highrise, or factory, this project has very similar major steps and labor costs but not the materials costs, except perhaps software costs. You need to understand the process to be able to guide it. 
 
-#### 3. The more you plan up front, the less your team will work and the less the project will cost.
+## 3. The more you plan up front, the less your team will work and the less the project will cost.
 
 It sounds right, but when you get into it, it starts to not feel right when you’re spending thousands and thousands of dollars on a plan and can’t see any revenue being produced. This comes back to the construction project analogy above. When you build a house, you don’t just worry about how many bedrooms and bathrooms you’ve got. You have to think about the color of the door knobs, the paint on every wall, the color of the bricks, the type of cement being used, what kind of carpet you’re adding, and a thousand more things. 
 
@@ -24,21 +24,21 @@ For one or two items, it is no problem, but these issues compound on top of one 
 
 So, spend the money up front and know what you are going to build. Your cost savings will be huge.  
 
-#### 4. SaaS systems live and die on User Experience \(UX\)
+## 4. SaaS systems live and die on User Experience \(UX\)
 
 If a system is not easy to use, people won’t use it. A little frustration a couple of times will drive users away from the system, and the likelihood of them returning is not good. The best way to avoid this, is to pay a UX designer who has done this before. That doesn’t mean that they need to know your industry in and out, it just means they need to have been doing UX design for a while and have had the time to make the mistakes on other projects so they get yours right.
 
-#### 5. Choosing the right technology can make the SaaS build process more or less expensive and successful.
+## 5. Choosing the right technology can make the SaaS build process more or less expensive and successful.
 
 There is so much to be said on what systems to use, and they change regularly. What’s important here is that you choose a system that is community-supported, has a lot of people building on that system, and is built on a platform that isn’t going to go away anytime soon. What’s right for your project in many ways depends on the project as well as on the team that is building it. If you choose the right team, then they will help you choose the right platform.
 
-#### 6. Adding new features during the build of the MVP can crush your business. 
+## 6. Adding new features during the build of the MVP can crush your business. 
 
 This is called scope creep, and it can kill your business before it ever starts. There are a lot of reasons that adding more features in the middle of a SaaS project are a bad idea, but the main one is that it keeps you from truly testing and validating your idea and bringing in revenue. People tell you what they want with their money, not their words. So if you have a system that is taking forever to get to market, it means you are spending money on something that may or may not cash flow.  
 
 Also, if you have revenue coming in, you can fund your operations. If not, it’s coming out of your  capital outlay, which is limited.
 
-#### 7. As soon as you have project validation, start building in unit tests.
+## 7. As soon as you have project validation, start building in unit tests.
 
 If you are just validating your MVP, I would say don’t worry about building tests to right away. However, if you are 95% or more sure that the system is going to fly, and you already have buyers waiting, then you should consider building tests to start. 
 

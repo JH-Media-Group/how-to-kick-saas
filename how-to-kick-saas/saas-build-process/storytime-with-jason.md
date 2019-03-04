@@ -10,13 +10,9 @@ We realized after a substantial amount of investment that the platform we were u
 
 This was my my conversation with the lead developer over chat as we were preparing to rebuild this major aspect of our system.
 
-> I started implementing a hybrid app with the two frameworks side-by-side and communicating both ways. The challenge here is to properly seal off the new app components from the old ones. This way I try to shed the architectural complexities of the angularJS app and create something new and clean
+I started implementing a hybrid app with the two frameworks side-by-side and communicating both ways. The challenge here is to properly seal off the new app components from the old ones. This way I try to shed the architectural complexities of the angularJS app and create something new and clean one of our lead developers said to me about BrainLeaf.
 
-one of our lead developers said to me about BrainLeaf.
-
-> How are you feeling about it?
-
- I just replied.
+"How are you feeling about it?" I just replied.
 
 “It’s a complicated system, with a lot of moving parts. We’re never going to make my initial time estimate.” He said.
 

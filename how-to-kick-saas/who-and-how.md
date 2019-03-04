@@ -1,12 +1,12 @@
 # Who & How
 
-### Who this book is this for and why it was written
+## Who this book is this for and why it was written
 
 This book is written for people who have some business experience and are interested in growing their business by venturing into the SaaS world or starting a new SaaS business. 
 
 Over the years, I have met so many people that lost so much money trying to launch their SaaS businesses because they didn’t understand what they were getting into, what their process should be, how to measure success, or what the steps to getting to a profitable SaaS were. This text was written so that anyone interested in starting a SaaS business can understand what they are getting into and how to proceed.
 
-### How this book is written
+## How this book is written
 
 This book was written with planning in mind because you want and need to know how much time and money this venture is going to cost you before you get started. 
 

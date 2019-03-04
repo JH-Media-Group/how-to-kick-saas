@@ -8,6 +8,7 @@
 * [Who & How](how-to-kick-saas/who-and-how.md)
 * [The Business of SaaS](how-to-kick-saas/the-business-of-saas.md)
 * [Basic Lessons of Saas](how-to-kick-saas/basic-lessons-of-saas.md)
+* [Validating Your Idea](how-to-kick-saas/validating-your-idea.md)
 * [Parts of a SaaS](how-to-kick-saas/parts-of-a-saas-1.md)
 * [SaaS Build Process](how-to-kick-saas/saas-build-process/README.md)
   * [Storytime with Jason](how-to-kick-saas/saas-build-process/storytime-with-jason.md)
