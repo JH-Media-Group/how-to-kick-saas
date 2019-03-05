@@ -75,6 +75,7 @@
 ## Appraisement: Pricing Your SaaS
 
 * [Appraisement: SaaS Pricing](appraisement-pricing-your-saas/appraisement-saas-pricing.md)
+* [The levers you can pull](appraisement-pricing-your-saas/the-levers-you-can-pull.md)
 * [SaaS Pricing Metrics](appraisement-pricing-your-saas/saas-pricing-metrics.md)
 * [SaaS Pricing Metrics Glossary](appraisement-pricing-your-saas/saas-pricing-metrics-glossary.md)
 * [Science of Pricing](appraisement-pricing-your-saas/science-of-pricing.md)
