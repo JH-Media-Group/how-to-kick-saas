@@ -75,7 +75,6 @@
 ## Appraisement: Pricing Your SaaS
 
 * [Appraisement: SaaS Pricing](appraisement-pricing-your-saas/appraisement-saas-pricing.md)
-* [The levers you can pull](appraisement-pricing-your-saas/the-levers-you-can-pull.md)
 * [SaaS Pricing Metrics](appraisement-pricing-your-saas/saas-pricing-metrics.md)
 * [SaaS Pricing Metrics Glossary](appraisement-pricing-your-saas/saas-pricing-metrics-glossary.md)
 * [Science of Pricing](appraisement-pricing-your-saas/science-of-pricing.md)
@@ -88,14 +87,17 @@
 
 ## Acquisition: Gaining SaaS Users
 
-* [Acquisition: Getting SaaS Users](acquisition-gaining-saas-users/acquisition-getting-saas-users/README.md)
-  * [Supporting Your SaaS Customers](acquisition-gaining-saas-users/acquisition-getting-saas-users/supporting-your-saas-customers.md)
-  * [SaaS Traction Lessons](acquisition-gaining-saas-users/acquisition-getting-saas-users/saas-traction-lessons.md)
-  * [Acquiring your first users](acquisition-gaining-saas-users/acquisition-getting-saas-users/acquiring-your-first-users.md)
-  * [Getting ready for growth](acquisition-gaining-saas-users/acquisition-getting-saas-users/getting-ready-for-growth.md)
-  * [Growing your SaaS user base](acquisition-gaining-saas-users/acquisition-getting-saas-users/growing-your-saas-user-base.md)
-  * [Organic Search Marketing](acquisition-gaining-saas-users/acquisition-getting-saas-users/organic-search-marketing.md)
-  * [Marketing Automation in SaaS](acquisition-gaining-saas-users/acquisition-getting-saas-users/marketing-automation-in-saas.md)
+* [Acquisition: Getting SaaS Users](acquisition-gaining-saas-users/acquisition-getting-saas-users.md)
+* [SaaS Traction Lessons](acquisition-gaining-saas-users/saas-traction-lessons.md)
+* [Marketing Automation in SaaS](acquisition-gaining-saas-users/marketing-automation-in-saas/README.md)
+  * [Marketing Automation Basics](acquisition-gaining-saas-users/marketing-automation-in-saas/marketing-automation-basics.md)
+  * [Storytime: Learning about marketing automation the hard way](acquisition-gaining-saas-users/marketing-automation-in-saas/storytime-learning-about-marketing-automation-the-hard-way.md)
+  * [Lead Scoring, Tagging, & Triggers](acquisition-gaining-saas-users/marketing-automation-in-saas/lead-scoring-tagging-and-triggers.md)
+  * [Marketing Automation Systems](acquisition-gaining-saas-users/marketing-automation-in-saas/marketing-automation-systems.md)
+* [Organic Search Marketing](acquisition-gaining-saas-users/organic-search-marketing.md)
+* [Growing your SaaS user base](acquisition-gaining-saas-users/growing-your-saas-user-base.md)
+* [Getting ready for growth](acquisition-gaining-saas-users/getting-ready-for-growth.md)
+* [Acquiring your first users](acquisition-gaining-saas-users/acquiring-your-first-users.md)
 * [Lifetime Deals](acquisition-gaining-saas-users/lifetime-deals.md)
 * [Outbound Campaigns](acquisition-gaining-saas-users/outbound-campaigns.md)
 * [Affiliates & Partnerships for SaaS Businesses](acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
@@ -106,6 +108,7 @@
 
 ## Attrition: Supporting Your Community and Growing Your Business
 
+* [Supporting Your SaaS Customers](attrition-supporting-your-community-and-growing-your-business/supporting-your-saas-customers.md)
 * [SaaS Community Building](attrition-supporting-your-community-and-growing-your-business/saas-community-building.md)
 * [Chatbots](attrition-supporting-your-community-and-growing-your-business/chatbots.md)
 * [Events](attrition-supporting-your-community-and-growing-your-business/events.md)
