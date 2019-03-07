@@ -26,6 +26,8 @@ Are you:
 * Reaching out to investors
 * Growing your already 
 
+Based on your goal, you will need a different email, but the approach is going to be similar. 
+
 ## How not to do it
 
 Ever get one of those emails from some random guy that reads something like this:
