@@ -3,14 +3,6 @@
 Now that we’ve been through most of the different systems you’ll need or be interested in, here is a checklist of all the major software systems for supporting SaaS systems at the time of writing.  
 
 
-Note: If a system didn’t include pricing on the website, I didn’t include it here.
-
-### Title
-
-| System Title & Link | Notes | Starting Cost | Rating / Review |
-| :--- | :--- | :--- | :--- |
-|  |  | $ | \# / \# |
-
 ### Conversion Rate Optimization
 
 <table>

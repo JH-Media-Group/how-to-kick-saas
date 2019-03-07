@@ -106,7 +106,10 @@
 * [Affiliates & Partnerships for SaaS Businesses](acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
 * [Narrowing Your Message With Adaptive Design](acquisition-gaining-saas-users/narrowing-your-message-with-adaptive-design.md)
 * [Social Media Marketing](acquisition-gaining-saas-users/social-media-marketing/README.md)
-  * [Pay Per Click \(PPC\)](acquisition-gaining-saas-users/social-media-marketing/pay-per-click-ppc.md)
+  * [Social Media Retargeting](acquisition-gaining-saas-users/social-media-marketing/social-media-retargeting.md)
+  * [Testing your social media ads](acquisition-gaining-saas-users/social-media-marketing/testing-your-social-media-ads.md)
+  * [Social Media Ad Tricks](acquisition-gaining-saas-users/social-media-marketing/social-media-ad-tricks.md)
+* [Pay Per Click \(PPC\)](acquisition-gaining-saas-users/pay-per-click-ppc.md)
 * [SaaS Software Checklist](acquisition-gaining-saas-users/saas-software-checklist.md)
 
 ## Attrition: Supporting Your Community and Growing Your Business
