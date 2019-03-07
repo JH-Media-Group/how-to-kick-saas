@@ -32,7 +32,5 @@ The book takes you through the journey of:
 12. Accounting in Your SaaS
 13. Mistakes I’ve made and How to Avoid Them 
 
-I strongly recommend you at least skim all the chapters of this text before starting to work on your SaaS.
-
 Let’s get your SaaS in gear!
 
