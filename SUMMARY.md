@@ -120,6 +120,9 @@
 * [Events](attrition-supporting-your-community-and-growing-your-business/events.md)
 * [Training Webinars](attrition-supporting-your-community-and-growing-your-business/training-webinars.md)
 * [Swag](attrition-supporting-your-community-and-growing-your-business/swag.md)
+* [Onboarding](attrition-supporting-your-community-and-growing-your-business/onboarding.md)
+* [Education](attrition-supporting-your-community-and-growing-your-business/education.md)
+* [Knowledgebases](attrition-supporting-your-community-and-growing-your-business/knowledgebases.md)
 
 ## NOTES
 
