@@ -111,6 +111,7 @@
   * [Social Media Ad Tricks](acquisition-gaining-saas-users/social-media-marketing/social-media-ad-tricks.md)
 * [Pay Per Click \(PPC\)](acquisition-gaining-saas-users/pay-per-click-ppc.md)
 * [SaaS Software Checklist](acquisition-gaining-saas-users/saas-software-checklist.md)
+* [Email Marketing](acquisition-gaining-saas-users/email-marketing.md)
 
 ## Attrition: Supporting Your Community and Growing Your Business
 
