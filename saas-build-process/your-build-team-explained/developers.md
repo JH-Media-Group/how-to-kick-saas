@@ -78,6 +78,20 @@ These are the areas of development and some of what they encompass.
 
 Think of each of these systems as a language that you could speak. If you know English, you could probably learn Spanish easier than Russian or Thai. The alphabet is the same, the verbs have similar kinds of conjugations, etc. But it is still a different language and you’d need time to learn it. Also, to be conversational is necessary to have a conversation, but if you want to write a book in it, you’ll need to be fluent. The same is basically true for computer languages.
 
+### The Lead Developer
+
+In most SaaS platforms, you will want to have a 'Lead Developer'. This team member has specific jobs that other developers do not. 
+
+Your lead developer will:
+
+* Review code being submitted by other developers
+* Accept 'Pull Requests' which pull developers code into the project
+* Lead and manage the development team
+* Understand when developers are and are not doing their jobs
+* Help you find new developers that are a good fit for the project
+
+A great lead developer is a huge asset to the project. The converse also holds true, a poorly chosen or incompetent lead developer can destroy your project.
+
 ## The myth of the ‘Full Stack Developer’
 
 You may have heard of the ‘Full Stack Developer’. This is someone who has knowledge of all the layers in a system. A lot of people call themselves Full Stack Developers, and some really are, but most are not. No matter how good you are at the different areas, you are still going to have a specialty in one over the over. You simply cannot devote your life to learning two things and, all other things being equal, be as good as someone who has devoted their life to learning one thing. There is ALWAYS a relative advantage in one place or another.
