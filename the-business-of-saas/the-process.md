@@ -24,6 +24,8 @@ A lot of SaaS businesses sell both standard and enterprise, but when you're laun
 
 ## Standard SaaS Process steps:
 
+working on this area!
+
 1. Phase 1
    1. Validate your idea
    2. Presales
