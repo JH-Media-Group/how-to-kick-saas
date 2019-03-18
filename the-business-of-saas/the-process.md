@@ -24,7 +24,7 @@ A lot of SaaS businesses sell both standard and enterprise, but when you're laun
 
 ## Standard SaaS Process steps:
 
-![Standard SaaS Validation, Release, and Growth Process](../.gitbook/assets/saas-general-process.png)
+![](../.gitbook/assets/saas-general-process-small1.png)
 
 1. Phase 1: Validation & Presales
    1. Ideation
