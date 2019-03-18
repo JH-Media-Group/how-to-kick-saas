@@ -1,24 +1,38 @@
 # The Process
 
-_**PAGE IN PROCESS**_
+## Where to start?
 
-In this chapter, we are going to...  
+A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place. They quickly find out that just because you built it, they will not come. 
 
+### Here's what I see a lot:
 
-Process steps:  
+1. I have an idea!
+2. Hire a team to build my idea.
+3. How do I sell this thing?
+4. Throw more money away on marketing something that never had a chance in the first place.
+5. Give up and cry.
 
+As you probably suspected, there's a much better way. 
+
+## Standard or Enterprise
+
+The first thing to note though is that your overall process is dependent on what you're selling and to whom. If you're selling what I would call a 'Standard SaaS', meaning a SaaS that is marketed to you target audience primarily through the web, affiliate marketing, or other further reaching marketing methods and sells for what starts out as a fairly small amount of money on a monthly basis. This amount can grow tremendously based on your value metric for the right customer, but most users are going to spend somewhere between $10 and $1000 per month on your project.
+
+Then there's the Enterprise SaaS. This is a SaaS that is sold first at the enterprise level, then maybe at a smaller scale. It is what is known as an Enterprise Sale. Most enterprise sales have a much longer sales cycle, as well as a much higher price. Enterprise sales come with their own set of problems but very often a hefty price tag. A friend of mine sells his Enterprise SaaS to some of the worlds largest consulting companies for what amounts to $200,000 per year per business, and they are happy to pay him. 
+
+A lot of SaaS businesses sell both standard and enterprise, but when you're launching, you need to know the difference because it is very difficult to do both sales at the same time. Thus this launch and sales difference affects your overall process. 
+
+## Standard SaaS Process steps:
 
 1. Phase 1
-   1. Validate - it starts at validation
+   1. Validate your idea
    2. Presales
 2. Phase 2
    1. Find the hook
    2. Begin SEO
    3. Pre-release
-      1. Begging and coercion
    4. Community & Social
-      1. No one wants to talk to you unless you’re somebody
-   5. Iterate on community suggestions
+   5. Iterate & ideate on community suggestions
 3. Phase 3
    1. Release
       1. LTD
