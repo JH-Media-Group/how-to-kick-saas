@@ -12,13 +12,13 @@ This is how much revenue you are generating on a recurring basis each year. This
 
 ARR = Total revenue in a year that is expected to renew the following year.
 
-### Average Revenue Per User
+### Average Revenue Per User \(ARPU\)
 
 This gives you the amount the average user is worth in revenue. This could be by any amount of time, but is often calculated per month. This is a [great article on ARPU](https://learn.profitwell.com/l/en/article/5p6WEspQR6-arpu) and how to use this metric.
 
 ARPU = Total revenue for time period / Total number for time period
 
-### Churn Rate
+### Churn Rate or Attrition
 
 This is also known as attrition, stated in the 3 A’s of SaaS. This is the annual rate at which your user stop using your service, or churn. Churn rate helps you determine the lifetime value \(LTV\) of a customer. Churn rate is an important factor for many reasons. Understanding what is causing a high churn rate and how to reduce that churn is very important to growing your SaaS.
 
@@ -56,11 +56,19 @@ Or in other words:
 
 LTV = \(Total revenue to date / Total number of users to date\) / \(\# of customers who left / total number of customers\)
 
+### Marketing Qualified Lead \(MQL\)
+
+This is a customer that has been, generally via an automatic system, vetted as a potential customer. The MQL is a person that usually downloaded a lead magnet and followed up with some measured actions that put them into the MQL category.
+
 ### Monthly Recurring Revenue \(MRR\)
 
 How much total money you have coming in from subscriptions each month. This is measured per month, so if you are growing, your MRR this month should be higher than last month.
 
 MRR = Amount of recurring revenue from the most recent month
+
+### Sales Qualified Lead \(SQL\)
+
+The SQL - not to be confused with Structured Query Language which is also abbreviated as SQL - is a lead that has been vetted by the SALES TEAM. This means that a sales person has usually talked to them and designated them as a sales lead. They are usually the closest to closing as a sale. 
 
 ### Value Metric
 

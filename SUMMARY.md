@@ -31,7 +31,6 @@
   * [UX Designer](saas-build-process/your-build-team-explained/ux-designer.md)
   * [Developers](saas-build-process/your-build-team-explained/developers.md)
   * [Quality Assurance](saas-build-process/your-build-team-explained/quality-assurance.md)
-  * [Other Team Members](saas-build-process/your-build-team-explained/other-team-members.md)
 * [Steps to Developing a SaaS](saas-build-process/steps-to-developing-a-saas/README.md)
   * [Success Planning](saas-build-process/steps-to-developing-a-saas/success-planning.md)
   * [Project Estimation](saas-build-process/steps-to-developing-a-saas/project-estimation.md)
@@ -49,13 +48,11 @@
   * [Launching Your SaaS](saas-build-process/steps-to-developing-a-saas/launching-your-saas.md)
   * [Continuous Integration](saas-build-process/steps-to-developing-a-saas/continuous-integration.md)
   * [Continuous Marketing](saas-build-process/steps-to-developing-a-saas/continuous-marketing.md)
-* [Tools](saas-build-process/tools/README.md)
+* [Standard Tools](saas-build-process/tools/README.md)
   * [Project Management Tools in SaaS Development](saas-build-process/tools/project-management-tools-in-saas-development.md)
-  * [Design Tools](saas-build-process/tools/design-tools.md)
   * [Development Environment & Dependencies](saas-build-process/tools/development-environment-and-dependencies.md)
   * [Remote Development Environments](saas-build-process/tools/remote-development-environments.md)
   * [Code Repositories in SaaS Development](saas-build-process/tools/code-repositories-in-saas-development.md)
-  * [Development Tools](saas-build-process/tools/development-tools.md)
   * [Monitoring Your SaaS](saas-build-process/tools/monitoring-your-saas.md)
 * [Things to know and expect](saas-build-process/things-to-know-and-expect/README.md)
   * [You MUST learn at least the basics of Project Management](saas-build-process/things-to-know-and-expect/saas-development-project-management.md)
@@ -123,7 +120,7 @@
 * [Swag](attrition-supporting-your-community-and-growing-your-business/swag.md)
 * [Onboarding](attrition-supporting-your-community-and-growing-your-business/onboarding.md)
 * [Education](attrition-supporting-your-community-and-growing-your-business/education.md)
-* [Knowledgebases](attrition-supporting-your-community-and-growing-your-business/knowledgebases.md)
+* [The Knowledge Base](attrition-supporting-your-community-and-growing-your-business/knowledgebases.md)
 
 ## NOTES
 

@@ -1,2 +1,2 @@
-# Knowledgebases
+# The Knowledge Base
 
