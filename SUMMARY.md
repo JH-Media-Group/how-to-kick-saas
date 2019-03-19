@@ -31,6 +31,7 @@
   * [Success Planning](saas-build-process/steps-to-developing-a-saas/success-planning.md)
   * [Project Estimation](saas-build-process/steps-to-developing-a-saas/project-estimation.md)
   * [Architecture Development](saas-build-process/steps-to-developing-a-saas/architecture-development.md)
+  * [Wireframes and Flows](saas-build-process/steps-to-developing-a-saas/wireframes-and-flows.md)
   * [Project Build](saas-build-process/steps-to-developing-a-saas/project-build.md)
   * [Concept Design](saas-build-process/steps-to-developing-a-saas/concept-design/README.md)
     * [SaaS design case study](saas-build-process/steps-to-developing-a-saas/concept-design/saas-design-case-study-medrev-new-location-designs.md)
