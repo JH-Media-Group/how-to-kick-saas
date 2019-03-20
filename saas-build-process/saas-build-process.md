@@ -50,9 +50,11 @@ If you are just validating your MVP, I would say don’t worry about building te
 
 A unit test is a tool process that confirms if a system is working or not. It generally gives a pass or fail response to a very specific set of variables. For example, if you try to log in and enter the correct username and password, you should be taken to the dashboard of your system. If the system tries to log in and isn’t being taken there, then the test failed. 
 
-Tests can be broad or very specific. A specific example is in our BrainLeaf system where if a user enters a number of hours for a task, the task items should update, the total number of hours should update, the top level task should update, and the total price should update. This should also be reflected in our payments to contractors, milestones for receivables to clients, in our reporting areas, in the client listing where it shows total spend per client, and on the main projects listing. To write this one test, to show that updating a single change in a single form works takes days to implement. 
+Tests can be broad or very specific, but they always measure one thing, one step, or one process per test. A specific example is in our BrainLeaf system where if a user enters a number of hours for a task, the task items should update, the total number of hours should update, the top level task should update, and the total price should update. This should also be reflected in our payments to contractors, milestones for receivables to clients, in our reporting areas, in the client listing where it shows total spend per client, and on the main projects listing. To write this one test, to show that updating a single change in a single form works takes days to implement. 
 
 But on the flip side, and this is important, if you have to manually test every variation of changes to a system, the change in testing time grows quadratically or exponentially, depending on the system. The testing time alone, if done manually, can and will very quickly become more time intensive than the actual building of the system. 
+
+### Regression Testing
 
 Next, these unit tests also include regression testing. This means that as you build a new feature in the system, old features are going to break. An automated regression test will show you which current features broke, and how, when you implemented the new system.
 
