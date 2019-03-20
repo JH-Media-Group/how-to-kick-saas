@@ -1,7 +1,5 @@
 # Steps to Developing a SaaS
 
-## What comes first the chicken or the information architecture?
-
 ## SaaS Application Development Steps For MVP
 
 The first thing to note here is that books are written linearly and the production of SaaS systems are not. Your development team should have started around the same time your UX designer was wrapping up the first three quarters of their work or so, give or take some. They would have had enough information at that point to at least get going on a number of systems and depending on what your SaaS system/business does, they may have gotten started before your designer ever started asking their questions.
