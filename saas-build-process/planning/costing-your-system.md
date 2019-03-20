@@ -6,7 +6,12 @@ description: >-
 
 # Costing your system
 
-## page in process!
+## 
+
+1. Parts of costing - estimate then scope then quote
+2. General costs - see how to calculate the cost to build a saas
+3. How to create an estimate - see article on creating an estimate
+4. Once scope of work is done, then you will have a final estimate - no need here to go into how to scope the project. \(edited\) 
 
 ## Costing a SaaS is not simple. 
 
