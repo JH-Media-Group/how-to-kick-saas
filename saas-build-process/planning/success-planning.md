@@ -79,13 +79,3 @@ If the project:
 
 Then, and only then, it's time to talk about project estimation.
 
-
-
-
-
-
-
-
-
-
-
