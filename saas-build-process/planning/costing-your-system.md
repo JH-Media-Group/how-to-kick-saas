@@ -6,6 +6,8 @@ description: >-
 
 # Costing your system
 
+## page in process!
+
 ## Costing a SaaS is not simple. 
 
 There are a lot of moving parts, and the devil is in the details. So the trick to effectively getting cost estimates on your system is to take a hard, deep look at all the details. After you have reviewed all the details, assigned hours, and re-reviewed costs, then you will have a good idea if your system is going to be ‘worth it’. From there, you can move into a more complete method of costing.
