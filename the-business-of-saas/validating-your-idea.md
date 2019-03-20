@@ -40,7 +40,7 @@ My recommendation is to make a spreadsheet of all your competitors and their pro
 
 ## Step 5: Figure out your pricing model
 
-Plan on spending some time figuring out your pricing model. Since you already signed up for your competitors’ systems, you know how they are pricing. So figuring yours shouldn’t be a big stretch, but it’s still going to take more time than you expect. There is a whole [chapter on pricing](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit?disco=AAAACS6SXQQ&ts=5c4c96c9&usp_dm=false#heading=h.lr4affmu6gzl). I highly recommend you read this section.
+Plan on spending some time figuring out your pricing model. Since you already signed up for your competitors’ systems, you know how they are pricing. So figuring yours shouldn’t be a big stretch, but it’s still going to take more time than you expect. [There is a whole chapter on pricing](../appraisement-pricing-your-saas/appraisement-saas-pricing.md). I highly recommend you read this section.
 
 ## Step 6: Hire a designer to do some basic designs for you so you can pitch it to your advisers and potential customers.
 

@@ -30,7 +30,7 @@ Some basic things you’re going to need in your new business include upfront an
 
 If that sounds like a lot of stuff, that’s because it is. Starting a business is time consuming, has  an element of risk, and costs a lot. This is the mistake so many people make. They think they’re  building software when in fact they are building a business. 
 
-However, if all this stuff sounds like it’s right up your alley, then let’s keep going! 
+if all this stuff sounds like it’s right up your alley, then let’s keep going! 
 
 If not, you may want to consider putting the computer down for a few minutes and taking a little walk to rethink this project; if you aren’t excited about working on all the things mentioned above, you’re probably just going to be throwing your money away and getting frustrated. Also, you’ve probably heard the saying that ‘as a new entrepreneur you get to choose your own hours, and that means you can work any 16 hours per day you want’. If this doesn’t sound like your idea of a good time or you don’t have the means to do this \(at least for a while\)… well, just think about it ok?
 
@@ -94,8 +94,8 @@ Examples of tools are systems such as:
 
 * Buffer.com
 * Sumo.com
-* Calend.ly
-* Getpocket.com/
+* Calendly.com
+* Getpocket.com
 
 Whereas a platform would be something more like
 

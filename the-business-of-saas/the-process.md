@@ -58,7 +58,7 @@ A lot of SaaS businesses sell both standard and enterprise, but when you're laun
    7. Support your customers
    8. Grow your business and make money
 
-### It's not a perfect process, but it's a great start
+### Every business is different.
 
 Every business is different, and things change a lot depending your system, your customers, and much, much more. But the process noted above is what I have seen more often than anything else. Most of the steps will be followed one way or another anyway. 
 

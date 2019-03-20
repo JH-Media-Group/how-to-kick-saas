@@ -1,4 +1,4 @@
-# SaaS Development Team Setup
+# Build Teams
 
 There are a few different ways you can go about building your SaaS development team. Different methods of building your team depend on your resources, skills, and what kind of system you are building.
 

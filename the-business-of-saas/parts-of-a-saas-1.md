@@ -13,7 +13,7 @@ This is one of your primary sales and marketing tools. This tool can be very lar
 * Any necessary support systems
 * Pricing
 * If content marketing is necessary, a blog
-* A knowledge-base or support area where users can learn to use different features within the system. 
+* A knowledge-base or support area where users can learn to use different features within the system.
 
 These needs are generally met with an architecture consisting of the following pages:
 
@@ -21,9 +21,9 @@ These needs are generally met with an architecture consisting of the following p
 2. **Features or Tour** - Explains how the system works and explains in detail how the tool accomplishes the goals of your target market.
 3. **Pricing** - Clearly defines the price of the system and the different options for purchase.
 4. **Blog** - At the time of writing, this is used primarily for content marketing, but also very useful for community management, customer education, email marketing, and public relations.
-5. **Knowledgebase** - Usually a system with a separate management system that is used to educate users on how to use aspects of your SaaS system.
+5. **Knowledge base** - Usually a system with a separate management system that is used to educate users on how to use aspects of your SaaS system.
 
-There are a lot of other pages that are often added to a SaaS system marketing website, but these are the items that most need to at least get started. A full explanation of the public facing website is listed in the [chapter on “Traction”](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit#heading=h.ihvpvx62eeam).
+There are a lot of other pages that are often added to a SaaS system marketing website, but these are the items that most need to at least get started. [A full explanation of the public facing website is listed in the chapter on Acquisition](../acquisition-gaining-saas-users/the-marketing-website.md).
 
 ## Account management system
 
@@ -43,7 +43,7 @@ When new users sign up for the system, the onboarding system takes them through 
 
 The onboarding process is a key portion of both acquisition and retention. It integrates into your marketing and sales processes and is integral to the success of your system.
 
-User onboarding systems vary drastically depending on what the system does. Take a look in the [chapter on traction](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit#heading=h.ihvpvx62eeam) for more information on user onboarding systems and tricks to improve this process with education, blockers, simplicity, UX, and processes.
+User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../attrition-supporting-your-community-and-growing-your-business/onboarding.md) to improve this process with education, simplicity, UX, and processes.
 
 ## Payments management
 
@@ -105,7 +105,7 @@ This is probably the second most forgotten aspect of SaaS systems when an MVP is
 
 For each of these actions, you’ll need a way to track the users within the system, know what they did and did not do that you wanted them to do, and generally how they used the system. This is something that is a lot easier to build in from the beginning than to add later. Besides, as soon as you launch your system, you’re going to want this data, so plan on building in at least a minimal system up front!
 
-For more on this, take a look at the [chapter on marketing automation.](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit#heading=h.gr1n05g5ff3)
+[For more on this, take a look at the chapter on marketing automation.](../acquisition-gaining-saas-users/marketing-automation-in-saas/)
 
 ## Third-Party Management, Tracking, & Reporting Tools Integration
 
@@ -125,13 +125,13 @@ As soon as you launch, you’re going to want to look at how people are using yo
 * If people are having trouble with different areas, how can I help them? Am I doing enough to help them? \(intercom.com, chatbot.com, convertfox.com, verloop.com\)
 * How can I get people to upgrade to the next edition or level?
 * What can I do to help people that are on my sales website buy a subscription? \(intercom.com, convertfox.com, verloop.com\)
-* And loads more… 
+* And loads more…
 
 For all the questions listed above, there are SaaS systems to answer those questions, and you’re going to want and need to use those systems. Plan on integrating these systems up front, rather than later because as soon as you launch you’re going to need them. The systems noted are just the ones I have experience with, so make sure to do some research before going forward with any of these and make sure the solution fits your needs.
 
 ## Unit & Regression Testing
 
-One of my top SaaS build lessons is on unit and regression tests. [Take a look there!](https://docs.google.com/document/d/1qLCH0YaNhxbutZeK9Oo87n9PhssDaHLkWLTPYW0UIMQ/edit#heading=h.h6xfgfzih6l1)
+One of my top SaaS build lessons is on [unit and regression tests. ](../saas-build-process/saas-build-process.md#7-as-soon-as-you-have-project-validation-start-building-in-unit-tests)
 
 Regression testing is a way of building automated tests that tell you if the system is working correctly when you deploy new features. Depending on the type of SaaS you are building and how well validated the system is at launch, you may or may not want to start off building tests into the initial system.
 
@@ -145,7 +145,7 @@ My recommendation for this is to [use Confluence](https://www.atlassian.com/soft
 
 ## Knowledge base
 
-All those users you’re going to have are going to have questions, and lots of them. When there is a question for one customer it just takes a minute, but when you have a thousand customers, it scales at a one to one ratio, and you end up with it taking a thousand minutes. So a knowledgebase where users can find answers or you can direct them for answers very, very quickly becomes a critical system. 
+All those users you’re going to have are going to have questions, and lots of them. When there is a question for one customer it just takes a minute, but when you have a thousand customers, it scales at a one to one ratio, and you end up with it taking a thousand minutes. So a knowledge base where users can find answers or you can direct them for answers very, very quickly becomes a critical system. 
 
 Some systems you may want to consider for your knowledge base:
 
