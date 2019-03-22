@@ -12,9 +12,10 @@ Costing is far from simple. In fact, it is likely the most tedious part of the p
 
 There are three phases to costing your project:
 
-1. Estimation
-2. Scoping
-3. Final Quote
+1. Estimate
+2. Scope & Flows
+3. Operation Costs
+4. Working Numbers
 
 We'll review each step briefly here, but there will also be a more thorough breakdown below.
 
