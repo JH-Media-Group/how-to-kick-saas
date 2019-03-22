@@ -4,13 +4,13 @@ description: >-
   cost to build your system.
 ---
 
-# Costing your system
+# Costing Your System
 
 ## Breaking Down the Costing Process
 
 Costing is far from simple. In fact, it is likely the most tedious part of the planning phase of development. It is also the most vital, though. Properly costing your build process will prove essential in mapping out the project and then keeping it on time and on budget.
 
-There are three phases to costing your project:
+There are four phases to costing your project:
 
 1. Estimate
 2. Scope & Flows
@@ -19,13 +19,13 @@ There are three phases to costing your project:
 
 We'll review each step briefly here, but there will also be a more thorough breakdown below.
 
-### Estimation
+### Estimate
 
 Calculating an estimation for your project does not mean throwing some numbers on a board or using basic rounding techniques to find a rough number like you might have done in middle school. Your estimation is, essentially, going to serve as a rough draft of your scope of work. That means you're looking at hard, in-depth estimates for multiple categories and minimums and maximums for each.
 
 Your estimation is still just that: an estimate. It's not final, and it's certainly not exact, but it should give a firm idea of what the project _will_ cost. This is important, because the numbers your client has in mind are very likely nowhere near what the project will _actually_ cost.
 
-### Scoping
+### Scope & Flows
 
 Your estimate will then be fleshed out further into a full scope of work. If you're not familiar with project scoping, then feel free to check out [this comprehensive guide to scoping](http://www.brainleaf.com/learn-project-scoping) at Brainleaf, or just read on, as the next page focuses solely on that element of planning.
 
@@ -33,9 +33,17 @@ Your scope of work will serve as your actual roadmap for the project. This overa
 
 It might seem like a waste of time at first, but the value of a good scope of work cannot be overstated.
 
-### Final Quote
+### Operation Costs
 
-Then, when your scope is finished, you can present a final quote to the client. At this point, the quote will include all of the coding, design, and so on -- every bit of work that will be required is covered in the quote. The client will be able to see how it all comes together, where each penny of the quote comes from and how it's all added up. Then, once they have signed off on the work to be done, once they have acknowledged the time and the cost -- then you can begin work in earnest.
+It is important to remember throughout the planning phase that you are not just building a website or a SaaS tool - you're also building a _business_. You have to begin planning for not only the creation and utilization of the tool, but also for continued operation of the tool, implementation of new features, and support for your customers. You'll have staff that needs to be paid, overhead to track, advertising to purchase, and much more.
+
+And if you don't begin calculating these costs now, they'll catch you off guard later, and you'll potentially have underpriced your services, leaving you scrabbling to make up the difference after launch.
+
+### Working Numbers
+
+Then, when your scope is finished, you can present a "final" quote to the client. At this point, the quote will include all of the coding, design, and every other bit of work that will need to be done. Yet, remember that the total you come up with here still isn't quite "final". So despite that you might call this a final quote, these working numbers might still fluctuate a bit over the course of the project. 
+
+The point is that the client will be able to see how it all comes together, where each penny of the quote comes from and how it's all added up. Then, once they have signed off on the work to be done, once they have acknowledged the time and the cost -- then you can begin work in earnest.
 
 ## Reviewing the General Costs of Your Project
 
@@ -81,17 +89,15 @@ This, of course, is just a short, simplified list. The rest of this book will, o
 
 Creating your initial estimate isn't going to be easy. There are a lot of considerations, as the list above should have highlighted. We're going to go a bit more into that now, though.
 
-As we start to analyze what various elements will cost, there are a few assumptions that are being made here that you may or may not want to use. Assumptions include:
+### The Estimation Labyrinth
 
-1. We are taking into account the cost of your time.
-2. The cost of your system does not include just the build cost as you will have to run the business moving forward, and even if you fire everyone and just let the system ride, you will still have some ongoing costs. For this reason, we are going to determine costs broken into the following for the first year of business:
-   1. Upfront or build costs
-   2. Ongoing costs
-3. Costing a system like this includes ongoing costs that include things like personnel, hosting, and software.
+The secret of creating a good estimate is experience. If you're drafting an estimate for the first time, you're going to make mistakes. The process is very similar to navigating a labyrinth - the twists and turns are confusing, there are issues that seemingly arise out of nowhere like roaming minotaurs, and you may end up with a monstrous estimation gap - a Goblin King you were unprepared to deal with.
 
-These are good, basic things to include and make your long-term estimate more accurate. We always include them in our own estimates.
+However, these issues can all be dealt with. You may not have the experience or the knowledge, but others have trekked this path before you, and we can show you where the pitfalls are, how to avoid the frightening problems that might otherwise surprise you, how to deal with a huge gap, and pretty much anything else. 
 
-Another thing to keep in mind when working on your estimate is that you want to extract as many details as possible from the client. Any vagueries will leave you with larger gaps between your minimums and maximums, making it harder to nail down a firm estimate range.
+Don't forget to utilize your resources. Do your research.
+
+
 
 ### An Example of An Estimate-Creation Process
 
