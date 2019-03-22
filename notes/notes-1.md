@@ -1,5 +1,50 @@
 # NOTES
 
+ how to use customers from your ltd to become brand advocatesactivation is not thereyou can run promotionsreferral dealssee how often they are using your app - identify who is actively using the tool - who use sometimes - who never take action - people who signed up because it is free  
+see who is willing to engage with you send emails with surveys
+
+* what stops you from using the tool?
+* if they are not willing to answer the question then let them go
+
+Ask them for a call 
+
+* 15m only
+* make sure you have questions ready
+* what is stopping them from using the app
+* what do they want to see from using your app
+* rapid fire question round
+
+once you have the feedback and have implemented it, then let them know it has been added
+
+* creates incentive to go back and use the system
+
+better to have multiple calls
+
+* create multiple engagements with customers
+
+recommends making emails very interactive
+
+* lots of emails do not get read
+* lots of emails get unsubscribed
+* start interactive emails with questions
+* questions and quizzes are working well
+* need to be interactive
+
+retention
+
+* 
+asking for interviewsscaling up revenue
+
+* chat support only for paying customers
+* so that you can spend more time on getting clients onboarded
+* pitching to non-english speaking audiences
+* identify influencers in your niche in those non-english speaking countries
+* for english speaking countries, get in touch with influencers that are promoting your competitors
+
+  
+add Sampath to the list for BLtarget VCs  
+SaaS Mantra university - podcast
+
 Recommended Reading
 
 Some additional marketing automation reading:
