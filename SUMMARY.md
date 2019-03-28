@@ -16,7 +16,7 @@
 
 * [SaaS Build Lessons](saas-build-process/saas-build-process.md)
 * [Build Team Roles](saas-build-process/your-build-team-explained/README.md)
-  * [What to expect from your SaaS development team](saas-build-process/your-build-team-explained/what-to-expect-from-your-saas-development-team.md)
+  * [What To Expect From Your SaaS Development Team](saas-build-process/your-build-team-explained/what-to-expect-from-your-saas-development-team.md)
   * [Build Teams](saas-build-process/your-build-team-explained/saas-development-team-setup.md)
   * [The Project Manager](saas-build-process/your-build-team-explained/the-project-manager.md)
   * [Information Architect](saas-build-process/your-build-team-explained/information-architect.md)

@@ -1,4 +1,4 @@
-# What to expect from your SaaS development team
+# What To Expect From Your SaaS Development Team
 
 Project management is an entire profession, and we can’t cover that body of knowledge in this book. However, as noted previously multiple times, I highly recommend taking a course on Project Management with a focus on [Agile Development Methodology](https://www.atlassian.com/agile) if you are going to be a part of the management team or if you are an entrepreneur wanting to build a SaaS. If you go forward on this, you will have to learn it one way or another. Better to learn it up front than to waste money making mistakes.
 
