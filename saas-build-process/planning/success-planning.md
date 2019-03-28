@@ -54,7 +54,7 @@ Whomever is in charge of the project is managing a company, not just a software 
 
 I have met so many people over time that built great tools only to see them fall flat because they could not take those products to market. If the company leader can't market or sell and they don't have a plan for how they will overcome this, then the product probably cannot make it to market. 
 
-{% hint style="warning" %}
+{% hint style="success" %}
 **PROTIP:** When you're building a SaaS business, you're building a **SALES & MARKETING COMPANY!**
 {% endhint %}
 
