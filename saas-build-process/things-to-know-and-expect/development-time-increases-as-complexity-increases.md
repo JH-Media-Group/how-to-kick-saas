@@ -19,7 +19,7 @@ Each one of these different connections generally has some kind of graphical or 
 
 Let’s make it simple and say that each item takes 10 minutes to check and there is and issue with one in every 10 items that takes an hour to fix. If you had two features, the system would take you an easy 40 minutes to check and according to our formula, probably no issues to fix. But if we took it to a six feature project, now we are looking at 10 hours to check everything and 60 hours \(you didn’t read that wrong, it is 60!\) to fix the problems, and that is a very simple model!
 
-![You can also just do the math on this as 2-way connections = n x \(n-1\)](../../.gitbook/assets/image%20%282%29.png)
+![You can also just do the math on this as 2-way connections = n x \(n-1\)](../../.gitbook/assets/image.png)
 
 If, when you are planning the build time of the system, you plan only the build of the features and not an extra level of time for a thorough debugging and review, you are going to underestimate your build, your costs, your time to market, and generally just be very upset.
 

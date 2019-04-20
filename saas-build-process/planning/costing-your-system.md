@@ -1,19 +1,15 @@
----
-description: >-
-  Costing your system is the process of figuring out how much it is going to
-  cost to build your system.
----
-
 # Costing Your System
 
 ## Breaking Down the Costing Process
 
-Costing is far from simple. In fact, it is likely the most tedious part of the planning phase of development. It is also the most vital, though. Properly costing your build process will prove essential in mapping out the project and then keeping it on time and on budget.
+Costing is far from simple. Personally, I feel like it is the most tedious part of the entire project, but also the most important. Properly costing your build process will prove essential in mapping out the project and then keeping it on time and on budget.
+
+There are countless examples of projects going sideways and issues popping up due to a lack of planning in this book, and across the business environment. I would guess that outside of a lack of validation, a lack of understanding in planning is the number one reason for the failure of SaaS businesses. Small changes in the system infrastructure can lead to huge changes in cost down the road and this can often be discovered during the system costing process.
 
 There are four phases to costing your project:
 
 1. Estimate
-2. Scope & Flows
+2. Information Architecture & Flows
 3. Operation Costs
 4. Working Numbers
 
@@ -21,69 +17,116 @@ We'll review each step briefly here, but there will also be a more thorough brea
 
 ### Estimate
 
-Calculating an estimation for your project does not mean throwing some numbers on a board or using basic rounding techniques to find a rough number like you might have done in middle school. Your estimation is, essentially, going to serve as a rough draft of your scope of work. That means you're looking at hard, in-depth estimates for multiple categories and minimums and maximums for each.
+Your estimation is, essentially, going to serve as a rough draft of your scope of work. That means you're looking in-depth at estimates for multiple areas of work then estimating minimum and maximum times for each.
 
-Your estimation is still just that: an estimate. It's not final, and it's certainly not exact, but it should give a firm idea of what the project _will_ cost. This is important, because the numbers your client has in mind are very likely nowhere near what the project will _actually_ cost.
+Even with a substantial amount of time put towards your estimation, it is still just that, an estimate. It's not final, and it's certainly not exact, but it should give a firm idea of what the project _may_ cost. The more work you put towards you estimate process, the less time your actual scope of work will be to write out and the less time it will take to do plan the rest of your project build.
 
-### Scope & Flows
+### Information Architecture & Flows
 
-Your estimate will then be fleshed out further into a full scope of work. If you're not familiar with project scoping, then feel free to check out [this comprehensive guide to scoping](http://www.brainleaf.com/learn-project-scoping) at Brainleaf, or just read on, as the next page focuses solely on that element of planning.
+Your estimate will then be fleshed out further into a full Information Architecture \(IA\). If you're not familiar with project scoping, you may want to take a look at [this comprehensive guide to scoping at BrainLeaf](https://brainleaf.com/learn-project-scoping).
 
-Your scope of work will serve as your actual roadmap for the project. This overall plan keeps everybody, at all levels of the project, on the same page. In short, it allows every member of your team to know what they need to be working on -- what needs to be done -- and when; the client is also clued into all this. You can also use it to make certain the client can see the impact of any last-minute changes on the scope before they're implemented.
+Paired together, you information architecture and flows will serve as the primary planning documents for the project, much like a set of blueprints acts as the primary planning document for a construction project. These documents keep everybody, at all levels of the project, on the same page and pre-empt issues.
 
-It might seem like a waste of time at first, but the value of a good scope of work cannot be overstated.
+#### The Information Architecture
 
-### Operation Costs
+The Information Architecture \(IA\) is a written document that describes each page, feature, view, state, and functionality of the system. As you are writing this document, I recommend to describe the features by structure as well as to note the functionality of each area. Every element and it's functionality envisioned on every view should be described insofar as what components make it up as well as how it works. In the best case scenario, this document will also describe every page, every view, every element, every function, and the purposes of all these things within the system. The more time you take to plan this aspect of your project, the faster and smoother the rest of the project will go.
 
-It is important to remember throughout the planning phase that you are not just building a website or a SaaS tool - you're also building a _business_. You have to begin planning for not only the creation and utilization of the tool, but also for continued operation of the tool, implementation of new features, and support for your customers. You'll have staff that needs to be paid, overhead to track, advertising to purchase, and much more.
+#### Flows
 
-And if you don't begin calculating these costs now, they'll catch you off guard later, and you'll potentially have underpriced your services, leaving you scrabbling to make up the difference after launch.
+The flows are page by page designs that incorporate the elements noted in the information architecture. As you can imagine, it is substantially easier for a designer to start working with a complete information architecture than to start from scratch on any complex SaaS project. With a fully described system, a designer can plan their design processes or a team can plan resource utilization.
+
+The flows are also very important because while an architect may plan a particular feature or system into a page, the flow and user experience for the ideated system may not actually come together as envisioned. So having a viewable, even if basic, design is critical to a well-planned system.
+
+### Operational Costs
+
+It is important to remember throughout the planning phase that you are not just building a website or a SaaS tool - you're also building a _business_. You have to begin planning for not only the creation and utilization of the tool, but also for continued operation of the tool, implementation of new features, and support for your customers. You'll have staff that needs to be paid, overhead to track, advertising to purchase, taxes to pay, and much more.
+
+And if you don't begin calculating these costs now, they'll catch you off guard later, and you'll potentially have under-priced your services, leaving you scrambling to make up the difference after launch.
 
 ### Working Numbers
 
-Then, when your scope is finished, you can present a "final" quote to the client. At this point, the quote will include all of the coding, design, and every other bit of work that will need to be done. Yet, remember that the total you come up with here still isn't quite "final". So despite that you might call this a final quote, these working numbers might still fluctuate a bit over the course of the project. 
+Once your information architecture, flows, and operational cost planning is finalized, then you will have a great starting point to understand the true costs of the system and be able to make a determination as to the success of the system. Please also remember that the total you come up with here still isn't quite "final". These working numbers might still fluctuate a bit over the course of the project. 
 
-The point is that the client will be able to see how it all comes together, where each penny of the quote comes from and how it's all added up. Then, once they have signed off on the work to be done, once they have acknowledged the time and the cost -- then you can begin work in earnest.
+### The Cost of Costing
 
-## Reviewing the General Costs of Your Project
+As you prepare to cost your system, you may need to have some idea as to how much it costs to do this. Generally, you can expect to spend somewhere in the range of 1.5k to 20k to cost out the entire system. Even if you're doing this yourself, the cost is going to be substantial. When we I work to do this kind of project, the overall cost of using my team usually comes in at ranges like this:
 
-Building a SaaS or a website is a lot more complicated than most people realize. There are a lot of moving parts involved, and the devil is in the details. The trick to getting accurate cost estimates on your system is to take a hard, deep look at all of those details. After you have reviewed the details, assigned hours, and re-reviewed costs, then you will have a good idea if your system is going to be ‘worth it’. From there, you can move into a more complete method of costing.
+| Size of Project | Cost Range to Plan |
+| :--- | :--- |
+| $35,000 - $50,000 | $3,000 - $5,000 |
+| $50,000 - $100,000 | $4,000 - $10,000 |
+| $100,000 - $250,000 | $8,000 - $25,000 |
+| $250,000 - $500,000 | $20,000 - $50,000 |
+| $500,000 - $1,000,000 | $35,000 - $120,000 |
 
-### Be As Thorough as Possible, and Then Some
+As the size of the project goes up, the costing range becomes harder to predict. It is possible that even a very large project could be easy to plan, but for the most part as project builds go up the complexity of planning goes up quadratically. 
 
-The sheer number of elements you have to account for is daunting. Chances are, if you're running your first project, you're going to overlook a large number of things that should be getting mapped out in planning. It just happens.
+## The Estimate
 
-However, that's also why these resources exist - to help you realize what you're missing and to give you insight and knowledge that others have learned the hard way. So, for your benefit, here is a short list of the major elements you need to account for:
+This book comes with a template to get you started in your planning process. 
 
-* Costs to build:
-  * Initial/MVP Release:
-    * Research/Validation time
-    * MVP build cost
-      * Coding/development
-      * Planning
-      * UX Design
-      * Building/running tests
-      * Initial integrations
-      * Project Management
-  * Minimum Viable Sellable Product \(MVSP\) Release
-    * Release version/post MVP cost
-* Costs to market:
-  * Man hours
-  * Software
-  * Ad spend
-* Support
-  * Software
-  * Man hours
-* Operations
-  * Hosting
-  * System support
-  * Ad spend
-  * Additional system build
-    * Long-term additional integrations
+![](../../.gitbook/assets/2019-04-20_15h36_31.png)
 
-This, of course, is just a short, simplified list. The rest of this book will, of course, expound upon all of this. The article linked here, though, is also a good breakdown focusing on the various elements you have to consider.
+[Get started with the SaaS planning spreadsheet.](https://docs.google.com/spreadsheets/d/1qC2h5e_YFvCAAoWA4Vaj1U7k7XPjsUMuqVoLKLAZh0I/edit?usp=sharing)
 
-{% embed url="https://jhmediagroup.com/blog/2018/07/17/how-to-calculate-your-cost-to-build-a-saas-system/" %}
+_Start off by making a copy of this spreadsheet for your project and putting it into your Google Drive account._
+
+#### Who should work on this?
+
+The following team members should review this document together before proceeding.
+
+* The Information Architect
+* Lead Developer
+* Lead Designer
+* Lead Stakeholder
+
+### Spreadsheet organization
+
+The spreadsheet is broken into five sections:
+
+* Overall Costs
+* Standard SaaS System Features
+* System-Specific Features
+* Marketing Website
+* Operational Costs
+
+The Overall Costs worksheet is a dashboard that shows sums from all other areas in one, centralized place. 
+
+With the exception of the overall costs page, each worksheet has a list of items, modifier column that is used to add a modifying value to the other hours, a minimum, maximum, average, and notes column. 
+
+For each list item, a minimum and maximum number of hours are applied and any modifiers are added to those times. The notes column is used to describe the functionality of each item. The hours average has a formula that takes the min hours plus the max hours and divides by two, giving the average number of hours. At the bottom of the page, there is a total number of hours, then a plus and minus 20% amount. 
+
+In development, hours can be vastly different based on small changes to scope of work. So a min/max hours amount is very helpful. Take a look at 
+
+### Pricing Standard SaaS Features
+
+Click on the second worksheet in the spreadsheet entitled "Standard SaaS System Features"
+
+![Standard SaaS System Features](../../.gitbook/assets/2019-04-20_15h38_18.png)
+
+E
+
+The first element of our project estimation focuses on is a listing of “standard features”. In this area, we start off with the general systems that most SaaS systems need. 
+
+{% hint style="warning" %}
+**IMPORTANT NOTE:** The item entitled "UX deisgn / flows, client revisions, & design meetings can balloon quickly! This item must be planned by a professional designer. It can easily go from 40 hours to 400 hours, so do NOT underestimate this item!
+{% endhint %}
+
+Your MVP may or may not require a full list of features often included in a standard SaaS. So review  this worksheet and determine what features can be removed first.
+
+Remember as you proceed through this worksheet that this area covers items that almost all SaaS systems has, but probably none of the system-specific features from your SaaS. That will be covered on the next page.
+
+### System-Specific Features
+
+Now that you have removed anything not necessary from the general SaaS features, move on to the System-Specific Features.
+
+![SaaS System-Specific Features Worksheet](../../.gitbook/assets/2019-04-20_15h54_25.png)
+
+#### Breaking down the estimate by major features
+
+This worksheet is where you will put the majority of your time for the estimate. In this worksheet, consider the major features, outside of standard SaaS features, that your system contains. In this area, create a header for each major area and then name and describe each major feature.
+
+The goal here is to get an hours range for each major area, not to have a a complete breakdown of every item. 
 
 ## How to Create an Estimate
 

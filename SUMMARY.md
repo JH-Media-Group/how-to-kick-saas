@@ -15,6 +15,11 @@
 ## SaaS Build Process
 
 * [SaaS Build Lessons](saas-build-process/saas-build-process.md)
+* [Planning](saas-build-process/planning/README.md)
+  * [Success Planning](saas-build-process/planning/success-planning.md)
+  * [Costing Your System](saas-build-process/planning/costing-your-system.md)
+  * [The Scope of Work - Your Most Important Document](saas-build-process/planning/scope-of-work.md)
+  * [What to expect in SaaS development](saas-build-process/planning/saas-application-development.md)
 * [Build Team Roles](saas-build-process/your-build-team-explained/README.md)
   * [What To Expect From Your SaaS Development Team](saas-build-process/your-build-team-explained/what-to-expect-from-your-saas-development-team.md)
   * [Build Teams](saas-build-process/your-build-team-explained/saas-development-team-setup.md)
@@ -23,11 +28,6 @@
   * [UX Designer](saas-build-process/your-build-team-explained/ux-designer.md)
   * [Developers](saas-build-process/your-build-team-explained/developers.md)
   * [Quality Assurance](saas-build-process/your-build-team-explained/quality-assurance.md)
-* [Planning](saas-build-process/planning/README.md)
-  * [Success Planning](saas-build-process/planning/success-planning.md)
-  * [Costing Your System](saas-build-process/planning/costing-your-system.md)
-  * [The Scope of Work - Your Most Important Document](saas-build-process/planning/scope-of-work.md)
-  * [What to expect in SaaS development](saas-build-process/planning/saas-application-development.md)
 * [Steps to Developing a SaaS](saas-build-process/steps-to-developing-a-saas/README.md)
   * [Architecture Development](saas-build-process/steps-to-developing-a-saas/architecture-development.md)
   * [Creative](saas-build-process/steps-to-developing-a-saas/creative.md)

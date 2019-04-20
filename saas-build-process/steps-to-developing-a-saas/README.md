@@ -6,7 +6,7 @@ The first thing to note here is that books are written linearly and the producti
 
 These are steps for the SaaS application build, not the public facing website. **Several of these items are run in parallel, but noted linearly in the list below.**
 
-![SaaS Development Flow](../../.gitbook/assets/image.png)
+![SaaS Development Flow](../../.gitbook/assets/image%20%282%29.png)
 
 [See the full image of the SaaS Development Flow Here.](https://www.brainleaf.com/img/brainleaf-process-flow-chart-with-steps.png)
 

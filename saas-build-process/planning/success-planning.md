@@ -1,19 +1,20 @@
 # Success Planning
 
-## Success comes in one form
+## SaaS Success Comes In One Form
 
-This chapter is as much for the developer interested in learning about what they need to know to build a SaaS for a client as it is for the entrepreneur or lead stakeholder in the project. 
-
-Success planning is SaaS development starts with assessing the feasibility of the project from a business standpoint first, then a technology standpoint. If the system is feasibly, then we start looking at what success means for the group building the system. Success can mean a lot of things to different people, but since this is a business, it comes down to these two things:
+Success can mean a lot of things to different people, but since this is a business, it comes down to a few things:
 
 * Run, provide value, and make money
 * Build, grow, sell and make money
+* Generate leads, and make money
 
-Did you think it was going to be something else? You're running a business, and business is about money. There's also the whole personal fulfillment thing. But trust me, its hard to have a lot of personal fulfillment if you're living out of your car, so let's focus on the money.
+Unless you are building a system that is funded from some other method, such as a government grant or non-profit, you are here to make money. Make no mistake, if you don't make money you're going to be done building this system fairly quickly.
+
+Success planning in SaaS development starts with assessing the feasibility of the project from a business and monetary standpoint first, then a technology standpoint. 
 
 ## Determining Feasibility
 
-This is the same thing as validation. But if you're a developer or development team member that is being hired to do a SaaS project, here is a word of advice; make sure that the project has a high probability of a positive outcome. This means that you think that the thing can make money. If you take a project that crashes and burns to the ground, it's going to at least burn you a bit. It could also take you down with it.  In addition, very often the person or group hiring you to build the system will blame you for it's failure. 
+Feasibility is in many ways the same thing as validation. If you're a developer or development team member that is being hired to do a SaaS project, here is a word of advice; make sure that the project has a high probability of a positive outcome. This means that you think that the thing can make money. If you take a project that crashes and burns to the ground, there is a fair chance that you're going to get burnt as well. It could even take your company down with it.  In addition, very often the person or group hiring you to build the system that fails will blame the developer for it's failure. 
 
 When I am assessing feasibility, I ask a lot of questions about the business. I want to make sure that this project can and will make money for it's investors. Here are some of the questions I ask and things I look into:
 
@@ -21,15 +22,17 @@ When I am assessing feasibility, I ask a lot of questions about the business. I 
 
 As noted elsewhere in this book, the number of times a stakeholder or group has built and launched a SaaS is one of the top indicators of success of a project. 
 
-Here's a quick thought game for you. Why don't you build a computer parts building company instead of this SaaS? 
+Here's a quick thought game for you. Why don't you build a microchip building company instead of this SaaS? 
 
-Most people would say something like "I don't know anything about computer parts. I wouldn't even know where to get started. I don't know the people, I don't know where to sell, I don't know who to sell to, I don't know how to build computer parts!"
+Most people would say something like "I don't know anything about microchips. I wouldn't even know where to get started. I don't know the people, I don't know where to sell, I don't know who to sell to, I don't know how to build computer parts!"
 
 The same thing applies here. Building a SaaS is an entire industry. It's not something you're going to learn by just doing it for a month or two. It takes years to understand what you're getting into and run an efficient company, just like building computer parts.
 
 ### 2. If the person or group doing the project has not built a SaaS in the past, are they familiar with industry terminology?
 
-If the answer is no, then they have rarely taken the time to research what they are about to get into. The project is probably going to fail. My method for dealing with this group is to tell them that they should read this book. If they read the book, start their validation process, and still want to work on the project, then I am happy to talk to them. If they don't have a background and won't read the book then I won't work with them. If you're reading this book right now since I asked you to read it so we could do a project together, thank you!
+If the answer is no, then they have rarely taken the time to research what they are about to get into. The project is probably going to fail. My method for dealing with this group is to tell them that they should read this book. If they read the book, start their validation process, and still want to work on the project, then I am happy to talk to them. 
+
+On the flip side, if they don't have a background and won't read the book then I won't work with them. If you're reading this book right now since I asked you to read it so we could do a project together, thank you!
 
 ### 3. Is the project going to make money?
 
