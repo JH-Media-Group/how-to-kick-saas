@@ -1,4 +1,4 @@
-# Planning
+# Planning & Costing
 
 ## This step will save or lose you more money than anything in the project, so don’t rush it. 
 

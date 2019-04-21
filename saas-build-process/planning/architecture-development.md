@@ -1,4 +1,4 @@
-# Architecture Development
+# Information Architecture Development
 
 Once you have a validated idea, a pre-sold system, and an estimate that makes business sense it's time to dive into all the aspects of your system. Just like planning any complex machine, you will need to really think through every aspect, every angle, every method for use as you work out your information architecture. 
 
