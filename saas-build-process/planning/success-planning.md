@@ -49,11 +49,11 @@ This is surprisingly simple question most of the time. If a potential client:
 * [Is entering a blue ocean, not a red ocean](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
 * If the client wants to compete with large businesses, enter a red ocean, or wants to build a large platform, they MUST have an in-depth understanding of what they are doing and a budget to match. Remember, the bigger the reach and more dug-in the competition the larger the budget is required to gain market share.
 
-### 4. Is the client easy to work with?
+### 4. Is this person or group easy to work with?
 
 Whomever is in charge of the project is managing a company, not just a software system, and a company is made of people. If they are difficult to work with, then there is a lower likelihood that they will be able to manage the growth of the company. More importantly, working with difficult people doesn't make my life any easier, so I don't do it. 
 
-### 5. Can the client take the product to market?
+### 5. Can the entrepreneur or company take the product to market?
 
 I have met so many people over time that built great tools only to see them fall flat because they could not take those products to market. If the company leader can't market or sell and they don't have a plan for how they will overcome this, then the product probably cannot make it to market. 
 
@@ -63,7 +63,7 @@ I have met so many people over time that built great tools only to see them fall
 
 ### The If's
 
-If the client:
+If the entrepreneur:
 
 1. Understands what they're getting into and is willing to learn
 2. Is easy to work with
