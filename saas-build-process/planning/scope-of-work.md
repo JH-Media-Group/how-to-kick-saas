@@ -1,4 +1,4 @@
-# The Scope of Work - Your Most Important Document
+# The Scope of Work
 
 ## Your most important document
 
