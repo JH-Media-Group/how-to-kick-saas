@@ -48,21 +48,24 @@ Before we get too far along, let’s go through the basics. Below are a set of q
 
 As you can see, the majority of these questions are about pricing, sales, revenue, and business. These are the things that should be on your mind if they’re not already.
 
-## The 3 A’s of Your SaaS Machine
+## The 4 A’s of Your SaaS Machine
 
 Now that you've got a few things on your mind about sales and marketing, now it's time to think about the levers you can pull to grow your SaaS.
 
-#### The three A’s of SaaS are:
+#### The four A’s of SaaS are:
 
 * Appraisement
 * Acquisition
+* Activation
 * Attrition
 
 ### Appraisement
 
 “The act of estimating or judging the nature or value of something or someone.” - Dictionary.com
 
-Appraisement here refers to setting the price of your system. This is by far the most overlooked channel of SaaS business growth. Most entrepreneurs and companies I’ve spoken to talk all about acquisition and attrition, but spend little to no time on appraisement. 
+Appraisement here refers to setting the price of your system. This is by far the most overlooked lever of SaaS business growth. Most entrepreneurs and companies I’ve spoken to talk all about acquisition and attrition, but spend little to no time on appraisement. 
+
+In the section on Appraisement, we will review how to determine who your customers are, what they want, how much they are willing to pay for it, and how to iterate on these ideas.
 
 ### Acquisition
 
@@ -70,15 +73,23 @@ Appraisement here refers to setting the price of your system. This is by far the
 
 Different SaaS businesses acquire users in very different ways. Sometimes it’s about direct sales, meeting people at trade shows and following up with them. Much of the time, it is heavily focused on search engine marketing and ranking for the right keywords; other times it is done through partnerships and affiliate marketing. Every system has a different market, a different problem they’re solving, and a different set of users. 
 
-Understanding your user groups, who they are, what they want, how to reach them, and how they want value delivered are all aspects of user acquisition. 
+Acquisition goes hand in hand with Appraisement. Once you know who are are selling to and what makes them tick, then you can figure out the best ways to reach them and help them understand the value you present. In this chapter, we will also cover the major aspects of user acquisition associated with web-based businesses as well as tricks of the trade that no one likes to talk about.  
+
+### Activation
+
+"The action or process of making something active or operative." - The Oxford Dictionary 
+
+Getting people to your SaaS and having them take a look at the system is one thing, but it's not enough. How many people have pitched you on a product or service only to have you listen to their pitch ask a few questions then walk away? The same applies to your SaaS. If you don't take steps to help your users starting using your system and getting value from it immediately, they are going to walk away, and probably not come back. 
+
+This chapter takes you through processes of helping users flow from being a window shopper to a returning customer.
 
 ### Attrition
 
 “A reduction or decrease in numbers, size, or strength.” - Dictionary.com
 
-Attrition is essentially how many people leave. This is also known as “churn” in the SaaS world. Conversely, we also talk about “retainment” which is exactly what you think, how many people stay.
+Attrition is essentially how many people leave. This is also known as “churn” in the SaaS world. Conversely, we also talk about “retainment” which is exactly what you think, how many people stay. In our chapter on Attrition, we will take a look at all the reasons people stick around. From the value of the system, to the way you make people feel, to the support you give them and how you keep them engaged in the growth of the company and system. 
 
-### Understanding the A’s
+## Understanding the A’s
 
 These are the buttons you push to make your SaaS company grow. There is a simple trick here that you need understand. 
 
@@ -90,10 +101,4 @@ You need to know:
 Obviously, the LTV has to be higher than the CAC, right? But by how much? According to [PriceIntelligently.com](http://priceintelligently.com/), it always needs to be higher than 3 to 1, preferably a lot more. That means that for every dollar you’re spending to acquire a customer, you’re making 3 dollars. According to the [same source](http://priceintelligently.com/), if you continually optimize your pricing, you can get this up to 11 to 1.
 
 Let’s examine this a bit more because it is **really important** that this part is clear.
-
-### LTV to CAC
-
-Let’s say your LTV to CAC is 3 to 1. That means that you made $3 for a spend of $1 and now have $2 left over to 1\) get the next customer and 2\) operate the business and 3\) have some money remaining \(profit\) for growth. 
-
-We covered this first so that it is in your mind as we move forward through stories, processes, techniques, and tricks of the trade. We’re going to delve deeper into it when we get to costing and accounting, but first, let’s make sure your SaaS has a chance before going deeper. 
 

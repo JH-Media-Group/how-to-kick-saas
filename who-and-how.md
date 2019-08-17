@@ -46,20 +46,8 @@ The book takes you through much of what I learned over the years about:
    8. Continuous Marketing - All of this, all the time
 5. Activation
    1. What is Activation
-      1. Selling, educating, and usability \(mostly usability\)
-      2. What’s my motivation?
-      3. Friction          Baby
    2. Iterative Activation
-      1. CRO
-      2. How people interact with your SaaS  
-      3. Stalking your customers
    3. Onboarding
-      1. Make it easy and cut to the chase
-      2. Change is inevitable \(you're going to iterate\)
-      3. Value now, not later
-      4. Value proposition as you progress
-      5. Onboarding made easy-er
-      6. System education & outreach
    4. Simple things to do on the website to assist in activation
 6. Attrition / Retention
    1. Supporting your customers
