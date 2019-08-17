@@ -128,3 +128,7 @@
 * [NOTES](notes/notes-1.md)
 * [The best growth hacks no one wants you to know](notes/the-best-growth-hacks-no-one-wants-you-to-know.md)
 
+## Activiation
+
+* [Activation](activiation/activation.md)
+

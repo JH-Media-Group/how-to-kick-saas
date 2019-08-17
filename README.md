@@ -6,6 +6,10 @@ description: >-
 
 # Introduction
 
+## Disclaimer: This book isn't finished.
+
+As the digital pages turn, you may realize that there are sections in this book that are incomplete and pages that end abruptly. There's a good reason for all of this. I put this book out there for everyone, so that you wouldn't make the mistakes I have in growing SaaS businesses. Even though this text is incomplete, it still covers so many areas that I couldn't find consolidated anywhere else on the web. I hope you find value in this book, despite a few missing pages and incongruent sections. 
+
 ## So you're starting a SaaS business?
 
 Or like so, so many people you've probably already gotten started and realized that maybe the path you're on isn't working out quite the way you expected. Don't worry, this happens a lot to a lot of people. Over the years I have talked to so, so many people that have thrown away millions of dollars trying to start SaaS businesses only to see the money go to waste, and that is the main reason I wrote this book, to keep this from happening to you.
@@ -47,5 +51,7 @@ You can also get me on linkedin at: [https://www.linkedin.com/in/jasonmlong1/](h
 * [www.jhmediagroup.com](http://www.jhmediagroup.com/)
 * [www.brainleaf.com](http://www.brainleaf.com/)
 * [www.medrevup.com](http://www.medrevup.com/)
+* [www.sensiblesurveys.com](https://www.sensiblesurveys.com)
+* [www.sellmydata.io](https://www.sellmydata.io)
 * [www.diagnosticsmarketing.net](www.diagnosticsmarketing.net)
 
