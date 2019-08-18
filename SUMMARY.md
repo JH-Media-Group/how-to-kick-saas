@@ -8,17 +8,17 @@
 
 * [The Business of SaaS](the-business-of-saas/the-business-of-saas.md)
 * [Basic Lessons of Saas](the-business-of-saas/basic-lessons-of-saas.md)
+* [The Process](the-business-of-saas/the-process.md)
 * [Validating Your Idea](the-business-of-saas/validating-your-idea.md)
 * [Parts of a SaaS](the-business-of-saas/parts-of-a-saas-1.md)
-* [The Process](the-business-of-saas/the-process.md)
 
 ## SaaS Build Process
 
 * [SaaS Build Lessons](saas-build-process/saas-build-process.md)
 * [Planning & Costing](saas-build-process/planning/README.md)
   * [The Costing Process](saas-build-process/planning/the-costing-process.md)
-  * [Creative Brief](saas-build-process/planning/creative-brief.md)
   * [The Estimate](saas-build-process/planning/costing-your-system.md)
+  * [Creative Brief](saas-build-process/planning/creative-brief.md)
   * [Information Architecture Development](saas-build-process/planning/architecture-development.md)
   * [The Scope of Work](saas-build-process/planning/scope-of-work.md)
   * [Working Numbers](saas-build-process/planning/working-numbers.md)
@@ -67,7 +67,6 @@
   * [Story Time: The Best of the Best](saas-build-process/things-to-know-and-expect/story-time-financial-constraints.md)
   * [Sunk Costs](saas-build-process/things-to-know-and-expect/sunk-costs.md)
 * [Your SaaS MVP Pre-Development Build Checklist](saas-build-process/your-saas-mvp-pre-development-build-checklist.md)
-* [Success Planning - MAY BE REMOVED](saas-build-process/success-planning.md)
 
 ## Appraisement: Pricing Your SaaS
 
@@ -117,9 +116,7 @@
 * [SaaS Community Building](attrition-supporting-your-community-and-growing-your-business/saas-community-building.md)
 * [Chatbots](attrition-supporting-your-community-and-growing-your-business/chatbots.md)
 * [Events](attrition-supporting-your-community-and-growing-your-business/events.md)
-* [Training Webinars](attrition-supporting-your-community-and-growing-your-business/training-webinars.md)
 * [Swag](attrition-supporting-your-community-and-growing-your-business/swag.md)
-* [Onboarding](attrition-supporting-your-community-and-growing-your-business/onboarding.md)
 * [Education](attrition-supporting-your-community-and-growing-your-business/education.md)
 * [The Knowledge Base](attrition-supporting-your-community-and-growing-your-business/knowledgebases.md)
 
@@ -130,5 +127,7 @@
 
 ## Activiation
 
-* [Activation](activiation/activation.md)
+* [Activation](activiation/activation/README.md)
+  * [Onboarding](activiation/activation/onboarding.md)
+  * [Training Webinars](activiation/activation/training-webinars.md)
 

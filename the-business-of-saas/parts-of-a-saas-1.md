@@ -43,13 +43,23 @@ When new users sign up for the system, the onboarding system takes them through 
 
 The onboarding process is a key portion of both acquisition and retention. It integrates into your marketing and sales processes and is integral to the success of your system.
 
-User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../attrition-supporting-your-community-and-growing-your-business/onboarding.md) to improve this process with education, simplicity, UX, and processes.
+User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../activiation/activation/onboarding.md) to improve this process with education, simplicity, UX, and processes.
 
-## Payments management
+## Payments management system
 
 Payments management refers to a place where transactions, subscriptions, plans & editions, refunds, and other payment-related features can be viewed and processed. At the time of writing, commonly used systems were [BrainTree Payments](https://www.braintreepayments.com/), [Authorize.net](http://authorize.net/) and [Stripe](http://stripe.com/). However, most payment processors can be used for this purpose. Tools such as the ones noted above have great APIs for SaaS payment processing, but there are a large number of other payment processors that work just as well and are substantially less expensive.
 
 An important note about Stripe, BrainTree Payments, and other similar systems are that initially it is advantageous to start out using these systems because the initial cost of implementation is low, but after you hit a certain credit-card based revenue point, the cost of developing a custom system becomes lower than continuing to use these systems. That being said, my recommendation is to start out with product validation and the fastest, easiest system to build before adding any additional features. 
+
+## User Payment Management Area
+
+This refers to the system used by users to manage their payments. This can be as simple as a list of invoices and as complicated as a system for increasing seats in the system, editions, and more. 
+
+The user payments area needs to include, but is by no means limited to, transactional emails that inform a user that they:
+
+* Have paid a bill \(a receipt of payment\)
+* Owe money - credit card expired, payment did not go through, etc.
+* Owe more or less money than previously. This could happen if the users edition was changed, team members were added or removed, more credits were purchased, etc.
 
 ## Portal/Dashboard
 
@@ -157,26 +167,27 @@ This is a lower-end solution, but it works. You can get started quickly and depl
 
 There are a ton of 3rd party knowledge base systems out there. Some that we have used include:
 
-* Confluence
-* Contentful
-
-As a part of other systems
-
-* Zendesk
-* Helpscout
-* Intercom \(their knowledge base system is part of their chatbot\)
+* [Zendesk](https://www.zendesk.com/)
+* [Confluence](https://www.atlassian.com/software/confluence)
+* [Helpscout](https://www.helpscout.com/)
+* [Intercom ](https://intercom.com)\(their knowledge base works hand in hand with their chatbot\)
 
 ### List of Knowledge base systems
 
 [Quora has a great list of systems here.](https://www.quora.com/What-is-the-best-knowledge-base-software) Take a look for a full list.
 
-Payment Systems
+## Customer Support Systems
 
-This refers to the system used by users to manage their payments. This can be as simple as a list of invoices and as complicated as a system for increasing seats in the system, editions, and more. 
+Customers are going to have questions, they're going to have problems, and they're going to want to talk to someone about all of this. You could just put your email out there and have people email back and forth with you, but that's going to get real messy real fast when you have hundreds of customers with thousands of questions and several customer support team members trying to answer those questions. 
 
-The user payments area needs to include, but is by no means limited to, transactional emails that inform a user that they:
+So rather than killing yourself and your reputation, how about starting off with a system that is going to help you manage tickets and requests right away? 
 
-* Have paid a bill \(a receipt of payment\)
-* Owe money - credit card expired, payment did not go through, etc.
-* Owe more or less money than previously. This could happen if the users edition was changed, team members were added or removed, more credits were purchased, etc.
+My recommendations for getting started are:
+
+* Helpscout
+* Zendesk
+
+These systems all allow you to scale up and add more and more team members to a support infrastructure that will scale with your business. 
+
+
 
