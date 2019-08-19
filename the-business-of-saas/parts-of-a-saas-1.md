@@ -1,6 +1,6 @@
 # Parts of a SaaS
 
-Before getting into how you’re going to plan, price, build, sell, and grow your SaaS business, let’s get acquainted with the major areas of what it is you’re thinking about building. The areas examined below are aspects of most SaaS systems, although not all of them.
+Before getting into how you’re going to plan, price, build, sell, and grow your SaaS business, let’s get acquainted with the major areas of a SaaS. The areas examined below are aspects of most SaaS systems, although not all of them.
 
 ## Public facing sales & marketing website
 

@@ -1,28 +1,39 @@
 # Validating Your SaaS
 
-## Where to start?
+## This is the MOST IMPORTANT thing in the book, don't skip it.
 
-A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place. They quickly find out that what they built won't sell, doesn't solve the problem, and that they don't have the skill or knowledge to sell to their target market. 
+A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place, know who they are selling to, understand how to reach those people, know what to say, and often end up realizing that either they built something that was not worth building or cannot compete in the market. 
 
-### Here's what I see a lot:
+### What normally happens:
 
 1. I have an idea!
 2. Hire a team to build my idea.
 3. How do I sell this thing?
 4. Throw money at marketing something that never had a chance in the first place.
-5. Give up and complain about how the developers destroyed a great idea.
+5. Give up and complain about how the developers destroyed a great idea. 
+6. Cry.
+
+This happens more than anyone wants to admit. 
+
+It hurts, it's embarrassing, it's a loss, and it can put you in the hole fast and in a bad way. It can ruin marriages and sink people into depression. If this is the position you're in now, it's ok. It happens to the best of us, and has happened to me more than once. Maybe you can pivot your business and still get some use out of the system, or maybe it's time to wash your hands of this, build up funds again and start over with a fresh perspective. Either way, you're going to learn a lot and it's going to [be better the next time](../the-business-of-saas/basic-lessons-of-saas.md#lesson-2-the-number-one-indicator-of-saas-success-youre-probably-going-to-fail-and-thats-ok). 
 
 As you probably suspected, there's a much better way. 
 
 ## You MUST Validate Your Idea
 
-You’ve got to validate your idea and get customers or potential customers to put money in your pocket as soon as possible in order to do so. That’s where the rubber meets the road, and where your success is determined.
+There are a few people out there who did not do any validation and were still wildly successful. This is luck, plain and simple. For the rest of us, there is a process to ensuring success, it's call validation. For a SaaS project, I have outlined a process that works, but only if you do it.
 
-To learn to validate your idea the best thing you can do is to read [The Lean Startup by Eric Ries.](http://theleanstartup.com/) But since you’re already reading this book and you’re probably going to finish because this book is way more interesting than that book \(he’s actually a better writer than I am, so read his book\), here are the basics of what you need to do.
+The validation process outlined in this book is specific to SaaS products. But I recommend going further than just this and reading [The Lean Startup by Eric Ries.](http://theleanstartup.com/) Since you’re already reading this book and you’re probably going to finish this one first, let's delve into the SaaS validation process. 
 
-## Storytime with David: We didn't start out to build a consultancy
+But first, let's talk about what happens when you don't validate.
 
-David had an idea. He had been spending ten to thirty thousand dollars, per facility per year with consultants to get this data. For all of these years, those consultants were doing work that he _knew_ could be automated. 
+## What happens when you don't validate
+
+### Storytime with David: Simple questions go a long way
+
+David had an idea. He had been spending ten to thirty thousand dollars per year with consultants to get this data. For all of these years, those consultants were doing work that he _knew_ could be automated.
+
+David was an Economic Developer at the regional level in the Southeastern US. He worked for the government and his job was to bring industries into a region. Part of doing this was to query regional industries about their wages and benefits so other businesses moving in would know what to expect to pay people, what benefits they needed to give, and the level of the workforce in the area. It was critical data, but it was hard to come by because no one wants to give that data away. But David had an idea.
 
 It was so easy, just a few simple features; a surveying system to ask questions, a template with all the questions pre-built, some simple systems to enable the survey participants to flow through the survey faster than other systems, and he would have a for-sure sale. He knew the industry, he knew the people. Heck, he was one of them! 
 
@@ -30,82 +41,33 @@ After a 60k investment, a year of work, and more testing and frustration than he
 
 Over the course of the tradeshow his heart started to sink.
 
-The system was perfect, it did exactly what he needed it to do. But over the course of three days, he realized that in states across the US other people in his industry didn't want the software, they wanted someone to do the work for them. They _wanted_ the consultants. 
+The system was perfect, it did exactly what he needed it to do. But over the course of three days, he realized that in states across the US other people in his industry didn't _want_ the software, they wanted someone to do the work for them. They _wanted_ the consultants. 
 
-His target market didn't care about the software at all, what they wanted was the service, not the system. They didn't have time to implement the software he had built even if they wanted to. He had built a great system, but in the end, he could run the exact same business by just using the current industry leading survey software system and avoided all the cost of development. 
+His target market didn't care about the software at all, what they wanted was the service, not the system. They didn't have time to implement the software he had built even if they wanted to. He had built a great system, but in the end, he could run the exact same business by just using the current industry leading survey software system and could have avoided all the cost of development. 
 
 He realized that what he had built was not an innovative solution to a major problem. He was just a new consulting company to do the same work that all the other consultants were doing, but with less tested and less effective software. 
 
-### How could this have been avoided?
+### Storytime with Eyal: Lost money & lost reputation
 
-David had gone through most of the aspects of the validation process, but he didn't get in front of a lot of other people and ask them specifically if they could and would use the system.
+Eyal approached me several years ago with a big problem and was in trouble. He had taken investment money from his friends and partners to build a SaaS. He heard about us through a friend and reached out immediately. It was the same story I'd heard so many times.
 
-There are several ways this could have been accomplished. 
+He was a prominent person in the community and had previously held a position at his full-time job that gave him access to a lot of wealthy friends. Several of those friends invested in his idea to the tune of almost half a million dollars. When we finally got in touch with me things were not going well for him. 
 
-#### 1. Go to the tradeshow as an attendee and just ask people if they would buy the system. 
+Eyal had invested all the money in the build of system and a substantial amount had been spent making changes as the system build progressed. When we connected he had an incomplete syste, little to no money left for marketing, investors that were asking a lot of questions, and had no idea how to lead the company.
 
-So many people I have spoken to when I recommend something like this say "I can't afford to spend 2k on a tradeshow where I'm not going to make any money!"
+### Krystina
 
-My answer is simple. Would you rather spend 2k figuring out if this will work or 50k building something you'll never make a dollar from? 
+### Jake 
 
-#### 2. Send a survey
+### Dr. Russell 
 
-If you don't know your audience, you probably shouldn't be doing this in the first place. So, get started with taking a list of people in the industry and asking them all to take a quick survey. You'll want to have some aspects of what you're building ready to view before you do this, but even if you don't you can still ask questions. 
+### Dr. Paul
 
-Even if you are entering a new market that you don't know that much about, you could take the following methods to find the people to ask:
+### Jason \(me\) - BrainLeaf
 
-1. Join an association and get their members list
-2. Do market research and hire a VA \(virtual assistant\) to find email addresses
-3. Run some ads on Facebook targeted towards your users and ask them to fill out your survey. You can also offer to compensate them. Just make sure to set up only a limit to the number of people you're going to pay. 
+## Critical Questions
 
-Here are some of the questions that David may have used for his target audience:
+In every one of these situations a few hours to a few days of time ensuring the product would sell, had a solid market, and was delivering something that was needed and wanted would have saved countless months and years of work, bankruptcy, ruined relationships, overwhelming debt, destroyed businesses, and the hopes and dreams of hard working, good people. The questions surrounding the feasibility and sustainability of major investments CANNOT be underestimated. Building a new business is no trivial matter, even for the wealthy, so don't take it lightly. 
 
-1. How do you currently collect local wage and benefits information from the largest local employers?
-   1. We don't collect or distribute this data
-   2. We have a consultant do this for us
-   3. We use state-wide data
-   4. We have an in-house person do this for us
-2. How often do you collect this data?
-   1. More than once a year
-   2. Once a year
-   3. Every other year
-   4. Every three years
-   5. Whenever we have time, but more than every 3 years
-3. What is the cost of collecting this data?
-   1. Free
-   2. 1k - 5k
-   3. 5k - 10k
-   4. 10k - 20k
-   5. 20k - 30k
-   6. 30k+
-4. What are your top frustrations with collecting this information?
-   1. Text answer
-5. For groups using consultants or in-house staff, what is your process for getting this data?
-6. If there was a software system that just required you to send out a pre-built survey and make some followup calls to your industries, would you use it?
-7. How much would you pay for this system?
-   1. I wouldn't pay for it
-   2. Less than 1k per year
-   3. 1k - 2.5k per year
-   4. 2.5k - 5k per year
-   5. 5k - 10k per year
-   6. 10k+ per year
-8. What system features would you find most valuable? \(put in order of importance\) 
-   1. The form would auto-fill last years' answers for industries \(link to video showing how this would work\)
-   2. The system would anonymously collect all data and auto-compile it for you.
-   3. Integrate with HRI systems to import industry compensation data automatically.
-   4. Advanced web-based dashboard specifically built to help industries understand this data.
-9. Would you buy this software if I built it?
-   1. Yes
-   2. No
-   3. Maybe \(if maybe, why?\)
-10. If yes: if I were to give you 50% off for the first year, knowing the system would be done a year from now, would you be willing to pay for the system now?
-    1. Yes
-    2. No
-11. If yes, would you be willing to do a phone call with me to talk more about this?
-    1. Yes - links to calendar scheduling system
-    2. No
-
-Think about this simple step for just a minute. An hour of time spent working on this survey and sending it out to friends who would absolutely complete the survey would have saved someone $60,000.00, a year of work, and countless hours of frustration. 
-
-Don't let this be you. Don't be David.
+Do your homework, be a professional, build a sustainable and profitable business, and live a good life. To do all of this, start by thoroughly validating your idea. 
 
