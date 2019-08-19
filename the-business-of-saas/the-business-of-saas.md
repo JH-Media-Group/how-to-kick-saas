@@ -1,6 +1,6 @@
 # The Business of SaaS
 
-Welcome, SaaS entrepreneur! 
+## Welcome, SaaS entrepreneur! 
 
 Whether you’re dreaming of a passive income stream that will let you travel the world, an executive planning on taking your business to the next level, a veteran SaaS operator trying to grow or scale your system, or perhaps a developer or designer thinking that it’s time you turn all these years of learning to code or design into something more lucrative: this book should give you anything from a huge boost to a validation that what you thought was right was, in fact, right.
 
@@ -8,7 +8,21 @@ This book takes you through not just the build of the system, but the ideation, 
 
 ## **What is a Software as a Service \(SaaS\)?**
 
-A Software as a Service \(SaaS\) is a cloud-based or partially cloud-based computer program that is constantly being added to and maintained and that users pay for on an ongoing basis. Payments are generally made monthly or yearly, but can also be made in a variety of different ways. These systems almost always require additional business systems such as maintenance, customer service, a knowledge base, ongoing development resources, and more to continue to operate. SaaS systems often require a high initially investment, but can also have a high profit margin. Commonly used SaaS systems include Asana, Skype, Zoom, Join.me, G Suite, and Slack.
+A Software as a Service \(SaaS\) is a cloud-based or partially cloud-based computer program that is constantly being added to, improved, and maintained and that users pay for on an ongoing basis. Payments are generally made monthly or yearly, but can also be made in a variety of different ways. These systems almost always require additional business systems such as maintenance, customer service, a knowledge base, ongoing development resources, and more to continue to operate. SaaS systems often require a high initially investment, and often have a high profit margin. Commonly used SaaS systems include:
+
+, Zoom, Harvest, Strava, Spotify, G Suite, Hootsuite, JIRA,  and Slack.
+
+* Salesforce
+* SAP
+* Quickbooks
+* Asana
+* Zoom
+* Strava
+* Spotify
+* G Suite
+* Hootsuite
+* JIRA
+* Slack
 
 ##  What does a SaaS do?
 

@@ -14,32 +14,38 @@ Step by step, the process of developing your SaaS intertwines almost all aspects
 
 But clearly, you will need to know your path and how everything fits together. So in this section, I have outlined your process from start to finish and explained the priciples of each area so you know where to start and where to go as you progress through the rest of the chapters.
 
-## Phase 1: Business Validation & Presales
+### Phase 1: Business Validation & Presales
 
+1. Direct Sales vs Marketing-based sales
+2. Validation processes
+3. Validation success
 
+### Phase 2: MVP, Community, SEO, The Hook & List
 
-1. Phase 2: MVP, Community, SEO, The Hook & List
-   1. Launch your website
-   2. [Begin SEO](../acquisition-gaining-saas-users/organic-search-marketing/)
-   3. Find the hook
-   4. [Start community building](../attrition-supporting-your-community-and-growing-your-business/saas-community-building.md)
-   5. [Start gathering emails](../acquisition-gaining-saas-users/email-marketing.md)
-   6. [Build your system](../saas-build-process/saas-build-process.md) & [beta testing](../saas-build-process/steps-to-developing-a-saas/beta-testing.md)
-   7. [Iterate & ideate on community suggestions](../saas-build-process/things-to-know-and-expect/development-is-iterative.md)
-2. Phase 3: Release, Advertise, Marketing, Support, & Grow
-   1. Release your SaaS
-      1. May want to consider a [Lifetime Deal](../acquisition-gaining-saas-users/lifetime-deals.md)
-   2. PR + [Advertising](../acquisition-gaining-saas-users/pay-per-click-ppc.md)
-   3. Grow through teaching
-      1. Podcasts - sponsoring and getting on the circuit
-      2. Education
-      3. [Blog / SEO](../acquisition-gaining-saas-users/organic-search-marketing/)
-   4. Comparison sites
-   5. [Channel Partners](../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
-      1. [Affiliate Marketing](../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
-   6. Outbound marketing
-   7. Support your customers
-   8. Grow your business and make money
+1. Launch your website
+2. [Begin SEO](../acquisition-gaining-saas-users/organic-search-marketing/)
+3. Find the hook
+4. [Start community building](../attrition-supporting-your-community-and-growing-your-business/saas-community-building.md)
+5. [Start gathering emails](../acquisition-gaining-saas-users/email-marketing.md)
+6. [Build your system](../saas-build-process/saas-build-process.md) & [beta testing](../saas-build-process/steps-to-developing-a-saas/beta-testing.md)
+7. [Iterate & ideate on community suggestions](../saas-build-process/things-to-know-and-expect/development-is-iterative.md)
+
+### Phase 3: Release, Advertise, Marketing, Support, & Grow
+
+1. Release your SaaS
+   1. May want to consider a [Lifetime Deal](../acquisition-gaining-saas-users/lifetime-deals.md)
+2. PR + [Advertising](../acquisition-gaining-saas-users/pay-per-click-ppc.md)
+3. Grow your SaaS
+   1. Podcasts - sponsoring and getting on the circuit
+   2. Education
+   3. [Blog / SEO](../acquisition-gaining-saas-users/organic-search-marketing/)
+4. Comparison sites
+5. [Channel Partners](../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
+   1. [Affiliate Marketing](../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md)
+   2. Influencers
+6. Outbound marketing
+7. Support your customers
+8. Grow your business and make money
 
 ### Every business is different.
 

@@ -9,8 +9,15 @@
 * [The Business of SaaS](the-business-of-saas/the-business-of-saas.md)
 * [Basic Lessons of Saas](the-business-of-saas/basic-lessons-of-saas.md)
 * [The Process](the-business-of-saas/the-process.md)
-* [Validating Your Idea](the-business-of-saas/validating-your-idea.md)
 * [Parts of a SaaS](the-business-of-saas/parts-of-a-saas-1.md)
+
+## Validating You SaaS
+
+* [Validating Your SaaS](validating-you-saas/validating-your-saas.md)
+* [Marketing-based Sales vs. Direct Sales Validation Methods](validating-you-saas/marketing-based-sales-vs.-direct-sales-validation-methods.md)
+* [Direct Sales SaaS Validation](validating-you-saas/validating-your-idea.md)
+* [Marketing-Based Sales SaaS](validating-you-saas/marketing-based-sales-saas.md)
+* [Validation Success](validating-you-saas/validation-success.md)
 
 ## SaaS Build Process
 

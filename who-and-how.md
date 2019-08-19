@@ -2,60 +2,42 @@
 
 ## Who this book is this for and why it was written
 
-This book is written for people who have some business experience and are interested in growing their business by venturing into the SaaS world or starting a new SaaS business. 
+This book is written for people who have some business experience and are interested in growing their business by venturing into the SaaS world or starting a new SaaS business. This may be an entrepreneur with a new idea, a team member at a company that wants to provide a new offering for the company, a developer, designer, or project manager already in the world of development who wants to start a SaaS business, or a number of other people. 
 
-Over the years, I have met so many people that lost so much money trying to launch their SaaS businesses because they didn’t understand what they were getting into, what their process should be, how to measure success, or what the steps to getting to a profitable SaaS were. This text was written so that anyone interested in starting a SaaS business can understand what they are getting into and how to proceed.
+While running a [SaaS business building company](www.jhmediagroup.com) and having launched many of [my own SaaS businesses over the years](https://jasonmlong.me/bio) I have met so many people that lost so much money trying to launch their SaaS businesses because they didn’t understand:
+
+* What they were getting into
+* How to know if their idea would work
+* The steps to building a usable system
+* What to expect during the build of the system
+* How to price their system
+* How to market the system and bring in users
+* How to help users become customers
+* How to keep users engaged in the system and in the business
+* How to efficiently support users
+
+If you're one of the people or have the questions listed above, this book is for you. 
 
 ## How this book is written
+
+This book is about theory, practice and implementation. It's partially a book on now to run a business and part step by step instructions. It won't teach you how to be a developer, but it will help you manage them. It won't tell you how do be a UX designer, but it will teach you what to look for when you're working with them. It can't solve all your problems, but it can keep you from getting into big ones and get you out of a few others. As I like say, "I can't tell you how to be successful, but I can for sure tell you how not to fail. And maybe by not failing, you'll have the time to be successful."
 
 This book was written with planning in mind because you want and need to know how much time and money this venture is going to cost you before you get started. 
 
 The book takes you through much of what I learned over the years about:
 
 1. The Business of SaaS
-   1. Basics
-   2. Validating Your idea
-   3. Parts of a SaaS
-   4. Costing Basics
-   5. Your Process
-2. Building Your System
-   1. Lessons
-   2. Planning
-   3. The build team
-   4. Steps in development
-   5. Tools
-   6. What to expect
-   7. The checklist
-3. Appraisement 
-   1. Pricing is foundational
-   2. Understand SaaS growth
-   3. SaaS pricing & accounting metrics
-   4. Aspects and methods of pricing
-   5. Knowing your customers is critical
-   6. How to price your SaaS
-   7. Analyzing scenarios
-   8. Bringing it all together in your pricing page
-4. Acquisition
-   1. Initial users - getting them and how to use them
-   2. Organic SEO - why you need it and what it does
-   3. Lifetime Deals \(LTDs\) - is it right for you and lessons learned
-   4. Community building - Forming your own personal fan club
-   5. Outbound campaigns - Outreach the right way
-   6. Influencer and affiliate marketing - Secret to success for so many SaaS systems
-   7. Paid advertising - If you believe in what you’re doing, you put money into it
-   8. Continuous Marketing - All of this, all the time
-5. Activation
-   1. What is Activation
-   2. Iterative Activation
-   3. Onboarding
-   4. Simple things to do on the website to assist in activation
-6. Attrition / Retention
-   1. Supporting your customers
-   2. Community building
-   3. Knowledge base
-   4. Ongoing education
-   5. Constant communication
-   6. Keeping up with the Joneses
+2. Validating Your Idea
+3. Building Your System
+4. The 4 A's of a SaaS Business:
+   1. Appraisement - Pricing your system
+   2. Acquisition - Getting new users
+   3. Activation - From user to customer to advocate
+   4. Attrition - Keeping people engaged in your business 
 
-#### Let’s get your SaaS in gear!
+None of these areas stand independent from one another. Much like building a store or factory, you must have a foundation before you can have a roof, and what good is the foundation and the roof without the walls? You have to understand the entirety to have a structure. 
+
+If you're just getting started building a SaaS, I highly recommend you at least skim through the entirety of the book rather than just reading on section or another and moving forward. If you do, you may end up with a roof and some windows, but no walls to hold them in place or a secure footing form them to stand. 
+
+#### Now, let’s get your SaaS in gear!
 
