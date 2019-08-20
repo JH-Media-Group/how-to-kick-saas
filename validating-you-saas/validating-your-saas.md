@@ -29,7 +29,7 @@ But first, let's talk about what happens when you don't validate.
 
 ## What happens when you don't validate
 
-### Storytime with David: Simple questions go a long way
+### David: Simple questions go a long way
 
 David had an idea. He had been spending ten to thirty thousand dollars per year with consultants to get this data. For all of these years, those consultants were doing work that he _knew_ could be automated.
 
@@ -47,19 +47,47 @@ His target market didn't care about the software at all, what they wanted was th
 
 He realized that what he had built was not an innovative solution to a major problem. He was just a new consulting company to do the same work that all the other consultants were doing, but with less tested and less effective software. 
 
-### Storytime with Eyal: Lost money & lost reputation
+### Eyal: Lost money & lost reputation
 
 Eyal approached me several years ago with a big problem and was in trouble. He had taken investment money from his friends and partners to build a SaaS. He heard about us through a friend and reached out immediately. It was the same story I'd heard so many times.
 
 He was a prominent person in the community and had previously held a position at his full-time job that gave him access to a lot of wealthy friends. Several of those friends invested in his idea to the tune of almost half a million dollars. When we finally got in touch with me things were not going well for him. 
 
-Eyal had invested all the money in the build of system and a substantial amount had been spent making changes as the system build progressed. When we connected he had an incomplete syste, little to no money left for marketing, investors that were asking a lot of questions, and had no idea how to lead the company.
+Eyal had invested all the money in the build of system and a substantial amount had been spent making changes as the system build progressed. When we connected he had an incomplete system, little to no money left for marketing, investors that were asking a lot of questions, and had no idea how to lead the company to success. He didn't know his next step, how to market the system, or where to look for advice. This was several years ago when there weren't nearly as many Facebook groups, books, and online courses as there are now to do this kind of project. Without access to more information on how to run the company, Eyal was in trouble, big trouble.
 
-### Krystina
+By the time Eyal and I connected, the business was already essentially over. He asked me if I would take the company off his hands and take virtually all of his shares in the system. He just wanted his investors to be made whole and have some amount of success or see some progress with the system. I couldn't take the project and it eventually went completely bust and all the investors lost their money. 
 
-### Jake 
+It was a terrible time for Eyal. His marriage, family life, and personal reputation suffered. He had a terrible time moving on from this time in his life. Eventually he did, but it was a scar that he still carries today. 
 
-### Dr. Russell 
+### Jake: College student with aspirations
+
+Jake is a good guy. After all these years we still keep up with one another. Actually, as I am working on writing this book, I just saw that he and his wife had their first baby. 
+
+Near the end of his college days, Jake had dreams of following in the footsteps of Mark Zuckerberg. Unfortunately, I didn't have the experience at the time to know how to tell Jake what a mistake this was going to be. His could have been a good idea with a lot of tweaks, a lot more focus, and had it not been directly competing with Facebook. 
+
+It goes without saying that it didn't work out. Even then, I knew that you weren't going to take down Facebook in a head to head fight. They were already doing over a billion a year in revenue at the time, and Jake had a 50k budget. 
+
+In the end, it was a great learning experience for both of us, but no one was particularly happy with the way it all went down. Jake and his investors lost the entire investment. Jake landed on his feet and now runs a great physical products company, but it took some time for him to recover from the first failure. 
+
+### Marshall: The lawyer turned internet entrepreneur
+
+Marshall was on stage the night I met him. He was playing guitar and singing his rendition of "I Took a Pill In Ibiza". He was having the time of his life, but I could see right away he looked worn down, and not from too many nights playing at private clubs. I soon found out that the private parties, guitar, and his vocals were his way of moving on from his previous endeavor. 
+
+We sat in a corner seat while the pink show lights flashed and another musician took the stage. As we sipped a fresh craft beer, he started to tell me about how he was in a rough spot in his life after a failed SaaS project. 
+
+Right away, it looked like a shadow came over him as he told me his story. He had hated his job as a corporate attorney at the same big firm his father had worked. His passion for music, story telling, and entrepreneurship had led him to a great idea about bringing it all together. So he used his high-roller connections in law to raise several million dollars to build an amazing music app, something I still consider to be one of the coolest music apps I've ever seen. But after years of work, it had failed and he's lost everything. His job, his reputation, some family connections, his relationship, and his morale. 
+
+The plan he'd hatched was to build the tool, which came with some hefty monthly music licensing fees then sell it to some of the local large businesses such as AT&T and Turner Studios. The app itself was amazing, but it wasn't selling and the monthly fees were killing him. He spent two years trying to get the app built and another year or so trying to sell it. In the end, it wasn't possible. The system way the business and app were built, only a larger company could afford to run with it. Without a company with deep pockets supporting the system, it was doomed. 
+
+By the time Marshall told me the story over more than a couple of beers late at night, the whole thing had already gone down. It was over and he was moving on. He brought up the possibility of me taking on the project, but it was far from my area of expertise, and I didn't think I could do any better than he could with the system. On top of that, he had just returned from a months long hike and soul searching across Spain on the El Camino De Santiago trail after non-stop work for several years followed by complete disappointment and he could barely stand to look at the thing app anymore. Marshall took it hard letting down his investors, his friends, his family, and his dreams.
+
+Like Jake, Marshall bounced back and is doing great these days, but this experience took a big toll on him as well. 
+
+### Dr. Russell
+
+I met Dr. Russell when I walked into an entire floor rented out in a large office building in Atlanta, Georgia. It was a beautiful building and a huge office, but there were only three people working there, which I found really odd. 
+
+We had received a call 
 
 ### Dr. Paul
 
