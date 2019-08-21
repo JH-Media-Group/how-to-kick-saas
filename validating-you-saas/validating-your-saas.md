@@ -61,15 +61,15 @@ It was a terrible time for Eyal. His marriage, family life, and personal reputat
 
 ### Jake: College student with aspirations
 
-Jake is a good guy. After all these years we still keep up with one another. Actually, as I am working on writing this book, I just saw that he and his wife had their first baby. 
+Jake is a good guy. After all these years we still keep up with one another. Actually, as I am working on writing this book, I just saw that he and his wife had their first baby. This is the story of his first foray into business. 
 
-Near the end of his college days, Jake had dreams of following in the footsteps of Mark Zuckerberg. Unfortunately, I didn't have the experience at the time to know how to tell Jake what a mistake this was going to be. His could have been a good idea with a lot of tweaks, a lot more focus, and had it not been directly competing with Facebook. 
+Jake had seen me speaking at an event and wanted to talk about some ideas when he came into our office in Athens Georgia. It was near the end of his college days and Jake was an energetic man with big ideas, big dreams, and access to capital.  Jake had a vision of following in the footsteps of Mark Zuckerberg. Unfortunately, I didn't have the experience at the time to know how to tell Jake what a mistake this was going to be. His could have been a good idea with a lot of tweaks, a lot more focus, and had it not been directly competing with Facebook. 
 
-It goes without saying that it didn't work out. Even then, I knew that you weren't going to take down Facebook in a head to head fight. They were already doing over a billion a year in revenue at the time, and Jake had a 50k budget. 
+It goes without saying that it didn't work out. Even then, I knew that you weren't going to take down Facebook in a head to head fight. They were already doing over a billion a year in revenue at the time, and Jake had a 60k budget. 
 
-In the end, it was a great learning experience for both of us, but no one was particularly happy with the way it all went down. Jake and his investors lost the entire investment. Jake landed on his feet and now runs a great physical products company, but it took some time for him to recover from the first failure. 
+In the end, it was a great learning experience for both of us, but no one was happy with the way it all went down. Jake and his investors lost the entire investment. Jake landed on his feet and now runs a great physical products company, but it took some time for him to recover from the first failure. 
 
-### Marshall: The lawyer turned internet entrepreneur
+### Marshall: The attorney turned internet entrepreneur
 
 Marshall was on stage the night I met him. He was playing guitar and singing his rendition of "I Took a Pill In Ibiza". He was having the time of his life, but I could see right away he looked worn down, and not from too many nights playing at private clubs. I soon found out that the private parties, guitar, and his vocals were his way of moving on from his previous endeavor. 
 
@@ -83,19 +83,45 @@ By the time Marshall told me the story over more than a couple of beers late at 
 
 Like Jake, Marshall bounced back and is doing great these days, but this experience took a big toll on him as well. 
 
-### Dr. Russell
+### Dr. Russell: Success as a doctor does not equate to success as a SaaS entrepreneur 
 
-I met Dr. Russell when I walked into an entire floor rented out in a large office building in Atlanta, Georgia. It was a beautiful building and a huge office, but there were only three people working there, which I found really odd. 
+I met Dr. Russell when I walked into an entire floor rented out in a large office building in Atlanta, Georgia. It was a beautiful building and a huge office, but there were only three people working in the spacious office. As I walked through the rows of empty cubicles I saw a man in his fifties in a brown suit and white shirt sitting at the end of a long conference table in a room made up of windows on three sides. He was looking down down at an beaten computer clicking the same couple of buttons over and over.
 
-We had received a call 
+We had received a call from Dr. Russell's friend who told us that he needed help badly, but that his position wasn't good and it may be too late to save his business. From the desolate state of the spacious office I walked through, I was thinking that was probably the case.
 
-### Dr. Paul
+Dr. Russell was building a web-based staffing service for nurses and particularly in a medical sub-specialty that is constantly understaffed. He had access to the people and he knew the groups that needed the people. He even had some notoriety in the market from a series of speaking engagements and subsequent educational email campaigns. So why the empty office chairs strewn across the unoccupied space?
 
-### Jason \(me\) - BrainLeaf
+He had hired a friend to build the central part of his business, his website and web-application with no idea on how long it would take, what it would look like, or how it would work. His friend, we'll call him Nick, was an ok web-designer with experience building small websites for local businesses, but had no experience building an application, user experience, scaling an application, or managing a team. Without any experience in larger projects, Nick had also agreed to a flat fee on the first phase of the project.
 
-## Critical Questions
+Dr. Russell had planned on the project being a huge success and had rented out an entire floor of a building, hired a fair number of people, and was just waiting for Nick to finish the project and somehow drive thousands and thousands of people to it for a few thousand dollars. After the first few months of delays in completion and people sitting around doing nothing, Dr. Russell started letting people go. At the same time severe scope creep and Nick's original agreement had put him into a position where he had been working for months without compensation to continue helping his friend, but could no longer work for free and still feed his family. 
 
-In every one of these situations a few hours to a few days of time ensuring the product would sell, had a solid market, and was delivering something that was needed and wanted would have saved countless months and years of work, bankruptcy, ruined relationships, overwhelming debt, destroyed businesses, and the hopes and dreams of hard working, good people. The questions surrounding the feasibility and sustainability of major investments CANNOT be underestimated. Building a new business is no trivial matter, even for the wealthy, so don't take it lightly. 
+The whole thing was already in a state of decay and crumbling apart when I walked into that glass-walled conference room. 
 
-Do your homework, be a professional, build a sustainable and profitable business, and live a good life. To do all of this, start by thoroughly validating your idea. 
+By that point, there was nothing I could do. There was no budget left to market the system, no way to get the doctor l to realize that the system he wanted was going to take months and tens or hundreds of thousands of dollars to build, and most importantly that what he needed was just a couple of lists on a homepage, not a giant application. 
+
+I ended up walking from the project and the entire company ended up failing. 
+
+### Dr. Paul: The problem was clear, but the path was not
+
+Dr. Paul emailed me after watching one of the first webinars I gave on how to build a SaaS business. He and his team had taken grants and investor money from a multitude of sources to create a software solution for a major issue that almost every hospital in the world has. I reviewed his system prior to the meeting and it was very, very well done. He had all his security certifications, insurance, and systems lined up. The design looked a little dated, but it wasn't poorly done and it was definitely usable. 
+
+"So what's the problem?" I asked over email, "why can't you take it to market?"
+
+"I don't know anything about sales" he responded, "and I have no idea how to take this to market."
+
+My first thought was that he had been successful in building a fairly complex system, could it be that bad? When I got on the phone with him though, I understood. 
+
+It wasn't that he didn't know anything about sales, he was completely clueless when it came to selling anything. He was clearly a knowledgeable physician and probably someone that I would like to be my doctor. But even though his team had built the system, he had difficulty explaining to me what it did or how it worked, telling me who would buy it, what the value of the system, nor did he have any idea how to start. 
+
+I had several meetings with him to try to get he and his team some sales training, but his son had fallen badly ill and he had to abandon the project the last time I talked with him. Even if that had not been the case, I am doubtful he would have been able to take it to market without new leadership. 
+
+## All of this pain could have been avoided
+
+In every one of these situations a few hours to a few days of time querying target buyers about what they wanted and needed, understanding the value of the product or service to that group, and learning if the market was viable or even wanted the product would have saved countless months or years of work, bankruptcy, ruined relationships, overwhelming debt, destroyed businesses, and the hopes and dreams of hard working, good people. 
+
+A depth of understanding of the questions surrounding the feasibility and sustainability of major investments CANNOT be underestimated. Building a new business is no trivial matter, even for the wealthy, but it is constantly treated as such. 
+
+I cannot stress this enough, you must spend the time up front to validate your business. So do your homework. Be a professional, understand what you're getting into, then go forth to build a sustainable and profitable business, and live a good life. 
+
+Do the right thing for your life, start by as thoroughly as possible validating your idea. 
 
