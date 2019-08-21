@@ -115,13 +115,11 @@ It wasn't that he didn't know anything about sales, he was completely clueless w
 
 I had several meetings with him to try to get he and his team some sales training, but his son had fallen badly ill and he had to abandon the project the last time I talked with him. Even if that had not been the case, I am doubtful he would have been able to take it to market without new leadership. 
 
-## All of this pain could have been avoided
+## All of this could have been avoided
 
 In every one of these situations a few hours to a few days of time querying target buyers about what they wanted and needed, understanding the value of the product or service to that group, and learning if the market was viable or even wanted the product would have saved countless months or years of work, bankruptcy, ruined relationships, overwhelming debt, destroyed businesses, and the hopes and dreams of hard working, good people. 
 
 A depth of understanding of the questions surrounding the feasibility and sustainability of major investments CANNOT be underestimated. Building a new business is no trivial matter, even for the wealthy, but it is constantly treated as such. 
 
 I cannot stress this enough, you must spend the time up front to validate your business. So do your homework. Be a professional, understand what you're getting into, then go forth to build a sustainable and profitable business, and live a good life. 
-
-Do the right thing for your life, start by as thoroughly as possible validating your idea. 
 
