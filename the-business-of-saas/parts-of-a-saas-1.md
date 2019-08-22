@@ -139,6 +139,12 @@ As soon as you launch, you’re going to want to look at how people are using yo
 
 For all the questions listed above, there are SaaS systems to answer those questions, and you’re going to want and need to use those systems. Plan on integrating these systems up front, rather than later because as soon as you launch you’re going to need them. The systems noted are just the ones I have experience with, so make sure to do some research before going forward with any of these and make sure the solution fits your needs.
 
+## API - Application Programming Interface
+
+The API enables developers to work directly and securely with aspects of your system. If you want to enable other systems to get information into or out of your system, then you're going to need an API and documentation. With the exception of systems that are built specifically for developers or have some aspect that requires them to be connected to other systems, like an add-on or plugin into another system, then most systems start with just their core functionality and develop the API after phase 1. 
+
+But if the success of your application depends on being connected to other systems, then you're going to need to develop the API in the first phase of development. 
+
 ## Unit & Regression Testing
 
 One of my top SaaS build lessons is on [unit and regression tests. ](../saas-build-process/saas-build-process.md#7-as-soon-as-you-have-project-validation-start-building-in-unit-tests)
