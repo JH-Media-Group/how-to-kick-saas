@@ -35,9 +35,9 @@ The book takes you through much of what I learned over the years about:
    3. Activation - From user to customer to advocate
    4. Attrition - Keeping people engaged in your business 
 
-None of these areas stand independent from one another. Much like building a store or factory, you must have a foundation before you can have a roof, and what good is the foundation and the roof without the walls? You have to understand the entirety to have a structure. 
+None of these areas stand independent from one another. Much like building a store or factory, you must have a foundation before you can have a roof, and what good is the roof without the walls? You have to build all the parts to have a structure that works. 
 
-If you're just getting started building a SaaS, I highly recommend you at least skim through the entirety of the book rather than just reading on section or another and moving forward. If you do, you may end up with a roof and some windows, but no walls to hold them in place or a secure footing form them to stand. 
+If you're just getting started building a SaaS, I highly recommend you at least skim through the entirety of the book rather than just reading on section or another and moving forward. If you don't, you may end up with a roof and some windows, but no walls to hold them in place or a secure footing form them to stand. 
 
 #### Now, let’s get your SaaS in gear!
 

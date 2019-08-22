@@ -12,6 +12,14 @@ As the digital pages turn, you may realize that there are sections in this book 
 
 I put this book out there for anyone building a SaaS business, so that you wouldn't make the mistakes I have in my endeavors. Even though this text is incomplete, it still covers so many areas that I couldn't find consolidated anywhere else on the web. I hope you find value in this book, despite a few missing pages and some incongruities . 
 
+## Get Notified When It’s All Done!
+
+Right now, this is a work in process. But it won't be forever. 
+
+[If you want to know when this project is done and ready to be read in completion, just post your name and email address to this form and I will let you know!](https://docs.google.com/forms/d/e/1FAIpQLSdjneuCPSMfKS8VEm4AKZkEEoaxN80boVP5SijE_oFPRFDm-w/viewform?usp=sf_link)
+
+Feel free to make comments, and [reach out to me directly from this form](https://jasonmlong.me/contact) if you have questions. Please don’t send any solicitations though, just questions or comments.
+
 ## So you're starting a SaaS business?
 
 Or like so, so many people you've probably already gotten started and realized that maybe the path you're on isn't working out quite the way you expected. Don't worry, this happens a lot to a lot of people. Over the years I have talked to so, so many people that have thrown away millions of dollars trying to start SaaS businesses only to see the money go to waste, and that is the main reason I wrote this book, to keep this from happening to you.
@@ -27,17 +35,9 @@ During my years of work in SaaS, I have started a variety of different companies
 
 Having been at all of these different places running a SaaS business, I know what you're going through.
 
-## Get Notified When It’s All Done!
-
-Right now, this is a work in process. But it won't be forever. 
-
-[If you want to know when this project is done and ready to be read in completion, just post your name and email address to this form and I will let you know!](https://docs.google.com/forms/d/e/1FAIpQLSdjneuCPSMfKS8VEm4AKZkEEoaxN80boVP5SijE_oFPRFDm-w/viewform?usp=sf_link)
-
-Feel free to make comments, and [reach out to me directly from this form](https://docs.google.com/forms/d/e/1FAIpQLSe8NYTxjBbO5Ldap0zwJOoUOZCVdMz6PTGVTVCWKqaKcDUV9A/viewform?usp=sf_link) if you have questions. Please don’t send any solicitations though, just questions or comments.
-
 ## Want to watch instead of reading?
 
-I did a few webinars to get this thing going. Personally, I thought they turned out pretty well, but I'd love to know what you think! Let me know in the comments in Youtube!
+I did a few webinars to get this thing going. Personally, I thought they turned out pretty well, but I'd love to know what you think! Let me know in the comments in YouTube!
 
 * [https://www.youtube.com/watch?v=dSRg1oIy6eg](https://www.youtube.com/watch?v=dSRg1oIy6eg)
 * [https://www.youtube.com/watch?v=Ofps7jxU6Y0](https://www.youtube.com/watch?v=Ofps7jxU6Y0)
@@ -57,4 +57,5 @@ You can also get me on linkedin at: [https://www.linkedin.com/in/jasonmlong1/](h
 * [www.sellmydata.io](https://www.sellmydata.io)
 * [www.diagnosticsmarketing.net](www.diagnosticsmarketing.net)
 * [www.jasonmlong.me](https://www.jasonmlong.me)
+* [www.adacompliancetesting.com](www.adacompliancetesting.com)
 
