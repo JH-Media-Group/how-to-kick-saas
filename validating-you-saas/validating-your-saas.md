@@ -8,10 +8,11 @@ A lot of people get started with an idea, skip the validation, hire a team, and 
 
 1. I have an idea!
 2. Hire a team to build my idea.
-3. How do I sell this thing?
-4. Throw money at marketing something that never had a chance in the first place.
-5. Give up and complain about how the developers destroyed a great idea. 
-6. Cry.
+3. Wow, that was a lot more expensive than I thought it would be. But now I have the thing!
+4. How do I sell this thing?
+5. Throw money at marketing something that never had a chance in the first place.
+6. Give up and complain about how the developers destroyed a great idea. 
+7. Cry.
 
 This happens more than anyone wants to admit. 
 

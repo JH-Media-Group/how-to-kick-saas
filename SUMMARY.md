@@ -14,9 +14,9 @@
 ## Validating You SaaS
 
 * [Validating Your SaaS](validating-you-saas/validating-your-saas.md)
-* [Marketing-based Sales vs. Direct Sales Validation Methods](validating-you-saas/marketing-based-sales-vs.-direct-sales-validation-methods.md)
-* [Direct Sales SaaS Validation](validating-you-saas/validating-your-idea.md)
-* [Marketing-Based Sales SaaS](validating-you-saas/marketing-based-sales-saas.md)
+* [The SaaS Validation Process](validating-you-saas/marketing-based-sales-saas/README.md)
+  * [Buyer Categorization By Sales Method](validating-you-saas/marketing-based-sales-saas/marketing-based-sales-vs.-direct-sales-validation-methods.md)
+  * [The Advisory Approach](validating-you-saas/marketing-based-sales-saas/validating-your-idea.md)
 * [Validation Success](validating-you-saas/validation-success.md)
 
 ## SaaS Build Process

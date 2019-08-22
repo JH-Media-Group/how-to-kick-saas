@@ -1,24 +1,6 @@
-# Direct Sales SaaS Validation
+# The Advisory Approach
 
-## Where to start?
-
-A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place. They quickly find out that what they built won't sell, doesn't solve the problem, and that they don't have the skill or knowledge to sell to their target market. 
-
-### Here's what I see a lot:
-
-1. I have an idea!
-2. Hire a team to build my idea.
-3. How do I sell this thing?
-4. Throw money at marketing something that never had a chance in the first place.
-5. Give up and complain about how the developers destroyed a great idea.
-
-As you probably suspected, there's a much better way. 
-
-## You MUST Validate Your Idea
-
-You’ve got to validate your idea and get customers or potential customers to put money in your pocket as soon as possible in order to do so. That’s where the rubber meets the road, and where your success is determined.
-
-To learn to validate your idea the best thing you can do is to read [The Lean Startup by Eric Ries.](http://theleanstartup.com/) But since you’re already reading this book and you’re probably going to finish because this book is way more interesting than that book \(he’s actually a better writer than I am, so read his book\), here are the basics of what you need to do.
+## 
 
 ## **Step 1: My SaaS solves \[STATE PROBLEM HERE\] for \[STATE AS SPECIFIC OF A GROUP AS POSSIBLE HERE\]**
 
@@ -56,9 +38,9 @@ My recommendation is to make a spreadsheet of all your competitors and their pro
 
 ## Step 5: Figure out your pricing model & determine if you can make money running this business.
 
-Plan on spending some time figuring out your pricing model. Since you already signed up for your competitors’ systems, you know how they are pricing. So figuring yours shouldn’t be a big stretch, but it’s still going to take more time than you expect. [There is a whole chapter on pricing](../appraisement-pricing-your-saas/appraisement-saas-pricing.md)[ \(Appraisement\)](../appraisement-pricing-your-saas/appraisement-saas-pricing.md). I highly recommend you read this section.
+Plan on spending some time figuring out your pricing model. Since you already signed up for your competitors’ systems, you know how they are pricing. So figuring yours shouldn’t be a big stretch, but it’s still going to take more time than you expect. [There is a whole chapter on pricing](../../appraisement-pricing-your-saas/appraisement-saas-pricing.md)[ \(Appraisement\)](../../appraisement-pricing-your-saas/appraisement-saas-pricing.md). I highly recommend you read this section.
 
-As you can tell from the section title, this comes in two parts; knowing how much to charge and determining if you can actually make money. When you figure out how much you can charge and for what, you're looking at what the market will accept for your system. But you also need to ensure you will make money doing all of this. For more on this aspect, I recommend the [chapter on Lifetime Value of a customer verses the Cost of Acquisition.](../appraisement-pricing-your-saas/saas-pricing-metrics.md#saas-growth-is-based-on-customer-lifetime-value-being-greater-than-customer-acquisition-cost)
+As you can tell from the section title, this comes in two parts; knowing how much to charge and determining if you can actually make money. When you figure out how much you can charge and for what, you're looking at what the market will accept for your system. But you also need to ensure you will make money doing all of this. For more on this aspect, I recommend the [chapter on Lifetime Value of a customer verses the Cost of Acquisition.](../../appraisement-pricing-your-saas/saas-pricing-metrics.md#saas-growth-is-based-on-customer-lifetime-value-being-greater-than-customer-acquisition-cost)
 
 ## Step 6: Hire a designer to do some basic designs for you so you can pitch it to your advisers and potential customers.
 
@@ -108,7 +90,7 @@ I don't mean "can you buy a list," I mean do you already have one. Do you have e
 
 #### Will people respond to ads and how much does it cost to get one person from your target market to click on an ad? 
 
-My recommendation on this item is to run a set of Facebook ads, if your users are on Facebook, and see if they will click on your ads and how much it costs. [Check out the chapter on Acquisition for more information on how to do this](../acquisition-gaining-saas-users/acquisition-getting-saas-users.md#social-media-marketing).
+My recommendation on this item is to run a set of Facebook ads, if your users are on Facebook, and see if they will click on your ads and how much it costs. [Check out the chapter on Acquisition for more information on how to do this](../../acquisition-gaining-saas-users/acquisition-getting-saas-users.md#social-media-marketing).
 
 #### Can you compete in organic traffic?
 
@@ -118,11 +100,11 @@ So many SaaS CEO's I know compete heavily on SEO, myself included. The questions
 2. Can I rank on the first page of Google, or preferably as number one on the search engines, for this keyword?
 3. How long will it take to do this, and how much will it cost?
 
-In the chapter on [Organic Search Marketing](../acquisition-gaining-saas-users/organic-search-marketing/), there is a formula for how to determine what keywords you can rank for and how to do it. If your SaaS is going to depend on SEO, I would not start unless I knew I could rank. 
+In the chapter on [Organic Search Marketing](../../acquisition-gaining-saas-users/organic-search-marketing/), there is a formula for how to determine what keywords you can rank for and how to do it. If your SaaS is going to depend on SEO, I would not start unless I knew I could rank. 
 
 #### Who are your distributors?
 
-In the beginning, you're going to need people to help you get your SaaS out there. Unless you've got a monster sized marketing budget, and even if you do, you're going to need distributors. So who will they be?  Take a look at [the chapter on influencer and affiliate marketing](../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md) to learn how to find and grow these channels.
+In the beginning, you're going to need people to help you get your SaaS out there. Unless you've got a monster sized marketing budget, and even if you do, you're going to need distributors. So who will they be?  Take a look at [the chapter on influencer and affiliate marketing](../../acquisition-gaining-saas-users/affiliates-and-partnerships-for-saas-businesses.md) to learn how to find and grow these channels.
 
 The more of these distribution channels you have, the better. If you can't find or don't have any or any good ones, then this may not be an idea worth pursuing. 
 

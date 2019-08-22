@@ -30,11 +30,3 @@ Remember what Sun Tzu taught in "The Art of War." He said "Every battle is won b
 
 This is how to win.
 
-{% hint style="info" %}
-### **Sometimes this process does**n’t apply
-
-**But most of the time it does,** or at least some variation of this applies. So don’t skimp on it, go through it, take the time, and know your business, or you are going to end up throwing away your time and money.
-
-An example of how this may not apply is if you’re already in the market and fulfilling requested needs of existing customers, or have some inside knowledge about the market. While these situations may mitigate the need to go through this whole process, you will still almost definitely want to go through some aspects of it.
-{% endhint %}
-
