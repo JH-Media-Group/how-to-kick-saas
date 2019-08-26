@@ -1,4 +1,4 @@
-# Your Most Valuable Page
+# Pricing Page: The Most Valuable Page On Your Website
 
 So often, people think of their home page or features page, or sometimes their onboarding process as their most valuable page. But make no mistake about it, your PRICING PAGE is the most valuable page on your entire marketing website. 
 

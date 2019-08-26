@@ -25,7 +25,6 @@
 * [Planning & Costing](saas-build-process/planning/README.md)
   * [The Costing Process](saas-build-process/planning/the-costing-process.md)
   * [The Estimate](saas-build-process/planning/costing-your-system.md)
-  * [Creative Brief](saas-build-process/planning/creative-brief.md)
   * [Information Architecture Development](saas-build-process/planning/architecture-development.md)
   * [The Scope of Work](saas-build-process/planning/scope-of-work.md)
   * [Working Numbers](saas-build-process/planning/working-numbers.md)
@@ -85,8 +84,8 @@
 * [How To Price Your SaaS](appraisement-pricing-your-saas/how-to-price-your-saas.md)
 * [Customer Types Case Study](appraisement-pricing-your-saas/customer-types-case-study.md)
 * [Storytime With Brennan](appraisement-pricing-your-saas/storytime-with-brennan.md)
-* [Pricing Page Examples](appraisement-pricing-your-saas/the-pricing-page-your-most-valuable-page.md)
-* [Your Most Valuable Page](appraisement-pricing-your-saas/your-most-valuable-page.md)
+* [Pricing Page: The Most Valuable Page On Your Website](appraisement-pricing-your-saas/your-most-valuable-page/README.md)
+  * [Pricing Page Examples](appraisement-pricing-your-saas/your-most-valuable-page/the-pricing-page-your-most-valuable-page.md)
 
 ## Acquisition: Gaining SaaS Users
 

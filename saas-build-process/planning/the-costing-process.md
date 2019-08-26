@@ -55,11 +55,11 @@ As you prepare to cost your system, you may need to have some idea as to how muc
 
 | Size of Project | Cost Range to Plan |
 | :--- | :--- |
-| $35,000 - $50,000 | $3,000 - $5,000 |
-| $50,000 - $100,000 | $4,000 - $10,000 |
-| $100,000 - $250,000 | $8,000 - $25,000 |
-| $250,000 - $500,000 | $20,000 - $50,000 |
-| $500,000 - $1,000,000 | $35,000 - $120,000 |
+| $35,000 - $50,000 | $3,000 - $10,000 |
+| $50,000 - $100,000 | $8,000 - $25,000 |
+| $100,000 - $250,000 | $15,000 - $50,000 |
+| $250,000 - $500,000 | $40,000 - $100,000 |
+| $500,000 - $1,000,000 | $50,000 - $250,000 |
 
 As the size of the project goes up, the costing range becomes harder to predict. It is possible that even a very large project could be easy to plan, but for the most part as [project builds go up the complexity of planning goes up quadratically](../things-to-know-and-expect/development-time-increases-as-complexity-increases.md#development-time-increases-as-complexity-increases). 
 
