@@ -1,5 +1,11 @@
 # The SaaS Validation Process
 
+## Validating a SaaS
+
+
+
+
+
 SECTION IN PROCESS!!!
 
 1. Start with the ‘why’. Why are you building this tool?
