@@ -35,6 +35,18 @@ This means that it either makes your target market’s job easier by doing somet
 
 **Every SaaS system does one or both of these things.** 
 
+## Hollywood, TechCrunch, and The Truth About The Business of SaaS
+
+Let's burst some bubbles and be real for just a minute. If you're reading this book, you're probably familiar with our internet overlords at Google and social media giant Facebook. You're probably also somewhat hooked on the Uber dreams and Slack desires. You probably read about how if you pitch the next great idea, raise some money, do some steps which you hope to read about in this book, then boom! Money. 
+
+In the words of the ridiculously successful software entrepreneur and [overall great guy Waikit Lau](https://www.linkedin.com/in/waikit-lau-89129/), current the founder of [RemoteHQ.com, a great rising Zoom competitor](https://www.remotehq.com/), "Techcrunch is Hollywood and Facebook is a one in a billion. Having a business like that is the equivalent to winning the lottery." 
+
+Even if you are truly great at what you do, you will almost certainly not become a giant. Not only do you have to be in the right place at the right time, you have to look the right way, have gone to the right school, know the right people, have the right parents, and so much more. If that's you, then you probably already know it. If not, then you're just like the other 7.53 billion of us in the world. 
+
+If I'm bursting your bubble, trust me, it's better this way. Now you can get ready to work hard and expect to work very hard for a long time, fail at least a few times before you have some success, and fight day in and day out to be successful. That's just the way it is. I'm glad we had this talk, and I hope you are as well. 
+
+Now we can get to work.
+
 ## SaaS Success Questions
 
 Before we get too far along, let’s go through the basics. Below are a set of questions that you probably need to be able to answer before launching or growing your SaaS.
