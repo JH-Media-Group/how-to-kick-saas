@@ -14,6 +14,7 @@
 ## Validating You SaaS
 
 * [Validating Your SaaS](validating-you-saas/validating-your-saas.md)
+* [What happens when you don't validate](validating-you-saas/what-happens-when-you-dont-validate.md)
 * [The SaaS Validation Process](validating-you-saas/marketing-based-sales-saas/README.md)
   * [Buyer Categorization By Sales Method](validating-you-saas/marketing-based-sales-saas/marketing-based-sales-vs.-direct-sales-validation-methods.md)
   * [The Advisory Approach](validating-you-saas/marketing-based-sales-saas/validating-your-idea.md)
