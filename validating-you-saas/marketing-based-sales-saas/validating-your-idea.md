@@ -1,7 +1,5 @@
 # The Advisory Approach
 
-## 
-
 ## **Step 1: My SaaS solves \[STATE PROBLEM HERE\] for \[STATE AS SPECIFIC OF A GROUP AS POSSIBLE HERE\]**
 
 The easier it is for your SaaS to answer this question, the easier it will be to sell, and thus the better chance you’ll have at success. On the flip side of this, the broader the statement and the group, the bigger the budget you’ll need to build and market the product.
@@ -62,17 +60,17 @@ So what do you do to be sure?
 
 ## Step 9: Distribution channels
 
-### Enterprise vs. Standard SaaS Sales 
+### Enterprise vs. Self-Serve SaaS Sales 
 
-#### Standard SaaS
+#### Self-Serve SaaS
 
-The first thing to understand is that your overall process is dependent on what you're selling and to whom. If you're selling what I would call a 'Standard SaaS', meaning a SaaS that is marketed to you target audience primarily through the web, affiliate marketing, or other further reaching marketing methods and sells for what starts out as a fairly small amount of money on a monthly basis. This amount can grow tremendously based on your value metric for the right customer, but most users are going to spend somewhere between $10 and $1000 per month on your project.
+The first thing to understand is that your overall process is dependent on what you're selling and to whom. If you're selling what I would call a 'Self-Serve SaaS', meaning a SaaS that is marketed to you target audience primarily through the web, affiliate marketing, or other further reaching marketing methods and sells for what starts out as a fairly small amount of money on a monthly basis. This amount can grow tremendously based on your value metric for the right customer, but most users are going to spend somewhere between $10 and $1000 per month on your project.
 
 #### Enterprise SaaS
 
 This is a SaaS that is sold first at the enterprise level, then maybe at a smaller scale. It is what is known as an Enterprise Sale. Most enterprise sales have a much longer sales cycle, as well as a much higher price. Enterprise sales come with their own set of problems but very often a hefty price tag. A friend of mine sells his Enterprise SaaS to some of the worlds largest consulting companies for what amounts to $200,000 per year per business, and they are happy to pay him. 
 
-A lot of SaaS businesses sell both standard and enterprise, but when you're launching, you need to know the difference because it is very difficult to do both sales at the same time. Thus this launch and sales difference affects your overall process. 
+A lot of SaaS businesses sell both self-serve and enterprise, but when you're launching, you need to know the difference because it is very difficult to do both sales at the same time. Thus this launch and sales difference affects your overall process. 
 
 If you're building a system that is sold via an enterprise sale, most of your sales are going to be in person or virtual in person via a video call. But if you don't know who those people are, or how they will find you, then you can't get these people on the phone. If you can't get the decision makers on the line, how will you make the sale? Or, if you're selling a more mass marketed system, even to a specific targeted audience, you need know if you can be competitive insofar as marketing is concerned. 
 

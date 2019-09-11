@@ -4,15 +4,15 @@
 
 A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place, know who they are selling to, understand how to reach those people, know what to say, and often end up realizing that either they built something that was not worth building or cannot compete in the market. 
 
-### What normally happens:
+### What happens all the time:
 
 1. I have an idea!
 2. Hire a team to build my idea.
-3. Wow, that was a lot more expensive than I thought it would be. But now I have the thing!
-4. How do I sell this thing?
+3. Wow, that was a lot more expensive than I thought it would be. But now I have something that kinda works about half way.
+4. How do I sell this thing and who's going to buy it?
 5. Throw money at marketing something that never had a chance in the first place.
 6. Give up and complain about how the developers destroyed a great idea. 
-7. Cry.
+7. Cry & sometimes sue people.
 
 This happens more than anyone wants to admit. 
 
