@@ -48,7 +48,7 @@ Three whole searches and I've only see the one ad for Cognism from the first sea
 
 ### Step 2: Ask Facebook
 
-I need to ask some people who really know their stuff, so how about other SaaS entrepreneurs? Turns out, they really do know their stuff. 
+I need to ask some people who really know their stuff, so how about other SaaS entrepreneurs? It's their business, so they probably know. 
 
 My first stop, my good friend Sampath's group, SaaS Mantra. Here was my post:
 
@@ -70,6 +70,7 @@ But at least now I have a list of competitors. Here's what I found from this pos
 * Predict Leads
 * Findthatlead
 * Leadcandy
+* Soleadify
 
 Probably the most valuable thing I found from this post was that I had a connection in the industry who had already been a part of a build team doing exactly this work who was willing to chat with me for an hour. That was probably the most valuable conversation I could have had since he was kind enough to tell me exactly how to do the project. The catch here as he put is "This stuff is really, really complicated and you're going to need a 4 or 8 man team working for a year to do what you want to do, and you still may not be able to get it all figured out." So he told me how wrong I was about my first assumptions about the project, the industry, and how long it was going to take to get it all done. 
 
@@ -86,47 +87,119 @@ I didn't get as much here, but I did realize that I forgot to add to my indirect
 
 It also told me that either people don't care and won't answer in this group or that there is a general lack of knowledge about what is going on in the industry. Useful, but I already had what I was looking for from the other group. However, a few days after the post, I got another message from a contact from this group that informed me that there are literally hundreds of companies doing this exact same thing and that it is a really difficult thing to do, exactly like the last guys said. 
 
-You can also just add them here:
+### Step 3: Ask LinkedIn
+
+Next up, ask the pros at LinkedIn. I went ahead and posted the same question, but with a new image on LinkedIn. From this post, I got a few answers, but nothing really helpful. LinkedIn recently has been a lot about viral videos and a lot less about real questions and answers. But if you have a knowledgeable network, it could still be helpful.
+
+![](../../.gitbook/assets/2019-09-11_16h27_38.png)
+
+### Step 4: Search similar websites
+
+Now that we've got some insight and a list of competitors, let's do another search. This time though, let's not search Google, let's search a few review & comparison websites:
+
+#### G2:
+
+![](../../.gitbook/assets/2019-09-11_16h10_41.png)
+
+#### Owler:
+
+![](../../.gitbook/assets/2019-09-11_16h11_08.png)
+
+#### SimilarWeb
+
+![](../../.gitbook/assets/2019-09-11_16h12_08.png)
+
+### Step 5: Check with SEO tools
+
+If you still don't have what you're looking for with your search engine, social, and review/similar site searches, then it's time to open up some tools to do the search. My favorite for this is Ahrefs.com. Sign up for the $7 trial, enter one competitor and search for their competing websites.
+
+From here, you can see the websites that they are competing with. Most of the time, this list will give you insight into where else to look and what else to look for.
+
+
+
+![](../../.gitbook/assets/2019-09-11_17h09_46.png)
+
+The view here just has some top level items, but you can use this as a start to dig in and find even more competitors. 
+
+### The Competitors List
+
+Our list is pretty extensive now, and it just keeps getting bigger now that we know what to search for and where to look. 
+
+Here are our contenders:
+
+* GoPinLeads.com
+* ScopeLeads.io
+* Crunchbase.com
+* Clearbit.com
+* Zoominfo.com
+* Apollo.io
+* Leadgenius.com
+* Mattermark.com
+* Zirra.com
+* PredictLeads.com
+* Findthatlead.com
+* Leadcandy.com
+* Soleadify.com
+* GetProspect.io
+* RightHello.com
+* Growlabs.com
+* Inbox25.com
+* Bant.io
+* DefinitiveHQ
+
+As you can see, there are a ton more in this than what we found in our first searches. It's also looking like that conversation with the developer who said that there are hundreds of competitors is proving to be true. 
+
+This is the point where I put the brakes on the project and decided that I did not in-fact want to pursue this project. But let's say that this list wasn't overwhelming or I thought that my system could compete against these players.  Then it would be time to move on to...
+
+## Buyer & Feature Analysis
+
+Before we look at competitors, let's take a look inward first. You probably already know a bit about what major features you want to provide, how you want to provide them, and to who. So start off by listing off the features in your proposed system below in the first row. 
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Competitor</th>
+      <th style="text-align:left">URL</th>
       <th style="text-align:left">Major Features</th>
-      <th style="text-align:left">Feature Overlap</th>
+      <th style="text-align:left">Buyers</th>
       <th style="text-align:left">Pricing Page Link</th>
-      <th style="text-align:left">
-        <p>Trial Taken</p>
-        <p>Yes / No</p>
-      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Your Company First</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Feature 1</p>
+        <p>Feature 2</p>
+        <p>etc.</p>
+      </td>
+      <td style="text-align:left">
+        <p>Buyer Group 1</p>
+        <p>Buyer Group 2</p>
+        <p>etc.</p>
+      </td>
+      <td style="text-align:left">Expected Pricing</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Competitor</td>
+      <td style="text-align:left">url here</td>
+      <td style="text-align:left">features</td>
+      <td style="text-align:left">buyers</td>
+      <td style="text-align:left">pricing</td>
     </tr>
   </tbody>
 </table>
 
-* Have you thoroughly researched your competition?
+| Valued Features | Buyer Group 1 | Buyer Group 2 | Buyer Group 3 |
+| :--- | :--- | :--- | :--- |
+| Feature 1 |  |  |  |
+| Feature 2 |  |  |  |
+| Feature 3 |  |  |  |
+
+
+
+* * Have you thoroughly researched your competition?
   1. Do you have competition?
      1. Yes - List your competitors
         1. Company
