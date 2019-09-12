@@ -20,7 +20,7 @@ It hurts, it's embarrassing, it's a loss, and it can put you in the hole fast an
 
 As you probably suspected, there's a much better way. 
 
-## You MUST Validate Your Idea
+## Idea validation is a must
 
 There are a few people out there who did not do any validation and were still wildly successful. This is luck, plain and simple. For the rest of us, there is a process to ensuring success, it's call validation. For a SaaS project, I have outlined a process that works, but only if you do it.
 

@@ -189,7 +189,9 @@ Before we look at competitors, let's take a look inward first. You probably alre
       <td style="text-align:left">pricing</td>
     </tr>
   </tbody>
-</table>
+</table>| Buyer Name |  |  |
+| :--- | :--- | :--- |
+|  |  |  |
 
 | Valued Features | Buyer Group 1 | Buyer Group 2 | Buyer Group 3 |
 | :--- | :--- | :--- | :--- |
