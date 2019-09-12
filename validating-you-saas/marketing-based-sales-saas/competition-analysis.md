@@ -1,7 +1,5 @@
 # Competition Analysis
 
-
-
 If you think you’re the first person to come up with this idea, you’re probably wrong. In fact, you’re almost definitely wrong. Maybe no one else has taken this idea to market, if you’re building something truly unique, but I doubt it. You probably just haven’t looked hard enough. 
 
 In this section, we are going step by step through all the tricks to:
@@ -151,53 +149,33 @@ As you can see, there are a ton more in this than what we found in our first sea
 
 This is the point where I put the brakes on the project and decided that I did not in-fact want to pursue this project. But let's say that this list wasn't overwhelming or I thought that my system could compete against these players.  Then it would be time to move on to...
 
-## Buyer & Feature Analysis
+## Competitor Feature & Buyer Analysis
 
-Before we look at competitors, let's take a look inward first. You probably already know a bit about what major features you want to provide, how you want to provide them, and to who. So start off by listing off the features in your proposed system below in the first row. 
+Before we look at competitors, let's take a look inward first. You probably already know a bit about what major features you want to provide, how you want to provide them, and to who. So start off by [opening up this spreadsheet](https://docs.google.com/spreadsheets/d/11J-HBYVhaOXyrQpR3S7fTP8JMNhjvS9IYOlVUTVhBDw/edit?usp=sharing),  making a copy and listing your company first. The spreadsheet has four worksheets. These are Competitors, Buyers, Competitor Features, Buyer Feature Interest, and setup. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Competitor</th>
-      <th style="text-align:left">URL</th>
-      <th style="text-align:left">Major Features</th>
-      <th style="text-align:left">Buyers</th>
-      <th style="text-align:left">Pricing Page Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Your Company First</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>Feature 1</p>
-        <p>Feature 2</p>
-        <p>etc.</p>
-      </td>
-      <td style="text-align:left">
-        <p>Buyer Group 1</p>
-        <p>Buyer Group 2</p>
-        <p>etc.</p>
-      </td>
-      <td style="text-align:left">Expected Pricing</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Competitor</td>
-      <td style="text-align:left">url here</td>
-      <td style="text-align:left">features</td>
-      <td style="text-align:left">buyers</td>
-      <td style="text-align:left">pricing</td>
-    </tr>
-  </tbody>
-</table>| Buyer Name |  |  |
-| :--- | :--- | :--- |
-|  |  |  |
+Start by opening the Competitors worksheet and entering your business at the top, then your competitors.
 
-| Valued Features | Buyer Group 1 | Buyer Group 2 | Buyer Group 3 |
-| :--- | :--- | :--- | :--- |
-| Feature 1 |  |  |  |
-| Feature 2 |  |  |  |
-| Feature 3 |  |  |  |
+![](../../.gitbook/assets/2019-09-12_15h07_57.png)
+
+If you can't see the spreadsheet, the competitor worksheet fields are:
+
+* Business or Competitor name
+* URL
+* Pricing page URL
+* Trialed - have you taken a trial of their system yet
+* Similarity to your product - 1 - 5 scale
+* Competitor type - direct or indirect
+* Value Metric
+* Buyer type 1 - general demographic information
+* Buyer type 2
+* Buyer type 3
+* Add more buyer types as needed
+* Major feature 1
+* Major feature 2
+* Major feature 3
+* Add more major features as needed
+
+For each business, start filling in the fields. It's not necessary to get every single competitor listed, especially if they're really not a competitor. But I recommend getting as many as you can. 
 
 
 
