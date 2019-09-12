@@ -153,6 +153,8 @@ This is the point where I put the brakes on the project and decided that I did n
 
 Before we look at competitors, let's take a look inward first. You probably already know a bit about what major features you want to provide, how you want to provide them, and to who. So start off by [opening up this spreadsheet](https://docs.google.com/spreadsheets/d/11J-HBYVhaOXyrQpR3S7fTP8JMNhjvS9IYOlVUTVhBDw/edit?usp=sharing),  making a copy and listing your company first. The spreadsheet has four worksheets. These are Competitors, Buyers, Competitor Features, Buyer Feature Interest, and setup. 
 
+### Competitors Worksheet
+
 Start by opening the Competitors worksheet and entering your business at the top, then your competitors.
 
 ![](../../.gitbook/assets/2019-09-12_15h07_57.png)
@@ -176,6 +178,22 @@ If you can't see the spreadsheet, the competitor worksheet fields are:
 * Add more major features as needed
 
 For each business, start filling in the fields. It's not necessary to get every single competitor listed, especially if they're really not a competitor. But I recommend getting as many as you can. 
+
+### Demo Competitors Systems
+
+Once you have each competitor necessary listed, then it's time for the time-consuming task of testing out each of their systems. If they have a freemium version, go trial their system. If not, then request a demo let them walk you through it.
+
+As you go through each competitor's system, be sure to dig for as much information as you can. After the sales-person gets into the system, the following questions are great ways to learn more about the company, their success, and their customers:
+
+* How long have you been with this company?
+* What do you think is the best feature in the system?
+* Where are people having a hard time using the system and why?
+* What are some examples of your biggest customers?
+* What's the difference between you and \[choose a competitor\]?
+* What's on your development roadmap? OR What features do you have upcoming?
+* How did the business get started?
+* How did you guys get your first customers?
+* Where do most of your customers come from?
 
 
 
