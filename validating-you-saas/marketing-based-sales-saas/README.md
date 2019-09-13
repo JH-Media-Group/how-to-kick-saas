@@ -38,7 +38,37 @@ We will cover the following aspects of SaaS validation:
 * The secret sauce
 * Going to Market
 
+## Key aspects of validation
 
+As you delve into your validation process, keep in mind a few critical items:
+
+### The Unique Selling Proposition
+
+The Unique Selling Proposition or USP is the thing that that your system has that no one else has. This is also one of the primary reasons that your buyers will use your system instead of your competitors system. Sometimes you don't necessarily need a USP. 
+
+If you are entering a market that is fairly untapped and there are a small number of competitors for a large audience,  your target market does not have access to or is willing to research your competition, or your competition can't handle the full load of the market, then this may be a little less important. But most of the time, especially in SaaS, you have a ton of competitors so you'd better have a great USP!
+
+### Is it worth it?
+
+As you start digging into your competitors systems you're going to find a lot of features that you didn't initially realize existed. You may  realize that some of your competitors have been in this industry for a long time and have very robust tools. 
+
+You may also realize that in order to catch up with them, you are going to need to spend a ton of money. For each new feature you realize is necessary, that is another month or two of work, tens of thousands of dollars, more knowledge base articles to write, more support that has to be done, etc. The 'is it worth it' question needs to stay on your mind throughout. Don't be afraid to admit that it may not be worth it, that's what validation is for.
+
+### The Product Twist & The Market Hole
+
+Not the dance, and not the 'pivot'; the twist is when you look at all your competitors and realize that there is a way to do exactly what they're already doing and beat them at their own game. There may be a way to do what they're already doing better or in a new way. The trick is, you have to really, really look at how they're all doing everything before you can figure out the twist and if it's worth it. Because as soon as you twist the product, they're going to follow suit, and if they've been doing this for a long time they may still crush you. So make sure you're sure it's worth it!
+
+The hole is the hole in the market. Once you know all your competitors and all their tools and all their target markets, then you can much more easily find the hole in the market. You can see where there is a market segment that isn't being served. If it's a market segment that is never going to be served then you're in great shape.
+
+## Storytime: The Market That Google Doesn't Want
+
+One of my companies, Map-Dynamics.com builds web-based mapping solutions for trade shows. The groups that run trade shows are associations, and people love associations. Well, maybe not your home owners association, but for any craft, profession, sport, or just about anything else, there is an association for it. 
+
+What do people who do a thing like to do at least once a year? Get together and talk about the thing that they do. It turns out, there are somewhere between 50,000 and 90,000 associations just in America! Each of these trade associations has an annual trade show at a convention center somewhere, and each of these shows needs a floor plan map. 
+
+In 2007 Jeremy and I realized that this was a market that Google was never going to touch because these maps would change minutes before the show started and even sometimes during the show. It wouldn't be worth the time for Google or any other large mapping company to edit the floor plan map multiple times per week leading up to a show and several times just before or during the show. Additionally, after some competitor analysis, we realized that almost every floor plan company was targeting the top 20% of trade shows, and there was no one serving the bottom 80%. So we choose a lower price and implemented a solution for the smaller shows. 
+
+I wouldn't say it was a smooth ride or that we exploded. But after twelve years, we're still here and just about all of our competition is gone. We did it by finding a niche that wasn't being served, that had the problem and the need, and we're fairly stubborn and just didn't give up.   
 
 
 

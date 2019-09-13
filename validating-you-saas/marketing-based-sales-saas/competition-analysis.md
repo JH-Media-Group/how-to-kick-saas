@@ -44,11 +44,15 @@ So let's take it a step further and clarify our search terms some. This time we'
 
 Three whole searches and I've only see the one ad for Cognism from the first search. When we take a look at the site, there's no on-page pricing, which means it's expensive. It also means that it's going to be on my list of companies to trial. But so what? Right now it looks like just Cognism and I are sitting on a gold mine, minus the buck fifty they paid when I clicked on their ad.
 
-### Step 2: Ask Facebook
+### Step 2: Social Media Requests
+
+Social media goes next because it can take a few days to get responses back from people. If you're entering a crowded market, you may want to consider skipping ahead. But if you think you're going to need to ask the audience, start here and then go on.
+
+#### Ask Facebook
 
 I need to ask some people who really know their stuff, so how about other SaaS entrepreneurs? It's their business, so they probably know. 
 
-My first stop, my good friend Sampath's group, SaaS Mantra. Here was my post:
+My first stop, my good friend Sampath's group, [SaaS Mantra](https://www.facebook.com/groups/saasmantra/). Here was my post:
 
 ![](../../.gitbook/assets/2019-09-11_01h00_55.png)
 
@@ -85,13 +89,27 @@ I didn't get as much here, but I did realize that I forgot to add to my indirect
 
 It also told me that either people don't care and won't answer in this group or that there is a general lack of knowledge about what is going on in the industry. Useful, but I already had what I was looking for from the other group. However, a few days after the post, I got another message from a contact from this group that informed me that there are literally hundreds of companies doing this exact same thing and that it is a really difficult thing to do, exactly like the last guys said. 
 
-### Step 3: Ask LinkedIn
+#### Ask LinkedIn
 
 Next up, ask the pros at LinkedIn. I went ahead and posted the same question, but with a new image on LinkedIn. From this post, I got a few answers, but nothing really helpful. LinkedIn recently has been a lot about viral videos and a lot less about real questions and answers. But if you have a knowledgeable network, it could still be helpful.
 
 ![](../../.gitbook/assets/2019-09-11_16h27_38.png)
 
-### Step 4: Search similar websites
+### Step 4: Seach ProductHunt.com
+
+If you're looking for a SaaS application or app, Producthunt.com is the spot to go. There are thousands of systems there there can be easily searched. Start off with just a basic search:
+
+![](../../.gitbook/assets/2019-09-13_00h09_16.png)
+
+You'll probably find what you're looking for right in the search console, but if not start scrolling through the results.
+
+![](../../.gitbook/assets/2019-09-13_00h09_37.png)
+
+If that doesn't work, then take it up a notch and post onto the makers discussion board. I would probably ask if anyone knows about your particular niche and try to find keywords or phrases that you're not familiar with to search for. From there, you can start again here, go back to Google, go back to Facebook, or move onto the next step.
+
+![](../../.gitbook/assets/2019-09-13_00h31_16.png)
+
+### Step 5: Search review sites and similar websites
 
 Now that we've got some insight and a list of competitors, let's do another search. This time though, let's not search Google, let's search a few review & comparison websites:
 
@@ -107,7 +125,9 @@ Now that we've got some insight and a list of competitors, let's do another sear
 
 ![](../../.gitbook/assets/2019-09-11_16h12_08.png)
 
-### Step 5: Check with SEO tools
+
+
+### Step 6: Check with SEO tools
 
 If you still don't have what you're looking for with your search engine, social, and review/similar site searches, then it's time to open up some tools to do the search. My favorite for this is Ahrefs.com. Sign up for the $7 trial, enter one competitor and search for their competing websites.
 
@@ -148,6 +168,34 @@ Here are our contenders:
 As you can see, there are a ton more in this than what we found in our first searches. It's also looking like that conversation with the developer who said that there are hundreds of competitors is proving to be true. 
 
 This is the point where I put the brakes on the project and decided that I did not in-fact want to pursue this project. But let's say that this list wasn't overwhelming or I thought that my system could compete against these players.  Then it would be time to move on to...
+
+## No Competition?
+
+It's not impossible that there is no competition, but it is fairly unlikely. The things to know if you can't find any competition are that:
+
+1. It may not be a viable market
+2. They already went out of business
+3. There is a monopoly 
+4. There is already a solution that does not require a SaaS
+5. Maybe you just stumbled onto a good idea that no one has come up with yet? Probably not though. It's not impossible, it happens every day. But it happens less and less every day. 
+
+### You probably haven't looked hard enough
+
+In the example above, I was able to pull from a group where I had great connections already and people know me. But in two out of three areas I didn't get much back. So my recommendation is to take the process I noted above and keep at it until you find your competitors. Google may not have all the answers, but just finding a few and then using G2 and sites like similarweb 
+
+### It may not be a viable market
+
+If no one is already doing this, then there is a good chance that it's not worth doing. It could be that the indirect competitors are too strong or robust to deal with, the market size is too small or unreachable, or that they just don't have much money to spend. Either way, it's important to remember that if no one else is doing this, that there is more than likely a good reason for that.
+
+### There is a monopoly
+
+Especially if you're competing in a regulated industry like healthcare, you have to watch out for monopolies. Groups with monopolies don't want everyone to know they have a monopoly, so sometimes you'll take a look at an industry that seems overripe for competition, but on a deeper look you'll realize that it's impossible to compete. For example, one of my companies was interested in competing with Health Grades for certain Centers for Medicare & Medicade Services data. It turns out there is a congress-mandated order that gives Health Grades a monopoly there. Unless you have some pretty high up friends, that one is untouchable. 
+
+### You stumbled onto a great idea with no competition
+
+The odds are low, but improbably things happen all the time. If you've done all your homework, talked to all the right people, searched and searched and search, and still haven't found any competition, then maybe you're on to something new. It could also be that you're applying a known system to a new industry or niche, which does happen all the time with a good probability of success. 
+
+If this is the case, then fantastic! But you still have to do the rest of the validation process. Just because there aren't any competitors to be found doesn't mean that people will buy the thing. In fact, it makes your validation process a bit harder because you don't have anything to compare this idea to. 
 
 ## Competitor Feature & Buyer Analysis
 
@@ -194,29 +242,54 @@ As you go through each competitor's system, be sure to dig for as much informati
 * How did the business get started?
 * How did you guys get your first customers?
 * Where do most of your customers come from?
+* Which feature is the most used?
 
+I like to really dig into questions about the specifics of customer demographics, features, usage, and customer support. Sales people love talking about their company, so ask open ended questions and let them talk. Also, you may find that the person you're talking to knows a little bit about how the system is developed. Make sure to ask a bit about that as well, you never know what valuable tidbits of information you'll find!
 
+{% hint style="info" %}
+Make sure to record the audio and screens during your recordings! You will really need this later. If you can't get recordings, take screenshots and have someone else watch and take notes as you do the demo.
+{% endhint %}
 
-* * Have you thoroughly researched your competition?
-  1. Do you have competition?
-     1. Yes - List your competitors
-        1. Company
-        2. List major features
-        3. List prices/pricing
-        4. What are the groups of people that your competitors are selling to?
-        5. Screenshot their pricing pages
-        6. Take a trial for each competitor
-     2. No
-        1. How did your search?
-        2. Did you call companies or people with the problem and ask how they solve it now?
-        3. Why is there no competition?
-           1. Not a viable market
-           2. Maybe you just stumbled onto a good idea that no one has come up with yet? Probably not though.
-           3. They already went out of business
-           4. There is a monopoly 
-           5. There is already a solution that does not require a SaaS
-     3. What are your indirect competitors?
-        1. Competition
-        2. What makes it indirect
-        3. What percent of the market do they own?
+Make sure you take note of every major feature for each competitor during or shortly after the demo. You're going to need to remember these features for the next step, and you're especially going to want to remember how the UX is organized if your system passes validation and gets into the design phase.
+
+### Features, Plans, & Pricing
+
+Now that you have a list of your top competitors and have looked over all of their features, you should know which companies are your primary competitors, if they have similar features, what systems you will and will not compete with them on, and if you really do have a unique selling proposition. 
+
+Now, take the top three to five and line them up side in the competitor features worksheet.
+
+![](../../.gitbook/assets/2019-09-12_20h20_40.png)
+
+Start off by naming each competitor at the top, then for each plan enter their:
+
+* Value Metric
+* Plans per competitor
+* Cost
+* Target buyer per plan
+* Features available for each plan
+* Highlighted features for each plan shown in your competitors pricing pages - these are generally the features at the top of the page that each user group is most interested in.
+
+For example, here is a the pricing page for Mattermark, not the highlighted areas:
+
+![](../../.gitbook/assets/2019-09-12_20h42_02%20%281%29.png)
+
+And here is ZoomInfo:
+
+![](../../.gitbook/assets/2019-09-12_20h41_26.png)
+
+These highlighted features are generally the features that are most important to each user group. Not only do these items give you insight on how to price your SaaS, they also show you what these companies have figured out that their customers value most. Please take a look at the [Appraisement chapter in this book for more on pricing](../../appraisement-pricing-your-saas/appraisement-saas-pricing.md).
+
+Now that you have your top competitors lined up, their general buyer groups worked out, and your competitors features examined, you can now really start asking yourself the following things:
+
+1. Do I have a unique selling proposition?
+2. Can I produce a competitive advantage?
+3. Is there a hole in the market?
+4. Could I twist this product to enter the market in a new way to be competitive?
+5. Do I need to produce the same features as my competition to be competitive?
+
+{% hint style="info" %}
+Just about all SaaS businesses have great margins, so if your competitive advantage is price, your competitors who are already in the market can probably change their prices to match yours. Be careful about listing price as a competitive advantage in SaaS!
+{% endhint %}
+
+Competitors are just one part of the equation though. You must also thoroughly understand your buyers, their markets, and more. Later in the book, in the chapter on [Appraisement](../../appraisement-pricing-your-saas/appraisement-saas-pricing.md), you will need to have a thorough understanding of buyers and competition to competitive price your product. 
 
