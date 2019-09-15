@@ -47,6 +47,13 @@ But clearly, you will need to know your path and how everything fits together. S
 7. Support your customers
 8. Grow your business and make money
 
+### Phase 4: Scale & Grow
+
+1. Grow user base
+2. Increase team size
+3. Grow market share
+4. Scale your company
+
 ### Every business is different.
 
 Every business is different, and things change a lot depending your system, your customers, and much, much more. But the process noted above is what I have seen more often than anything else. Most of the steps will be followed one way or another anyway. 
