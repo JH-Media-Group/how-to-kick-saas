@@ -37,6 +37,8 @@ This means that it either makes your target market’s job easier by doing somet
 
 ## Hollywood, TechCrunch, and The Truth About The Business of SaaS
 
+{% embed url="https://www.youtube.com/watch?v=WQ4rlDQcBco" %}
+
 Let's burst some bubbles and be real for just a minute. If you're reading this book, you're probably familiar with our internet overlords at Google and social media giant Facebook. You're probably also somewhat hooked on the Uber dreams and Slack desires. You probably read about how if you pitch the next great idea, raise some money, do some steps which you hope to read about in this book, then boom! Money. 
 
 In the words of the ridiculously successful software entrepreneur and [overall great guy Waikit Lau](https://www.linkedin.com/in/waikit-lau-89129/), current the founder of [RemoteHQ.com, a great rising Zoom competitor](https://www.remotehq.com/), "Techcrunch is Hollywood and Facebook is a one in a billion. Having a business like that is the equivalent to winning the lottery." 
@@ -75,6 +77,8 @@ Before we get too far along, let’s go through the basics. Below are a set of q
 As you can see, the majority of these questions are about pricing, sales, revenue, and business. These are the things that should be on your mind if they’re not already.
 
 ## The 4 A’s of Your SaaS Machine
+
+{% embed url="https://www.youtube.com/watch?v=3XW1SIsk0kE" %}
 
 Now that you've got a few things on your mind about sales and marketing, now it's time to think about the levers you can pull to grow your SaaS.
 

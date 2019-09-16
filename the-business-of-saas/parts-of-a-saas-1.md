@@ -4,6 +4,8 @@ Before getting into how you’re going to plan, price, build, sell, and grow you
 
 ## Public facing sales & marketing website
 
+{% embed url="https://www.youtube.com/watch?v=jeiR3JCvdhY" %}
+
 This is one of your primary sales and marketing tools. This tool can be very large or fairly simple, and it must explain to your target market:
 
 * The value of the system
@@ -25,7 +27,9 @@ These needs are generally met with an architecture consisting of the following p
 
 There are a lot of other pages that are often added to a SaaS system marketing website, but these are the items that most need to at least get started. [A full explanation of the public facing website is listed in the chapter on Acquisition](../acquisition-gaining-saas-users/the-marketing-website.md).
 
-## Account management system
+## User Account Management
+
+{% embed url="https://www.youtube.com/watch?v=Y46zeUkYsPA" %}
 
 The user management system, in this case, is referring to a system that enables the user to manage themselves and their account. The user management system includes aspects such as:
 
@@ -39,19 +43,17 @@ The user management system, in this case, is referring to a system that enables 
 
 ## User Onboarding
 
+{% embed url="https://www.youtube.com/watch?v=YiwydHdLmTg" %}
+
 When new users sign up for the system, the onboarding system takes them through basic setup and educates the user on how the system works, instills certainty that the system meets their needs, and gathers information from the user that is necessary for use of the system.
 
 The onboarding process is a key portion of both acquisition and retention. It integrates into your marketing and sales processes and is integral to the success of your system.
 
 User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../activiation/activation/onboarding.md) to improve this process with education, simplicity, UX, and processes.
 
-## Payments management system
-
-Payments management refers to a place where transactions, subscriptions, plans & editions, refunds, and other payment-related features can be viewed and processed. At the time of writing, commonly used systems were [BrainTree Payments](https://www.braintreepayments.com/), [Authorize.net](http://authorize.net/) and [Stripe](http://stripe.com/). However, most payment processors can be used for this purpose. Tools such as the ones noted above have great APIs for SaaS payment processing, but there are a large number of other payment processors that work just as well and are substantially less expensive.
-
-An important note about Stripe, BrainTree Payments, and other similar systems are that initially it is advantageous to start out using these systems because the initial cost of implementation is low, but after you hit a certain credit-card based revenue point, the cost of developing a custom system becomes lower than continuing to use these systems. That being said, my recommendation is to start out with product validation and the fastest, easiest system to build before adding any additional features. 
-
 ## User Payment Management Area
+
+{% embed url="https://www.youtube.com/watch?v=Kq3VDxrlYTE" %}
 
 This refers to the system used by users to manage their payments. This can be as simple as a list of invoices and as complicated as a system for increasing seats in the system, editions, and more. 
 
@@ -63,11 +65,23 @@ The user payments area needs to include, but is by no means limited to, transact
 
 ## Portal/Dashboard
 
+{% embed url="https://www.youtube.com/watch?v=MvFR47cBgpo" %}
+
 The portal or dashboard system generally refers to the main page the user sees after logging in and the interface on that page. When a user logs in, this is the area that they see where they can interact with the system, view system statistics, navigate to user and team management, and generally use your fancy SaaS system.
 
 When building your SaaS portal/dashboard system, I highly recommend using an extensible, pre-built framework for this such as Angular Material, Bootstrap, Foundation by Zurb, or one of the many systems utilizing a pre-built framework. Especially if you are building an MVP, having a system that can be modified quickly and easily is critical.
 
+## Payments management system
+
+{% embed url="https://www.youtube.com/watch?v=i1euNL8Wd7g" %}
+
+Payments management refers to a place where transactions, subscriptions, plans & editions, refunds, and other payment-related features can be viewed and processed. At the time of writing, commonly used systems were [BrainTree Payments](https://www.braintreepayments.com/), [Authorize.net](http://authorize.net/) and [Stripe](http://stripe.com/). However, most payment processors can be used for this purpose. Tools such as the ones noted above have great APIs for SaaS payment processing, but there are a large number of other payment processors that work just as well and are substantially less expensive.
+
+An important note about Stripe, BrainTree Payments, and other similar systems are that initially it is advantageous to start out using these systems because the initial cost of implementation is low, but after you hit a certain credit-card based revenue point, the cost of developing a custom system becomes lower than continuing to use these systems. That being said, my recommendation is to start out with product validation and the fastest, easiest system to build before adding any additional features. 
+
 ## Admin panel
+
+{% embed url="https://www.youtube.com/watch?v=ZuoyVdyG0I0" %}
 
 The administration panel is the top item in my opinion that is not considered or not fully considered by new entrepreneurs when planning out their SaaS. The admin panel is a system that enables the administrators of the system to manage data within the system. 
 
@@ -96,6 +110,8 @@ Some common features of the admin panel in a SaaS system include:
 {% endhint %}
 
 ## SaaS Transactional Email Management
+
+{% embed url="https://www.youtube.com/watch?v=mT3PEgF\_8oc" %}
 
 When you sign up for a SaaS and it sends you one of the following automated emails:
 
