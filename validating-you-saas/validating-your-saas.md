@@ -2,6 +2,8 @@
 
 ## This is the MOST IMPORTANT thing in the book, don't skip it.
 
+{% embed url="https://www.youtube.com/watch?v=ibjH2P7qbwY" %}
+
 A lot of people get started with an idea, skip the validation, hire a team, and get going on the build of their project. Then, they get to the sales part and don't have a plan in place, know who they are selling to, understand how to reach those people, know what to say, and often end up realizing that either they built something that was not worth building or cannot compete in the market. 
 
 ### What happens all the time:

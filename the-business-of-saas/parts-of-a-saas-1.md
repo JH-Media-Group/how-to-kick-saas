@@ -49,7 +49,7 @@ When new users sign up for the system, the onboarding system takes them through 
 
 The onboarding process is a key portion of both acquisition and retention. It integrates into your marketing and sales processes and is integral to the success of your system.
 
-User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../activiation/activation/onboarding.md) to improve this process with education, simplicity, UX, and processes.
+User onboarding systems vary drastically depending on what the system does. Take a look in the chapter on traction for more information on user [onboarding systems and tricks](../activiation/onboarding.md) to improve this process with education, simplicity, UX, and processes.
 
 ## User Payment Management Area
 

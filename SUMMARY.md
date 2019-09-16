@@ -124,6 +124,17 @@
 * [Email Marketing](acquisition-gaining-saas-users/email-marketing.md)
 * [The Marketing Website](acquisition-gaining-saas-users/the-marketing-website.md)
 
+## Activiation
+
+* [Activation](activiation/activation.md)
+* [Getting Personal](activiation/getting-personal.md)
+* [Stalking Your Users](activiation/stalking-your-users.md)
+* [Onboarding](activiation/onboarding.md)
+* [Training Webinars](activiation/training-webinars.md)
+* [Onboarding Emails](activiation/onboarding-emails.md)
+* [New User Tour](activiation/new-user-tour.md)
+* [Setup Checklist](activiation/setup-checklist.md)
+
 ## Attrition: Supporting Your Community and Growing Your Business
 
 * [Supporting Your SaaS Customers](attrition-supporting-your-community-and-growing-your-business/supporting-your-saas-customers.md)
@@ -138,10 +149,4 @@
 
 * [NOTES](notes/notes-1.md)
 * [The best growth hacks no one wants you to know](notes/the-best-growth-hacks-no-one-wants-you-to-know.md)
-
-## Activiation
-
-* [Activation](activiation/activation/README.md)
-  * [Onboarding](activiation/activation/onboarding.md)
-  * [Training Webinars](activiation/activation/training-webinars.md)
 
