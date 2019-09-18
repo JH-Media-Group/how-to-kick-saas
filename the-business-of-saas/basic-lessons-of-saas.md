@@ -36,6 +36,8 @@ If not, you may want to consider putting the computer down for a few minutes and
 
 ## **Lesson 2: The Number One Indicator of SaaS Success / You’re Probably Going To Fail… And That’s Ok.**
 
+{% embed url="https://www.youtube.com/watch?v=VQ\_\_DmO6k2U&t=10s" %}
+
 Here is the first big secret about SaaS success -- it’s important, and I hope will guide you through the rest of this journey. The number one indicator of success in SaaS, or any business for that matter, is how many times the person leading the startup has done it in the past. That’s it, that’s the number one, biggest thing.
 
 What that means to you is that you’re probably going to fail your first time, but that’s okay because now you know it’s going to happen and you need to start with something small so you can afford to fail. This is seriously one of the most important ideas in this entire book. Really.
@@ -88,6 +90,8 @@ Personally, I can tell you from my SaaS systems that the times we’ve had winne
 
 ## Lesson 4: Platform vs. Tool
 
+{% embed url="https://www.youtube.com/watch?v=kqHj-btI-AI" %}
+
 SaaS businesses can often be grouped into two different categories: platforms and tools. A tool is a system that does basically one thing really well. Whereas a platform is a system that is fully featured and users work in regularly.
 
 Examples of tools are systems such as:
@@ -107,6 +111,8 @@ Whereas a platform would be something more like
 Really, there is a spectrum and different systems fall all over the place. The thing to remember is that when you’re building a SaaS, especially your first SaaS, build a tool. Don’t make it do everything -- just do one thing and do it really, really well.
 
 ## **Lesson 5: A SaaS business is a sales and marketing company**
+
+{% embed url="https://www.youtube.com/watch?v=j0f4Nx8QcKE" %}
 
 Don’t like sales? Don’t start a SaaS.
 
@@ -143,6 +149,8 @@ The key here is to pick something so specific that you would know exactly how to
 If you can’t reach them, how will you sell to them?
 
 ## **Lesson 7: Little Problems become Big Problems fast at scale**
+
+{% embed url="https://www.youtube.com/watch?v=7FCvErrBV1w" %}
 
 The phone rings.
 
@@ -188,6 +196,8 @@ Because at scale, little problems become big problems really fast. It isn’t on
 When you’re working at scale on a system, a tiny little issue can blow up fast.
 
 ## **Lesson 8: The Easiest Way To Fail**
+
+{% embed url="https://www.youtube.com/watch?v=ibjH2P7qbwY" %}
 
 About five years ago someone reached out to me about their SaaS. They said, “I worked with a team and built an amazing system. We spent about 430k, and after all of this, I am sure I have no idea how to make this successful. You can have the entire thing if you will just work out some kind of arrangement to pay back the investors slowly over time. These were my friends, and I want their investment to be successful, but I know I cannot do it. Can you help me?”
 
