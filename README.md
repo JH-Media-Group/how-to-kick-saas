@@ -10,7 +10,7 @@ description: >-
 
 As the digital pages turn, you may realize that there are sections in this book that are incomplete or pages that end abruptly. 
 
-I put this book out there for anyone building a SaaS business, so that you wouldn't make the mistakes I have in my endeavors. Even though this text is incomplete, it still covers so many areas that I couldn't find consolidated anywhere else on the web. I hope you find value in this book, despite a few missing pages and some incongruities . 
+I put this book out there for anyone building a SaaS business, so that you wouldn't make the mistakes I have in my endeavors. Even though this text is incomplete, it still covers so many areas that I couldn't find consolidated anywhere else on the web. I hope you find value in this book, despite a few missing pages and some incongruities. 
 
 ## Get Notified When It’s All Done!
 
