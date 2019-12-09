@@ -55,7 +55,7 @@ You can also get me on linkedin at: [https://www.linkedin.com/in/jasonmlong1/](h
 * [www.medrevup.com](http://www.medrevup.com/)
 * [www.sensiblesurveys.com](https://www.sensiblesurveys.com)
 * [www.sellmydata.io](https://www.sellmydata.io)
-* [www.diagnosticsmarketing.net](www.diagnosticsmarketing.net)
+* [www.diagnosticsmarketing.net](https://diagnosticsmarketing.net/)
 * [www.jasonmlong.me](https://www.jasonmlong.me)
-* [www.adacompliancetesting.com](www.adacompliancetesting.com)
+* [www.adacompliancetesting.com](https://adacompliancetesting.com/)
 
