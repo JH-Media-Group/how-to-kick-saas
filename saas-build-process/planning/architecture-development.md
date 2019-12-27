@@ -4,7 +4,67 @@ Once you have a validated idea, a pre-sold system, and an estimate that makes bu
 
 This chapter takes you, in-depth through what goes into building an information architecture. Even though it is just one of the first steps in building your SaaS business, it is the step that is so often glossed over. Skimming this step will inevitably cost you a substantial amount of money in the long run. On the contrary, the more you have considered exactly what will and will not go into your system at each step, what will go into each feature, and what will make you money in your different phases then you will know what it takes to be successful in your SaaS business. 
 
-I cannot stress the important of being as thorough as possible in this step. 
+{% hint style="warning" %}
+I cannot stress the important of being as thorough as possible in the Information Architecture portion of your project. 
+{% endhint %}
+
+## What is an information architecture and why is it important?
+
+An information architecture is a written description of your system. It describes every section, every page, every feature, how people use the system and very often why. It outlines the goals of each system and subsystem and describes them in a way that both a lay-person and a developer can understand. More importantly, the description of the architecture is granular extensive so that a designer or developer working on the system can understand what it is that is to be created. 
+
+### A work in process
+
+An information architecture is a work it progress, it is rarely ever 'done'. Every change to the system, every modification that someone makes should be described as best as possible within this document. As the system progresses, it's a smart idea to add the new features and new systems into this document and keep an up to date description of what you're doing an why. 
+
+### Enterprise Agile vs. Agile or XP Methods
+
+Some people may say that this is a 'waterfall' method and that it goes against the grain of contemporary Agile or XP methods. To some extent this is true, but when developing a new system from scratch. Having this document well thought out from the beginning will save you countless hours of work and time. If your team is working on an existing system and adding to it, then perhaps there are other methods as well that would be just as good if not better. But if you're going from the ground up, this is the blueprint for your house. It is the survey, the plans, the electrical and plumbing, and it's where your concrete is being poured. 
+
+{% hint style="success" %}
+The information architecture is the central document of your planning methods and the linchpin of a fast and affordable product launch. It is what enables you and your team to understand what you're building, cost your system ahead of time, and visualize what you're building before it is built. 
+{% endhint %}
+
+### Costing, Build, & Getting To Market
+
+When building a SaaS, or any application, times and thus costs and deadlines can swing wildly with seemingly small changes to features. Knowing what you're building, how much time it will take, what changes impact different areas, and granularly breaking down cost and time estimates on your system are key to creating an a workable budget, building systems that can be rendered usable in a timely fashion, and therefore getting to market with enough budget left to market a working system. 
+
+The lack of understanding about the cost and time it will take to build a system from start to beta is one of the primary factors that keep many, many digital entrepreneurs from getting to market with their tools. Having a well defined and well thought-out information architecture prior to beginning development on a system is critical to all of these things. 
+
+## Parts of an information architecture
+
+Withing a SaaS platform, the information architecture generally consists of the following major areas:
+
+* System goals, user types, & user flows
+* Project-wide tasks & notes
+* Public-facing views
+* User type specific views and notes
+* Admin panel
+
+Each of these items are described below:
+
+### System goals, user types, & user flows
+
+Before you begin any journey, you need to know where you're going. System explanations lack clarity without an understanding of what the system solves for users, whether the system if solving a knowledge gap, time gap, or both, how different user types are defined and what aspects of the system they do and do not have access to, and what the major flow of a user is within the system. 
+
+#### System Goals
+
+System goals are not monetary goals, but usage goals. The system goals are descriptions of how the system helps users solve a problem. Preferably, this section states in-depth the step-by-step flow of a user from start to finish. Sometimes just writing out these goals help an entrepreneur or product manager realize things about their system that were hidden previously. In addition to the broad steps a user will take and what the system does, the system goals area may also include competitor benchmarks, product usage goals, and non-functional requirements like speed or load times. 
+
+#### User Types
+
+Without an understanding of who will use the system and what is important to their role, system features or requirements may not make sense. It may also be unclear as to the best ways to price systems or restrict access to certain features for certain user types if user goals are not understood. So a clear explanation of each user type, the user type's job role and reason for using the system, their permissions to different areas in the system, why they have been assigned those permissions, and the flow of each user through the system is necessary for your team to conceive system features and for team members to develop the system.
+
+{% hint style="info" %}
+If you can't explain it, how do you expect someone to build it?
+{% endhint %}
+
+#### User flows
+
+Very often, different user types have very different areas of your system they use or use them in very different areas. For example in a CRM system, a Sales Manager may be much more interested in the performance reports for their team than actually inputting anything into a CRM system, but may also need to delve deep into the call logs or emails for different sales people to assist them in increasing their conversion rates. The sales person is going to be entering data about the people they called and getting back reminders on who to call and what they talked about last. Finally, the CEO is primarily interested in the success of the group as a whole and forecasts on incoming sales which may simply be delivered to his enterprise business intelligence system via an API call. 
+
+All of these different user types are interested in different aspects of the system and may have different access to the different areas. Understanding how each user type uses the system and flows through it to meet their goals is an important first step for anyone reading the document, so it should be put at the top of the page. 
+
+### Project-Wide Tasks & Notes
 
 ## Chapter Outline
 
