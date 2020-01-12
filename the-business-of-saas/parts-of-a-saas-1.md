@@ -127,6 +127,8 @@ This is what is known as a ‘Transactional Email’. A transactional email is a
 
 ## User Tagging, Triggers, & Lead Scoring
 
+{% embed url="https://youtu.be/3pKwyGewCWo" %}
+
 This is probably the second most forgotten aspect of SaaS systems when an MVP is being developed. When a user signs up, you’re going to want to add them to your marketing email list, then when they take certain actions within the system, you’ll want to add them to different lists, automatically send them different kinds of information, and score them or mark them for upsells. If you implement a Chatbot, you’ll also want to know what your user is doing to best answer their needs in the most efficient way possible.
 
 For each of these actions, you’ll need a way to track the users within the system, know what they did and did not do that you wanted them to do, and generally how they used the system. This is something that is a lot easier to build in from the beginning than to add later. Besides, as soon as you launch your system, you’re going to want this data, so plan on building in at least a minimal system up front!
@@ -134,6 +136,8 @@ For each of these actions, you’ll need a way to track the users within the sys
 [For more on this, take a look at the chapter on marketing automation.](../acquisition-gaining-saas-users/marketing-automation-in-saas/)
 
 ## Third-Party Management, Tracking, & Reporting Tools Integration
+
+{% embed url="https://www.youtube.com/watch?v=lQnn3dp0JKs" %}
 
 As soon as you launch, you’re going to want to look at how people are using your system and interact with them outside of just emails. You’re going to need to know things like:
 
@@ -157,11 +161,15 @@ For all the questions listed above, there are SaaS systems to answer those quest
 
 ## API - Application Programming Interface
 
+{% embed url="https://www.youtube.com/watch?v=Rcxc7Sj6gAE" %}
+
 The API enables developers to work directly and securely with aspects of your system. If you want to enable other systems to get information into or out of your system, then you're going to need an API and documentation. With the exception of systems that are built specifically for developers or have some aspect that requires them to be connected to other systems, like an add-on or plugin into another system, then most systems start with just their core functionality and develop the API after phase 1. 
 
 But if the success of your application depends on being connected to other systems, then you're going to need to develop the API in the first phase of development. 
 
 ## Unit & Regression Testing
+
+{% embed url="https://www.youtube.com/watch?v=jR2jLher-MM" %}
 
 One of my top SaaS build lessons is on [unit and regression tests. ](../saas-build-process/saas-build-process.md#7-as-soon-as-you-have-project-validation-start-building-in-unit-tests)
 
@@ -171,9 +179,26 @@ There are a large variety of testing suites. [My favorite system for testing Saa
 
 ## Documentation
 
+{% embed url="https://www.youtube.com/watch?v=di6lvpvC9XU" %}
+
 In a SaaS product development process, you’re going to be doing a lot. It’s a complicated web of interweaving ideas, systems, people, and money. So WRITE DOWN WHAT YOU’RE DOING. Please, for your own good, write down as much as you possibly can and share it with everyone, because you’re going to need it, and you’re going to wish you had if you don’t.
 
 My recommendation for this is to [use Confluence](https://www.atlassian.com/software/confluence) for your documentation. It’s an Atlassian tool that integrates with JIRA, my top pick for development project management.
+
+## Customer Support Systems
+
+{% embed url="https://www.youtube.com/watch?v=YWAe\_rhjK9I" %}
+
+Customers are going to have questions, they're going to have problems, and they're going to want to talk to someone about all of this. You could just put your email out there and have people email back and forth with you, but that's going to get real messy real fast when you have hundreds of customers with thousands of questions and several customer support team members trying to answer those questions. 
+
+So rather than killing yourself and your reputation, how about starting off with a system that is going to help you manage tickets and requests right away? 
+
+My recommendations for getting started are:
+
+* Helpscout
+* Zendesk
+
+These systems all allow you to scale up and add more and more team members to a support infrastructure that will scale with your business. 
 
 ## Knowledge base
 
@@ -197,19 +222,6 @@ There are a ton of 3rd party knowledge base systems out there. Some that we have
 ### List of Knowledge base systems
 
 [Quora has a great list of systems here.](https://www.quora.com/What-is-the-best-knowledge-base-software) Take a look for a full list.
-
-## Customer Support Systems
-
-Customers are going to have questions, they're going to have problems, and they're going to want to talk to someone about all of this. You could just put your email out there and have people email back and forth with you, but that's going to get real messy real fast when you have hundreds of customers with thousands of questions and several customer support team members trying to answer those questions. 
-
-So rather than killing yourself and your reputation, how about starting off with a system that is going to help you manage tickets and requests right away? 
-
-My recommendations for getting started are:
-
-* Helpscout
-* Zendesk
-
-These systems all allow you to scale up and add more and more team members to a support infrastructure that will scale with your business. 
 
 
 
