@@ -35,6 +35,14 @@ This means that it either makes your target market’s job easier by doing somet
 
 **Every SaaS system does one or both of these things.** 
 
+## **SaaS is a Delivery Method, Not a Business Model**
+
+It's easy to think of 'SaaS' as a business, but it isn't. SaaS is just a way of delivering software products, and sometimes services, via the internet with no need to install a software system on a computer. This is often paired with subscription payment models. SaaS is a great business model because it enables you to charge in a way that lets you constantly maintain your team and grow you product and when or if you reach a certain threshold, have a higher than average profit margin. 
+
+However, these are just deliver methods, and not business models. For example, the tasks involved in delivering and implementing quality healthcare patient experience and analysis systems versus a system that enables you to optimize the delivery of your project scope of work documents to clients are two vastly different systems, even though they both fall under the category of SaaS. Most SaaS businesses have very different clients, outreach methods, customer feedback methods, products, services, types of employees, and so much more. 
+
+It is very important not to compare your system to other 'SaaS Systems' that may have nothing in common with you. Technically speaking Facebook and Twitter could be considered SaaS businesses, given what they do, and it would be a big ask to compare most companies to them.
+
 ## Hollywood, TechCrunch, and The Truth About The Business of SaaS
 
 {% embed url="https://www.youtube.com/watch?v=WQ4rlDQcBco" %}
