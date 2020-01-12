@@ -64,6 +64,33 @@ Very often, different user types have very different areas of your system they u
 
 All of these different user types are interested in different aspects of the system and may have different access to the different areas. Understanding how each user type uses the system and flows through it to meet their goals is an important first step for anyone reading the document, so it should ideally be at or near the top of the page. 
 
+## Considerations
+
+### Features, pages, & views
+
+Developers think in terms of features, or sets of functionality, whereas designers think in terms of pages or views. The reason for this is that the developer has sets of data that carry over and interconnect, whereas designers are often designing one page or view at a time. It doesn't really matter how you describe it, applications with GUIs are made of features built around pages and views. 
+
+### Project Size
+
+As your project size increases, the more important your architecture becomes for the initial build because small changes in the architecture can have large impacts on the cost and time to market. 
+
+### Team Size & Experience
+
+No matter your team size or level of experience, the more clearly your team can understand the vision of the project in beginning, the better they can bring it to life. This may break down at larger size projects, but this is almost always after there is a base system in place. If there is no foundation to begin with, just building the foundation will take a more surgical approach and cannot be done with a very large group anyway. 
+
+### Security
+
+Understanding system security requirements in the initial phases of the project can help influence progress of the system and should be considered. 
+
+1. Features, pages, & views
+2. Project size
+3. Team
+4. Security
+5. What is and is not necessary
+6. Order of areas
+7. Waterfall plan, Agile build
+8. Granularity & Meticulosity 
+
 ### Project-Wide Tasks & Notes
 
 Now that you have identified who uses your system, what their primary goals are, and how each user type uses the system, we start working on the architecture portion of the system. There are several top-level tasks that apply to all areas of the system or that must be done prior to starting work on features or pages. Later in this chapter we will dive into exactly what these top-level tasks include. 
