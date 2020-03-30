@@ -10,10 +10,7 @@ This book takes you through not just the build of the system, but the ideation, 
 
 A Software as a Service \(SaaS\) is a cloud-based or partially cloud-based computer program that is constantly being added to, improved, and maintained and that users pay for on an ongoing basis. Payments are generally made monthly or yearly, but can also be made in a variety of different ways. These systems almost always require additional business systems such as maintenance, customer service, a knowledge base, ongoing development resources, and more to continue to operate. SaaS systems often require a high initially investment, and often have a high profit margin. Commonly used SaaS systems include:
 
-, Zoom, Harvest, Strava, Spotify, G Suite, Hootsuite, JIRA,  and Slack.
-
 * Salesforce
-* SAP
 * Quickbooks
 * Asana
 * Zoom

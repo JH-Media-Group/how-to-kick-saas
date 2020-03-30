@@ -1,8 +1,12 @@
 # Basic Lessons of Saas
 
-## Check Out The Webinar:
+## Getting Started:
 
-{% embed url="https://www.youtube.com/watch?v=Ofps7jxU6Y0" %}
+There are some basic lessons of SaaS businesses that are valuable for every entrepreneur. Take out the word SaaS and for the most part these lessons apply to many businesses. The difference in SaaS vs. many other businesses is that of scaling quickly. 
+
+If you run a coffee shop on a busy day maybe you have thirty people in the store at one time, and perhaps a thousand over the course of a day.  In this case, the only way to grow you business would be to process more people faster or to get a larger space. But in a SaaS business, you are generally not confined by space or your ability to serve tens of people at one time, perhaps hundreds or thousands though, so you have to worry more about getting people into the store before other stores open up and marketing.
+
+The lessons below cover this issue and several other major issues that so often crush SaaS entrepreneurs. 
 
 ## Lesson 1: When you’re building a SaaS, you’re building a business. 
 
@@ -215,5 +219,13 @@ Validate your idea before you spend real money on it.
 
 So don’t build something just to let it all get flushed down the drain along with your well-being. By validating your idea, you will know where your money is going to be going, know what you should and should not spend money on, better work towards bringing in revenue early, and know where you need to cut things off.
 
-Understanding the cost of getting a system to market is just the first part of this lesson, the next is....
+Understanding the cost of getting a system to market is just the first part of this lesson, the next is in the next chapter on Process where we'll cover the step by step process to getting your system from ideation to growth.
+
+## Check Out The Webinar:
+
+If you want to watch this whole section take a look at the webinar:
+
+{% embed url="https://www.youtube.com/watch?v=Ofps7jxU6Y0" %}
+
+## 
 
