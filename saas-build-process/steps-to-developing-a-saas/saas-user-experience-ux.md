@@ -304,9 +304,7 @@ This process often takes the following steps:
 
 To effectively implement great user experience into a product, lead team members should have at least some training in user experience design. Leadership comes from the top and product owners need to be driving user experience. 
 
-To accomplish this, it is my recommendation that you take a course in UX. In this case, this would be a course designers take to learn UX design and would give you knowledge on processes expectations, methods, and much more.
-
-Once the senior product owner has been trained, other product owners will be trained as well in whatever way you see fit. 
+To accomplish this, it is my recommendation that team leaders take a course in UX. This could be a course designers take to learn UX design and would give team membres knowledge on processes expectations, methods, and much more.
 
 ## Recommended Reading
 
