@@ -61,7 +61,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         <td style="text-align:left">Have not actually used this system, but I hear it is great.</td>
     </tr>
   </tbody>
-</table>### Landing Pages & Lead Funnels
+</table>
+
+### Landing Pages & Lead Funnels
 
 <table>
   <thead>
@@ -122,7 +124,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       </td>
     </tr>
   </tbody>
-</table>### CRM
+</table>
+
+### CRM
 
 <table>
   <thead>
@@ -191,7 +195,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         </td>
     </tr>
   </tbody>
-</table>### SEO & Content Marketing
+</table>
+
+### SEO & Content Marketing
 
 <table>
   <thead>
@@ -272,7 +278,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Marketing Automation & Email Marketing
+</table>
+
+### Marketing Automation & Email Marketing
 
 <table>
   <thead>
@@ -344,7 +352,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         <td style="text-align:left">NOT RECOMMENDED.</td>
     </tr>
   </tbody>
-</table>### Social Media Management
+</table>
+
+### Social Media Management
 
 <table>
   <thead>
@@ -396,7 +406,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         </td>
     </tr>
   </tbody>
-</table>### Analytics & Metrics
+</table>
+
+### Analytics & Metrics
 
 <table>
   <thead>
@@ -448,7 +460,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       </td>
     </tr>
   </tbody>
-</table>### Time Tracking
+</table>
+
+### Time Tracking
 
 <table>
   <thead>
@@ -486,7 +500,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Communications
+</table>
+
+### Communications
 
 <table>
   <thead>
@@ -544,7 +560,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       <td style="text-align:left">3 / 5</td>
     </tr>
   </tbody>
-</table>### Title
+</table>
+
+### Title
 
 <table>
   <thead>
@@ -609,7 +627,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Project Planning & Documentation
+</table>
+
+### Project Planning & Documentation
 
 <table>
   <thead>
@@ -651,7 +671,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Code Repository
+</table>
+
+### Code Repository
 
 <table>
   <thead>
@@ -685,7 +707,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
         <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### ChatBots
+</table>
+
+### ChatBots
 
 <table>
   <thead>
@@ -734,7 +758,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Email Support
+</table>
+
+### Email Support
 
 <table>
   <thead>
@@ -769,7 +795,9 @@ Now that we’ve been through most of the different systems you’ll need or be 
       <td style="text-align:left">5 / 5</td>
     </tr>
   </tbody>
-</table>### Final note on SaaS systems for SaaS systems
+</table>
+
+### Final note on SaaS systems for SaaS systems
 
 There are a million systems out there that do pretty much anything you can think of. The list I gave you here are the ones that I’ve used or had some interaction with. If you’ve got great new ones, let me know and I can add it to the list. But only send over time-tested systems, this is a personally curated list and I don’t want it to turn into producthunt.com.  
 
