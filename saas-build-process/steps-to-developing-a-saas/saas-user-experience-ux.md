@@ -2,17 +2,21 @@
 
 ## What is UX? <a id="What-is-UX?"></a>
 
-Before getting started setting up UX processes, I think it is important for everyone to be on the same page about what UX is, how it works, what processes are used, and what the end result aims to be. So I started with this definition of UX. 
+Before getting started setting up UX processes, it is important to know what UX is, how it works, what processes are used, and what the end result aims to be. 
 
-I think you know a lot of this, but I think there may be some gaps, so I wrote up this explanation for you on how I perceive UX, why it’s important, and what it does. 
+### UX is a value delivery system
 
-Software systems do one or both of two things. They either save time, provide knowledge, or both and UX is the process of delivering that value. The value of a product, especially when compared to its competitors, is dependent upon its ability to deliver this knowledge or time savings, and the delivery of this information encapsulated within the user experience. Like a well-built yacht, nothing in great software is extraneous. Everything has function and is crafted meticulously. Through the combination of function, craft, and art, paired with the experience of use, beauty is created. 
+Software systems do one or both of two things. They either save time, provide knowledge, or both and UX is the process of delivering that value. The value of a product, especially when compared to its competitors, is dependent upon its ability to deliver this knowledge or time savings, and the delivery of this information encapsulated within the user experience. 
+
+{% hint style="info" %}
+Like a well-built yacht, nothing in great software is extraneous. Everything has function and is crafted meticulously. Through the combination of function, craft, and art, paired with the experience of use, beauty is created. 
+{% endhint %}
 
 A strong focus on UX is core to the success of any digital product with a user interface that is used on a regular basis. 
 
 ### Implementing UX <a id="Implementing-Great-UX"></a>
 
-The process of implementing great UX is the process of questioning every aspect of a system.
+The process of implementing great UX is the **process of questioning every aspect of a system.**
 
 This includes every button, every line of text, every shape, every size, every color, every space, every action, every state of every element, every process, and action a user takes for every kind of user within a system. This is done by analyzing every step critically, understanding the priority order of every element and every feature, and having a deep understanding of how people use software systems and processes. 
 
