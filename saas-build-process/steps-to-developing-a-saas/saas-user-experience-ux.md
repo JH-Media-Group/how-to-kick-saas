@@ -28,7 +28,7 @@ UX designers take systems that are complicated and make them seem easy. They mak
 
 Users and, very often, teammates don’t see the many, many revisions the hundreds of hours that went into that design, or the thousands of hours it took to become a person or team that could deliver a system that couldn’t be simpler to use. 
 
-**UX designers are problem solvers.** 
+### **UX designers are problem solvers.** 
 
 They use strong critical thinking skills paired with the ability to look at systems from multiple angles to ask the right question and determine how to deliver the best possible product. They don’t deliver what’s easy, they deliver what’s best for the user. 
 
@@ -48,11 +48,13 @@ Great UX designers have spent many years honing their skills in order to know th
 
 ### Non-UX Designers vs UX Designers
 
-Something that non-UX _designers_ don’t think about is that UX designers are not building just pages, they are building ‘views’ and ‘states’. The difference between a page and a state is that a page may have many states. 
+Somethings that non-UX designers \(ie. graphic designers, print designers, product designers, etc.\) often don’t think about that UX designers must consider is that they are not building just pages, they are building ‘views’ and ‘states’. The difference between a page and a state is that a page may have many states. 
 
-For example, on the simple side, when your mouse is over a button \(known as the rollover state\), someone has to show what this is going to look like. But it also gets a lot more complex because some pages have multiple actions that happen during a click, rollover, after a click. These can be things like notifications to the user, modal boxes \(popups\), and other changes to the ‘view’ of the page based on actions of users. 
+For example, when your mouse is over a button \(known as the rollover state\), someone has to show what this is going to look like. But it also gets a lot more complex because some pages have multiple actions that happen during a click, rollover, after a click. These can be things like notifications to the user, modal boxes \(popups\), and other changes to the ‘view’ of the page based on actions of users. This list is just the a small subset of the number of states that have to be considered by UX designers. They must consider these same states on every device type, screen size, input system \(mouse, keyboard, screen reader, gesture, touch-system, etc.\), and all of this paired with accessibility compliance. 
 
 ## Statistics on the impact of UX
+
+The list below was mostly pulled from [this blog article](https://www.intechnic.com/blog/100-ux-statistics-every-user-experience-professional-needs-to-know/).
 
 ### ROI of Good UX
 
@@ -105,7 +107,7 @@ For example, on the simple side, when your mouse is over a button \(known as the
 
 ## When a SaaS isn’t easy to use
 
-**If a SaaS system isn’t intuitive to use, for the most part people won’t use it.** 
+**If a SaaS system isn’t intuitive to use, for the most part, people won’t use it.** 
 
 Even worse, a lot of times when SaaS users leave, they don’t tell you why they’re leaving. They just don’t renew their subscription, bow out, and disappear into the anonymous gray of the internet. 
 
@@ -177,28 +179,28 @@ When working within an agile process to create an Iterative design process, a UX
 
 These are the questions that a UX designer will often ask. 
 
-1. User types
+1. **User types**
    1. Who are the users?
    2. How are different user types different?
    3. Why are different users using the system?
    4. What are the primary uses of the system for each user type?
    5. What are the different user types trying to accomplish?
-2. System architecture
+2. **System architecture**
    1. What are the variables used in the system?
    2. What data points need to be viewed, entered, and/or extracted from the system?
    3. What is the priority of each data point and why?
    4. How do data points fit together with other system features and what is the priority of those data points in other features?
-3. Improvement goals
+3. **Improvement goals**
    1. What is the goal of what we’re doing? 
    2. Why are we improving this system?
    3. What user type or types does the improvement apply to?
    4. How will their experience be improved?
    5. What are the quantitative and qualitative measures of success in this project?
-4. User flows
+4. **User flows**
    1. How does a user flow through the existing process?
    2. In what ways can this process be improved?
    3. What data is available to examine existing user flows?
-5. System elements
+5. **System elements**
    1. Are all elements necessary?
    2. Can any elements be simplified?
    3. Can any elements be removed?
@@ -208,11 +210,11 @@ These are the questions that a UX designer will often ask.
 
 UX Designers need to know as much as possible about how the entire system works to make the best decisions, so at the beginning of a project, there are very often more questions than answers. But this is in order to make the best system possible. 
 
-## Notes on Working with UX designers and teams <a id="Notes-on-Working-with-UX-designers-and-teams"></a>
+## Notes on Working with UX designers within development teams <a id="Notes-on-Working-with-UX-designers-and-teams"></a>
 
-### Writing user stories for designers vs developers <a id="Writing-user-stories-for-designers-vs-developers"></a>
+### User stories for designers vs developers <a id="Writing-user-stories-for-designers-vs-developers"></a>
 
-This may be one of the biggest differences that is not clear for Product Owners not used to working with designers. Designers are the problem solvers, not just the implementers. So stories should often be substantially broader and state the problem and expected solution, not necessarily the method of delivering the solution. 
+This may be one of the biggest differences that are not clear for Product Owners \(POs\) not used to working with designers. Designers are the problem solvers, not just the implementers. So stories should often be substantially broader and state the problem and expected solution, not necessarily the method of delivering the solution. 
 
 #### Story writing for designers <a id="Story-writing-for-designers"></a>
 
@@ -239,11 +241,15 @@ When writing stories for designers, the following items should be written:
 
 Very often, these broad user stories will be delivered to the designer months or weeks ahead of development and the designer will create variations of potential solutions to the problem which will then be reviewed by product owners, customers, and other stakeholders. These solutions will often go through multiple iterations before they are ready for development, where the product owner will write a set of stories that accompany designs. 
 
-Very often, the velocity of the team is elevated further by implementing a front-end development team that takes the UX design team’s work and develops only the interfaces while the ‘back end developers’ build the logic and database systems to implement the solution. 
+{% hint style="warning" %}
+**PROTIP:** Very often, the velocity of the team is elevated further by implementing a front-end development team that takes the UX design team’s work and develops only the interfaces while the ‘back end developers’ build the logic and database systems to implement the solution. 
+{% endhint %}
 
 ### UX Design may be timeboxed <a id="UX-Design-may-be-timeboxed"></a>
 
-Designers don’t like being timeboxed any more than other production team members, but design too may be timeboxed. As long as incomplete stories are noted and forthcoming changes are checked with product owners and developers, timeboxing may be applied. 
+If you're not familiar with the term "Time Boxing" this just means that the activity is done within a certain amount of time, for example, a two-week sprint. 
+
+Designers don’t like being timeboxed any more than other production team members, but design too may be timeboxed. As long as incomplete stories are noted and forthcoming changes are checked with product owners and developers, timeboxing may be applied. It may seem apparent, but it is also very important to inform your designer that they have a set time to complete the task and to ask them if the allotted time is enough to complete the task. 
 
 ### Copywriting is part of UX <a id="Copywriting-is-part-of-UX"></a>
 
@@ -255,7 +261,7 @@ Very often, UX designers will implement ideas into their designs that stakeholde
 
 ## Stakeholders
 
-Stakeholders are often the product owner, company leadership, sometimes customers, and other team members. Within substantially complex products, it is important to have subject matter experts who clearly understand the customer needs to be involved at every step of the UX process, especially during the planning and iteration on designs.  
+Stakeholders are often the product owner, company leadership, sometimes customers, and other team members. Within substantially complex products, it is important to have subject matter experts who clearly understand the customer needs to be involved at every step of the UX process, especially during the planning and iteration on designs. Like any other build team member, a UX designer benefits from being a subject matter expert, but they don't need to be one, so long as a subject matter expert is available to assist.  
 
 ### Stakeholders Meetings <a id="Stakeholders-Meetings"></a>
 
@@ -263,17 +269,17 @@ Stakeholders in the design process should meet at least twice a week to review d
 
 1. Review the previous meeting’s action items
 2. State and review the goal of the meeting
-3. Designer to present most recent designs and ask questions
-4. Identify what questions must be answered by team to move forward
+3. Designer to present the most recent designs and ask questions
+4. Identify what questions must be answered by the team to move forward
 5. Answer questions and create action items
 6. Review new timeline and ensure it will meet goals
 7. Wrap meeting
 
-Design meetings are notorious for adding scope creep and for disagreement among team members. It is important to have a decision-making process to quickly overcome disagreements. My recommendation for this company is a tie-breaking person between Jason and Gina for each group. 
+Design meetings are notorious for creating scope creep. It is important to have a decision-making process to quickly overcome disagreements. My recommendation for this company is a tie-breaking person between the team leaders. 
 
 ## UX Design Process <a id="UX-Design-Process"></a>
 
-Design process is iterative, meaning that the designer will go through multiple reviews before finalizing their designs. The process of designing features comes BEFORE the development of said features in most cases. Adding a designer into the middle of a development process with the expectation they can iterate very quickly on designs and meet with stakeholders within that time is a recipe for failure. 
+The design process is iterative, meaning that the designer will go through multiple reviews before finalizing their designs. The process of designing features comes BEFORE the development of said features in most cases. Adding a designer into the middle of a development process with the expectation they can iterate very quickly on designs and meet with stakeholders within that time is a recipe for failure. 
 
 This process often takes the following steps:
 
