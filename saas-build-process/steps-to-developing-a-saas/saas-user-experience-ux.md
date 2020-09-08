@@ -4,6 +4,10 @@
 
 Before getting started setting up UX processes, it is important to know what UX is, how it works, what processes are used, and what the end result aims to be. 
 
+{% hint style="warning" %}
+**PROTIP:** It doesn’t matter great your tool is, if your users can use it you’re probably going to fail. So we must build a system with great UX.
+{% endhint %}
+
 ### UX is a value delivery system
 
 Software systems do one or both of two things. They either save time, provide knowledge, or both and UX is the process of delivering that value. The value of a product, especially when compared to its competitors, is dependent upon its ability to deliver this knowledge or time savings, and the delivery of this information encapsulated within the user experience. 
@@ -21,36 +25,6 @@ The process of implementing great UX is the **process of questioning every aspec
 This includes every button, every line of text, every shape, every size, every color, every space, every action, every state of every element, every process, and action a user takes for every kind of user within a system. This is done by analyzing every step critically, understanding the priority order of every element and every feature, and having a deep understanding of how people use software systems and processes. 
 
 The knowledge of how users flow through systems is not based just based on intuition, it is based on evidence and a study of usability. UX designers go through the process of understanding the needs of users more than those users understand it themselves and delivering a system that meets these needs in ways that customers often cannot express. Product deliverables are based on the specifications, data-driven decisions, critical thinking, intuition, education, focused training, and experience.
-
-### What Do UX Designers Do? <a id="What-Do-UX-Designers-Do?"></a>
-
-UX designers take systems that are complicated and make them seem easy. They make processes with many variables easy to understand and flow through. They deliver systems that make sense. When users see these final deliverables and use those systems, they often think “of course it would be that way, how else could it possibly be?” 
-
-Users and, very often, teammates don’t see the many, many revisions the hundreds of hours that went into that design, or the thousands of hours it took to become a person or team that could deliver a system that couldn’t be simpler to use. 
-
-### **UX designers are problem solvers.** 
-
-They use strong critical thinking skills paired with the ability to look at systems from multiple angles to ask the right question and determine how to deliver the best possible product. They don’t deliver what’s easy, they deliver what’s best for the user. 
-
-Since business is at the core of most software systems, UX designers must think about the impact on business. They consider the bottom line and the impact of actions by users towards the goals of the company.
-
-### Great UX <a id="What-is-Great-UX?"></a>
-
-There is a difference between being a UX designer and being a great UX designer. Being great at UX doesn’t mean looking at systems and intuiting ways to do things or creating pretty pictures. It means having a study how users navigate programs, having read volumes on usability, it means examining and re-examining datasets and using that data to make decisions, then analyzing implementations to determine success. Then oftentimes, starting over to implement an even better system.
-
-People that are great at this profession have failed, sometimes at great cost, and learned from those failures. As in every profession, there is no substitute for experience. 
-
-Great UX designers have spent many years honing their skills in order to know the right questions to ask, how to ask, when to ask, and why to ask. They have also spent time becoming great at applying the answers as designs to make systems as usable as possible. This includes years of practice mastering design tools, different styles, different systems, and becoming a great designer, developer, businessperson, manager, artist, and critical thinker.
-
-{% hint style="warning" %}
-**PROTIP:** It doesn’t matter great your tool is, if your users can use it you’re probably going to fail. So we must build a system with great UX.
-{% endhint %}
-
-### Non-UX Designers vs UX Designers
-
-Somethings that non-UX designers \(ie. graphic designers, print designers, product designers, etc.\) often don’t think about that UX designers must consider is that they are not building just pages, they are building ‘views’ and ‘states’. The difference between a page and a state is that a page may have many states. 
-
-For example, when your mouse is over a button \(known as the rollover state\), someone has to show what this is going to look like. But it also gets a lot more complex because some pages have multiple actions that happen during a click, rollover, after a click. These can be things like notifications to the user, modal boxes \(popups\), and other changes to the ‘view’ of the page based on actions of users. This list is just the a small subset of the number of states that have to be considered by UX designers. They must consider these same states on every device type, screen size, input system \(mouse, keyboard, screen reader, gesture, touch-system, etc.\), and all of this paired with accessibility compliance. 
 
 ## Statistics on the impact of UX
 
@@ -152,7 +126,7 @@ In addition to actually creating designs, designers do a lot of things and bring
 * UX copywriting
 * Information architecture
 * ZMOT - Zero Moment of Truth
-* Accessibility/ADA Compliance
+* Accessibility Compliance
 * **AND SO** **MUCH MORE**
 
 ## UX designer information requirements <a id="UX-designer-information-requirements"></a>
@@ -307,8 +281,6 @@ To effectively implement great user experience into a product, lead team members
 To accomplish this, it is my recommendation that team leaders take a course in UX. This could be a course designers take to learn UX design and would give team membres knowledge on processes expectations, methods, and much more.
 
 ## Recommended Reading
-
-
 
 1. Here is more information on doing user/usability testing: [https://www.toptal.com/designers/ux-consultants/how-to-conduct-usability-testing-in-6-steps](https://www.toptal.com/designers/ux-consultants/how-to-conduct-usability-testing-in-6-steps)
 2. Google Material Design: [https://material.io/design/introduction\#components   ](https://material.io/design/introduction#components)
