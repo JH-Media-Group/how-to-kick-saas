@@ -12,7 +12,7 @@ So let me show you your path and outline the skills you'll need to walk that pat
 
 ## Standard SaaS Process steps:
 
-![](../.gitbook/assets/saas-general-process-2.png)
+![](../.gitbook/assets/taking-a-saas-to-market-process.png)
 
 Step by step, the process of developing your SaaS intertwines almost all aspects of business building, software development, customer acquisition and activation, and the aspects of minimizing attrition. Since many of the steps in this process overlap one another, it wouldn't make sense to write the book in order of the steps. 
 
