@@ -14,24 +14,32 @@ So let me show you your path and outline the skills you'll need to walk that pat
 
 ![](../.gitbook/assets/taking-a-saas-to-market-process.png)
 
-Step by step, the process of developing your SaaS intertwines almost all aspects of business building, software development, customer acquisition and activation, and the aspects of minimizing attrition. Since many of the steps in this process overlap one another, it wouldn't make sense to write the book in order of the steps. 
+Step by step, the process of developing your SaaS intertwines almost all aspects of business building, software development, customer acquisition and activation, and the aspects of minimizing attrition. 
 
-But clearly, you will need to know your path and how everything fits together. So in this section, I have outlined your process from start to finish and explained the principles of each area so you know where to start and where to go as you progress through the rest of the chapters.
+You will need to know your path and how everything fits together. So in this section, I have outlined your process from start to finish and explained the principles of each area so you know where to start and where to go as you progress through the rest of the chapters.
 
-## Phase 1: Business Validation
+## Phase 1: Business Validation & Presales
 
-Validating your business is THE MOST IMPORTANT THING you can do. It's so important that this book has an [entire chapter on product validation](../validating-you-saas/validating-your-saas.md). If you don't validate your idea, then your chance of success is absolutely minimal. I don't mean one in ten, I mean that you have more like one in one hundred thousand chance of being successful. A lot of people reading this book will know that they already have a market waiting for them and can test that market. For example, if you run a digital agency and have an idea for a new product that you can't find online right now for a niche market, it's so easy to validate your market. But if you have a good idea and get started building it without testing, you're probably just throwing your money away. Be sure not to skip the [Validation chapter](../validating-you-saas/validating-your-saas.md)!
+Validating your business is **THE MOST IMPORTANT THING** you can do. It's so important that this book has an [entire chapter on product validation](../validating-you-saas/validating-your-saas.md). 
 
-Before you can begin validating your product though, you have to understand what kind of sale it will be. Is this the kind of sale that you will get by marketing your product on the internet, by calling people and going to trade shows, or by distributing through an existing channel? Is this a business to business \(B2B\) sale or a business to consumer \(B2C\) sale? There are so many questions that help you determine who you're reaching, how you're reaching them, and if you really have a product market fit \(PMF\). Understanding who you're selling to, how your sales are done, and why people will buy your product are critical elements in forming your first hypotheses in your validation process.
+If you don't validate your idea, then your chance of success is absolutely minimal. I don't mean one in ten, I mean that you have more like one in one thousand or less chance of being successful. But if you have a good idea and get started building it without testing, you're probably just throwing your money away. Be sure not to skip the [Validation chapter](../validating-you-saas/validating-your-saas.md)!
 
-Once you have some amount of product validation, the more the better, then and only then, can you move on to the next steps.
+When validating your business, you need to ask yourself questions including:
 
-To review, your process will be:
+* Why are you doing this?
+* Do you know the market?
+* Do you understand the competition?
+* What will differentiate your business from the competition?
+* Do you have existing distribution channels? If not, do you know how to get them?
+* What kind of sale is this? Is it a marketing-based sale or a direct sale or some mix of the two?
+* Do you have quantified personas for your buyers? In other words, do you know how your target markets are segmented, how much each is worth, and what messaging should be used to target each market segment?
+* Have you surveyed your buyers to make sure you understand them and that they are willing to make a purchase at your price?
+* What is the cost to build and operate?
+* What is the cost to market and sell?
+* Is your full pricing model accepted?
+* Does your accounting model make sense? As in, are you going to be able to grow fast enough and well enough to make this work?
 
-1. Are you selling B2B or B2C?
-2. Do you sell via Direct Sales vs Marketing-based sales?
-3. Validation processes
-4. Validation success
+It may sound like a lot of questions and a lot of work, but it's a lot easier to answer a few questions than explain to yourself, your investors, or your partner or spouse what happened to all their money. 
 
 ### Phase 2: MVP, Community, SEO, The Hook & List
 
