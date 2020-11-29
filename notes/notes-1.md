@@ -1,6 +1,6 @@
 # NOTES
 
- how to use customers from your ltd to become brand advocatesactivation is not thereyou can run promotionsreferral dealssee how often they are using your app - identify who is actively using the tool - who use sometimes - who never take action - people who signed up because it is free  
+ how to use customers from your ltd to become brand advocates activation is not there you can run promotions referral deals see how often they are using your app - identify who is actively using the tool - who use sometimes - who never take action - people who signed up because it is free  
 see who is willing to engage with you send emails with surveys
 
 * what stops you from using the tool?
